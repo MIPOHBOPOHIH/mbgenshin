@@ -22,7 +22,22 @@ parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default
 
 
 def format_date(date: "datetime"):
-	@@ -41,16 +41,16 @@ async def main():
+    tz = pytz.timezone("Asia/Jakarta")
+    now = date.now(tz=tz)
+    fmt = f"{now.strftime('%b')} \
+            {now.strftime('%d')}, \
+            {now.strftime('%Y')} \
+            {now.strftime('%H:%M %z')}"
+    return fmt
+
+
+async def main():
+    args = parser.parse_args()
+
+    # type: <class 'str'>
+    _c = os.getenv("COOKIES")
+    # must loads to dict
+    cookies = json.loads(_c)
 
     client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
 
