@@ -1,6 +1,6 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Обновлено в <u>Apr 19, 2023 16:34 +0300</u> (🤖автоматически)
+  🕒 Обновлено в <u>Apr 19, 2023 19:56 +0300</u> (🤖автоматически)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Всего наград забрано</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Последняя забранная награда</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>515</td>
+    <td>516</td>
   </tr>
   <tr>
     <td>Characters</td>
