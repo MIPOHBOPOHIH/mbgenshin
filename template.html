@@ -1,20 +1,20 @@
-<h1 align="center">Kiizuha's Genshin Stats</h1>
-<h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖automated)</h3>
+<h1 align="center">mipohbopohih Статистика Genshin</h1>
+<h3 align="center">🕒 Обновлено в <u>{{ updated_at }}</u> (🤖автоматически)</h3>
 <br>
 
-<h2>Daily Rewards</h2>
+<h2>Ежедневные награды</h2>
 <table>
     <tr>
-        <td>Total Rewards Claimed</td>
+        <td>Всего наград забрано</td>
         <td>{{ reward_info.claimed_rewards }}</td>
     </tr>
     <tr>
-        <td>Last Claimed Reward</td>
+        <td>Последняя забранная награда</td>
         <td>{{ reward.amount }} x {{ reward.name }}</td>
     </tr>
 </table>
 
-<h2>Stats</h2>
+<h2Статистика</h2>
 <table>
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
@@ -24,7 +24,7 @@
     {%- endfor -%}
 </table>
 
-<h2>Exploration</h2>
+<h2Исследование</h2>
 <table>
     <tr>
         {%- for exploration in user.explorations -%}
@@ -43,7 +43,7 @@
         <td>
             <table>
                 <tr>
-                    <td>Explored</td>
+                    <td>Изучено</td>
                     <td>
                         <img
                         src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
@@ -61,48 +61,48 @@
 </table>
 
 {%- if user.teapot -%}
-<h2>Teapot</h2>
+<h2>Чайник безмятежности</h2>
 <table>
     <tr>
-        <td>Level</td>
+        <td>Уровень</td>
         <td>{{ user.teapot.level }}</td>
     </tr>
     <tr>
-        <td>Comfort</td>
+        <td>Комфорт</td>
         <td>{{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
     </tr>
     <tr>
-        <td>Items</td>
+        <td>Вещи</td>
         <td>{{ user.teapot.items }}</td>
     </tr>
     <tr>
-        <td>Visitors</td>
+        <td>Компаньоны</td>
         <td>{{ user.teapot.visitors }}</td>
     </tr>
 </table>
 {%- endif -%}
 
 {%- if abyss.floors|length -%}
-<h2>Spiral Abyss</h2>
+<h2>Витая Бездна</h2>
 <table>
     <tr>
-        <td>Season</td>
+        <td>Сезон</td>
         <td>{{ abyss.season }}</td>
     </tr>
     <tr>
-        <td>Total Battles</td>
+        <td>Всего сражений</td>
         <td>{{ abyss.total_battles }}</td>
     </tr>
     <tr>
-        <td>Total Wins</td>
+        <td>Всего побед</td>
         <td>{{ abyss.total_wins }}</td>
     </tr>
     <tr>
-        <td>Max Floor</td>
+        <td>Максимальный этаж</td>
         <td>{{ abyss.max_floor }}</td>
     </tr>
     <tr>
-        <td>Total Stars</td>
+        <td>Всего занзд</td>
         <td>{{ abyss.total_stars }}</td>
     </tr>
     {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
@@ -118,14 +118,14 @@
 </table>
 {%- endif -%}
 
-<h2>Diary</h2>
+<h2>Дневник приключений</h2>
 <table>
     <tr>
-        <td>Primogems earned</td>
+        <td>Камней Истока заработано</td>
         <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
     </tr>
     <tr>
-        <td>Mora earned</td>
+        <td>Моры заработано</td>
         <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
     </tr>
 </table>
 
-<h2>Characters</h2>
+<h2>Персонажи</h2>
 {%- for character in user.characters -%}
     {%- if user.characters.index(character) == 0 -%}
         <details open>
@@ -165,27 +165,27 @@
             <td>
                 <table>
                     <tr>
-                        <td>Rarity</td>
+                        <td>Редкость</td>
                         <td>{{ character.rarity }}</td>
                     </tr>
                     <tr>
-                        <td>Element</td>
+                        <td>Элемент</td>
                         <td>{{ character.element }}</td>
                     </tr>
                     <tr>
-                        <td>Level</td>
+                        <td>Уровень</td>
                         <td>{{ character.level }}</td>
                     </tr>
                     <tr>
-                        <td>Friendship</td>
+                        <td>Уровень дружбы</td>
                         <td>{{ character.friendship }}</td>
                     </tr>
                     <tr>
-                        <td>Constellation</td>
+                        <td>Созвездий</td>
                         <td>{{ character.constellation }}</td>
                     </tr>
                     <tr>
-                        <td>Artifacts</td>
+                        <td>Артифакты</td>
                         <td>
                             {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
                             {%- for name in sets|unique -%}
@@ -194,7 +194,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Outfits</td>
+                        <td>Наряды</td>
                         <td>{{ character.outfits|join(", ", attribute="name") }}</td>
                     </tr>
                 </table>
@@ -202,19 +202,19 @@
             <td valign="top">
                 <table>
                     <tr>
-                        <td>Name</td>
+                        <td>Название</td>
                         <td>{{ character.weapon.name }}</td>
                     </tr>
                     <tr>
-                        <td>Rarity</td>
+                        <td>Редкость</td>
                         <td>{{ character.weapon.rarity }}</td>
                     </tr>
                     <tr>
-                        <td>Level</td>
+                        <td>Уровень</td>
                         <td>{{ character.weapon.level }}</td>
                     </tr>
                     <tr>
-                        <td>Refinement</td>
+                        <td>Пробуждение</td>
                         <td>{{ character.weapon.refinement }}</td>
                     </tr>
                 </table>
