@@ -1,22 +1,22 @@
-<h1 align="center">Kiizuha's Genshin Stats</h1>
+<h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Updated at <u>Apr 19, 2023 19:08 +0700</u> (🤖automated)
+  🕒 Обновлено в <u>Apr 19, 2023 20:28 +0700</u> (🤖автоматически)
 </h3>
 <br />
 
-<h2>Daily Rewards</h2>
+<h2>Ежедневные награды</h2>
 <table>
   <tr>
-    <td>Total Rewards Claimed</td>
+    <td>Всего наград забрано</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>Last Claimed Reward</td>
+    <td>Последняя забранная награда</td>
     <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
-<h2>Stats</h2>
+<h2>Статистика</h2>
 <table>
   <tr>
     <td>Achievements</td>
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-<h2>Exploration</h2>
+<h2>Исследование</h2>
 <table>
   <tr>
     <th>Sumeru</th>
@@ -158,7 +158,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/28/" width="80" />
           </td>
@@ -172,7 +172,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/57/" width="80" />
           </td>
@@ -186,7 +186,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/38/" width="80" />
           </td>
@@ -200,7 +200,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/66/" width="80" />
           </td>
@@ -214,7 +214,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/92/" width="80" />
           </td>
@@ -228,7 +228,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/97/" width="80" />
           </td>
@@ -242,7 +242,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/87/" width="80" />
           </td>
@@ -256,7 +256,7 @@
     <td>
       <table>
         <tr>
-          <td>Explored</td>
+          <td>Изучено</td>
           <td>
             <img src="https://progress-bar.dev/98/" width="80" />
           </td>
@@ -269,61 +269,51 @@
     </td>
   </tr>
 </table>
-<h2>Teapot</h2>
+<h2>Чайник безмятежности</h2>
 <table>
   <tr>
-    <td>Level</td>
+    <td>Уровень</td>
     <td>10</td>
   </tr>
   <tr>
-    <td>Comfort</td>
+    <td>Комфорт</td>
     <td>Fit for a King (24290)</td>
   </tr>
   <tr>
-    <td>Items</td>
+    <td>Вещи</td>
     <td>782</td>
   </tr>
   <tr>
-    <td>Visitors</td>
+    <td>Компаньоны</td>
     <td>17</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
+<h2>Витая Бездна</h2>
 <table>
   <tr>
-    <td>Season</td>
+    <td>Сезон</td>
     <td>67</td>
   </tr>
   <tr>
-    <td>Total Battles</td>
+    <td>Всего сражений</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>Total Wins</td>
+    <td>Всего побед</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>Max Floor</td>
+    <td>Максимальный этаж</td>
     <td>10-2</td>
   </tr>
   <tr>
-    <td>Total Stars</td>
+    <td>Всего занзд</td>
     <td>15</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        ,
-        height="18"
-      />
-      Diona (5)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -333,7 +323,17 @@
         ,
         height="18"
       />
-      Fischl (5)<br />
+      Fischl (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (5)<br />
     </td>
   </tr>
   <tr>
@@ -392,14 +392,14 @@
     </td>
   </tr>
 </table>
-<h2>Diary</h2>
+<h2>Дневник приключений</h2>
 <table>
   <tr>
-    <td>Primogems earned</td>
+    <td>Камней Истока заработано</td>
     <td>3216 (rate -23)</td>
   </tr>
   <tr>
-    <td>Mora earned</td>
+    <td>Моры заработано</td>
     <td>4394277 (rate 24)</td>
   </tr>
   <tr>
@@ -412,7 +412,7 @@
   </tr>
 </table>
 
-<h2>Characters</h2>
+<h2>Персонажи</h2>
 <details open>
   <summary><b>Diluc</b></summary>
   <br />
@@ -441,33 +441,33 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               4 x Crimson Witch of Flames<br />1 x Bloodstained Chivalry<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -475,19 +475,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Prototype Archaic</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>4</td>
           </tr>
         </table>
@@ -523,34 +523,34 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               1 x Pale Flame<br />3 x Bloodstained Chivalry<br />1 x Gladiator's
               Finale<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -558,19 +558,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Wolf's Gravestone</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>2</td>
           </tr>
         </table>
@@ -606,31 +606,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>1 x The Exile<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -638,19 +638,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Snow-Tombed Starsilver</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -686,31 +686,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Dendro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -718,19 +718,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>The Flute</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -766,34 +766,34 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>80</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               1 x Gladiator's Finale<br />1 x Bloodstained Chivalry<br />1 x
               Blizzard Strayer<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -801,19 +801,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Amenoma Kageuchi</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -849,31 +849,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Hydro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>80</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>4 x Noblesse Oblige<br />1 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -881,19 +881,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Sacrificial Sword</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -929,31 +929,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Anemo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>80</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>8</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>1 x Gladiator's Finale<br />3 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -961,19 +961,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>White Tassel</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -1009,31 +1009,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Hydro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>4 x Tenacity of the Millelith<br />1 x Maiden Beloved<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1041,19 +1041,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -1089,34 +1089,34 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Hydro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               3 x Maiden Beloved<br />1 x Wanderer's Troupe<br />1 x Gladiator's
               Finale<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>Summertime Sparkle</td>
           </tr>
         </table>
@@ -1124,19 +1124,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>90</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -1172,31 +1172,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>9</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>1 x Gladiator's Finale<br />4 x Instructor<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1204,19 +1204,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Prototype Rancour</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -1252,34 +1252,34 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Geo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               2 x Husk of Opulent Dreams<br />2 x Gladiator's Finale<br />1 x
               Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1287,19 +1287,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Whiteblind</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -1335,31 +1335,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1367,19 +1367,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Dragon's Bane</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>4</td>
           </tr>
         </table>
@@ -1415,34 +1415,34 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>63</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               1 x Instructor<br />1 x Emblem of Severed Fate<br />1 x Blizzard
               Strayer<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1450,19 +1450,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Recurve Bow</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>2</td>
           </tr>
         </table>
@@ -1498,31 +1498,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1530,19 +1530,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Dodoco Tales</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -1578,31 +1578,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1610,19 +1610,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Dull Blade</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -1658,31 +1658,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Anemo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>10</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>1 x Wanderer's Troupe<br />4 x Viridescent Venerer<br /></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1690,19 +1690,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>The Widsith</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>2</td>
           </tr>
         </table>
@@ -1738,31 +1738,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Geo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>8</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1770,19 +1770,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Cinnabar Spindle</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -1818,33 +1818,33 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>8</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               4 x Wanderer's Troupe<br />1 x Tenacity of the Millelith<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>Ein Immernachtstraum</td>
           </tr>
         </table>
@@ -1852,19 +1852,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>The Stringless</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -1900,31 +1900,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>60</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -1932,19 +1932,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Luxurious Sea-Lord</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>80</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -1980,31 +1980,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Anemo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>9</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2012,19 +2012,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Waster Greatsword</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2060,31 +2060,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Anemo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2092,19 +2092,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Skyward Atlas</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>80</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2140,31 +2140,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2172,19 +2172,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Apprentice's Notes</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2220,31 +2220,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2252,19 +2252,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Predator</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2300,31 +2300,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Hydro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>Pact of Stars and Moon</td>
           </tr>
         </table>
@@ -2332,19 +2332,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Apprentice's Notes</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2380,31 +2380,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2412,19 +2412,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Silver Sword</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2460,31 +2460,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2492,19 +2492,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Debate Club</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -2540,31 +2540,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2572,19 +2572,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Beginner's Protector</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2620,31 +2620,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Geo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>Orchid's Evening Gown</td>
           </tr>
         </table>
@@ -2652,19 +2652,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Favonius Codex</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>50</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>2</td>
           </tr>
         </table>
@@ -2700,33 +2700,33 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Dendro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td>
               4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2734,19 +2734,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Toukabou Shigure</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>70</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -2782,31 +2782,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>5</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Dendro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2814,19 +2814,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Apprentice's Notes</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -2862,31 +2862,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>2</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>A Sobriquet Under Shade</td>
           </tr>
         </table>
@@ -2894,19 +2894,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Emerald Orb</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>5</td>
           </tr>
         </table>
@@ -2942,31 +2942,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>6</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -2974,19 +2974,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>The Bell</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3022,31 +3022,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Pyro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>26</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>100% Outrider</td>
           </tr>
         </table>
@@ -3054,19 +3054,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Hunter's Bow</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3102,31 +3102,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Dendro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3134,19 +3134,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Hunter's Bow</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3182,31 +3182,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td>To the Church's Free Spirit</td>
           </tr>
         </table>
@@ -3214,19 +3214,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Favonius Lance</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3262,31 +3262,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Geo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3294,19 +3294,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Hunter's Bow</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3342,31 +3342,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3374,19 +3374,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Rust</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>40</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>2</td>
           </tr>
         </table>
@@ -3422,31 +3422,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Anemo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3454,19 +3454,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Apprentice's Notes</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3502,31 +3502,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Geo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>3</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3534,19 +3534,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Beginner's Protector</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3582,31 +3582,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Electro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3614,19 +3614,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Waster Greatsword</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3662,31 +3662,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Cryo</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>0</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3694,19 +3694,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Dull Blade</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
@@ -3742,31 +3742,31 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>4</td>
           </tr>
           <tr>
-            <td>Element</td>
+            <td>Элемент</td>
             <td>Dendro</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>20</td>
           </tr>
           <tr>
-            <td>Friendship</td>
+            <td>Уровень дружбы</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Constellation</td>
+            <td>Созвездий</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Artifacts</td>
+            <td>Артифакты</td>
             <td></td>
           </tr>
           <tr>
-            <td>Outfits</td>
+            <td>Наряды</td>
             <td></td>
           </tr>
         </table>
@@ -3774,19 +3774,19 @@
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
+            <td>Название</td>
             <td>Beginner's Protector</td>
           </tr>
           <tr>
-            <td>Rarity</td>
+            <td>Редкость</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Level</td>
+            <td>Уровень</td>
             <td>1</td>
           </tr>
           <tr>
-            <td>Refinement</td>
+            <td>Пробуждение</td>
             <td>1</td>
           </tr>
         </table>
