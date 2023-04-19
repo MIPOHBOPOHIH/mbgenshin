@@ -22,7 +22,7 @@ parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default
 
 
 def format_date(date: "datetime"):
-    tz = pytz.timezone("Asia/Jakarta")
+    tz = pytz.timezone("Europe/Moscow")
     now = date.now(tz=tz)
     fmt = f"{now.strftime('%b')} \
             {now.strftime('%d')}, \
