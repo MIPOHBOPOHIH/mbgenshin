@@ -14,7 +14,7 @@
     </tr>
 </table>
 
-<h2Статистика</h2>
+<h2>Статистика</h2>
 <table>
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
@@ -24,7 +24,7 @@
     {%- endfor -%}
 </table>
 
-<h2Исследование</h2>
+<h2>Исследование</h2>
 <table>
     <tr>
         {%- for exploration in user.explorations -%}
