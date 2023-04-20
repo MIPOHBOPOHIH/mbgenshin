@@ -1,6 +1,6 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Обновлено в <u>Apr 19, 2023 19:56 +0300</u> (🤖автоматически)
+  🕒 Обновлено в <u>Apr 20, 2023 15:08 +0300</u> (🤖автоматически)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Всего наград забрано</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Последняя забранная награда</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>638</td>
+    <td>639</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>516</td>
+    <td>517</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -165,7 +165,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -314,6 +314,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (5)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -323,17 +333,7 @@
         ,
         height="18"
       />
-      Fischl (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (5)<br />
+      Fischl (5)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Камней Истока заработано</td>
-    <td>3216 (rate -23)</td>
+    <td>3596 (rate -14)</td>
   </tr>
   <tr>
     <td>Моры заработано</td>
-    <td>4394277 (rate 24)</td>
+    <td>4729213 (rate 33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 740 (24%)<br />Mail: 720 (23%)<br />Daily Activity: 670 (21%)<br />Quests:
-      500 (15%)<br />Adventure: 326 (10%)<br />Spiral Abyss: 250 (7%)<br />Other:
+      Events: 1040 (29%)<br />Daily Activity: 730 (21%)<br />Mail: 720 (21%)<br />Quests:
+      500 (14%)<br />Adventure: 346 (9%)<br />Spiral Abyss: 250 (6%)<br />Other:
       10 (0%)<br />
     </td>
   </tr>
@@ -3599,7 +3599,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Артифакты</td>
