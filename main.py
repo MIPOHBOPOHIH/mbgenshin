@@ -18,8 +18,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-t", "--template", default="template.html", type=pathlib.Path)
 parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
 parser.add_argument("-c", "--cookies", default=None)
-parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="ru-ru")
-#parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+#parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="ru-ru")
+parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
 def format_date(date: "datetime"):
     tz = pytz.timezone("Europe/Moscow")
