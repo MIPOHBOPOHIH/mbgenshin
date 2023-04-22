@@ -18,8 +18,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-t", "--template", default="template.html", type=pathlib.Path)
 parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
 parser.add_argument("-c", "--cookies", default=None)
-parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="ru-ru")
-#parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+#parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="ru-ru")
+parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
 def format_date(date: "datetime"):
     tz = pytz.timezone("Europe/Moscow")
@@ -40,23 +40,22 @@ async def main():
     cookies = json.loads(_c)
 
     client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
-    #await genshin.utility.update_characters_any()
-    user = await genshin.utility.update_characters_genshindata(0, lang="ru-ru")
+    user = await client.get_full_genshin_user(0, lang=args.lang)
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
     diary = await client.get_diary()
 
     try:
-        await client.claim_daily_reward(lang="ru-ru", reward=False)
+        await client.claim_daily_reward(lang=args.lang, reward=False)
     except genshin.AlreadyClaimed:
         pass
     finally:
-        reward = await client.claimed_rewards(lang="ru-ru").next()
+        reward = await client.claimed_rewards(lang=args.lang).next()
         reward_info = await client.get_reward_info()
 
     template: jinja2.Template = jinja2.Template(args.template.read_text())
     rendered = template.render(
         user=user,
-        lang="ru-ru",
+        lang=args.lang,
         abyss=abyss,
         reward=reward,
         diary=diary,
