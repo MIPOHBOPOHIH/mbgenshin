@@ -41,7 +41,7 @@ async def main():
 
     client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
     #await genshin.utility.update_characters_any()
-    user = await genshin.utility.update_characters_any(0, lang="ru-ru")
+    user = await genshin.utility.update_characters_genshindata(0, lang="ru-ru")
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
     diary = await client.get_diary()
 
