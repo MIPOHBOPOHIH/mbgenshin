@@ -1,6 +1,6 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Обновлено в <u>Apr 30, 2023 15:07 +0300</u> (🤖автоматически)
+  🕒 Обновлено в <u>May 02, 2023 15:09 +0300</u> (🤖автоматически)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Всего наград забрано</td>
-    <td>14</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Последняя забранная награда</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>519</td>
+    <td>521</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -288,126 +288,22 @@
     <td>17</td>
   </tr>
 </table>
-<h2>Витая Бездна</h2>
-<table>
-  <tr>
-    <td>Сезон</td>
-    <td>67</td>
-  </tr>
-  <tr>
-    <td>Всего сражений</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Всего побед</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Максимальный этаж</td>
-    <td>10-2</td>
-  </tr>
-  <tr>
-    <td>Всего звёзд</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-        ,
-        height="18"
-      />
-      Fischl (5)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (58)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (177415)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (37456)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (15)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (65)<br />
-    </td>
-  </tr>
-</table>
 <h2>Дневник приключений</h2>
 <table>
   <tr>
     <td>Камней Истока заработано</td>
-    <td>3676 (rate -12)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Моры заработано</td>
-    <td>4782946 (rate 35)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1040 (29%)<br />Daily Activity: 790 (22%)<br />Mail: 740 (21%)<br />Quests:
-      500 (13%)<br />Adventure: 346 (9%)<br />Spiral Abyss: 250 (6%)<br />Other:
-      10 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
