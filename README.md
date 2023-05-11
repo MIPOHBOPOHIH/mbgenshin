@@ -1,6 +1,6 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Обновлено в <u>May 10, 2023 15:08 +0300</u> (🤖автоматически)
+  🕒 Обновлено в <u>May 11, 2023 15:08 +0300</u> (🤖автоматически)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Всего наград забрано</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Последняя забранная награда</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>522</td>
+    <td>523</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -292,17 +292,17 @@
 <table>
   <tr>
     <td>Камней Истока заработано</td>
-    <td>0 (rate -100)</td>
+    <td>20 (rate -99)</td>
   </tr>
   <tr>
     <td>Моры заработано</td>
-    <td>0 (rate -100)</td>
+    <td>55000 (rate -98)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      Mail: 20 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
+      (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
