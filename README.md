@@ -1,6 +1,6 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Обновлено в <u>May 13, 2023 15:07 +0300</u> (🤖автоматически)
+  🕒 Обновлено в <u>May 14, 2023 15:07 +0300</u> (🤖автоматически)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Всего наград забрано</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Последняя забранная награда</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>523</td>
+    <td>524</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -292,16 +292,16 @@
 <table>
   <tr>
     <td>Камней Истока заработано</td>
-    <td>20 (rate -99)</td>
+    <td>340 (rate -90)</td>
   </tr>
   <tr>
     <td>Моры заработано</td>
-    <td>60000 (rate -98)</td>
+    <td>110000 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 20 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
+      Mail: 340 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
       (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
