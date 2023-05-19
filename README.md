@@ -1,6 +1,6 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
 <h3 align="center">
-  🕒 Обновлено в <u>May 18, 2023 15:08 +0300</u> (🤖автоматически)
+  🕒 Обновлено в <u>May 19, 2023 15:08 +0300</u> (🤖автоматически)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Всего наград забрано</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Последняя забранная награда</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>524</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -292,18 +292,17 @@
 <table>
   <tr>
     <td>Камней Истока заработано</td>
-    <td>340 (rate -90)</td>
+    <td>400 (rate -89)</td>
   </tr>
   <tr>
     <td>Моры заработано</td>
-    <td>110000 (rate -97)</td>
+    <td>166072 (rate -96)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 340 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
-      (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Mail: 340 (85%)<br />Daily Activity: 60 (15%)<br />Events: 0 (0%)<br />Adventure:
+      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
