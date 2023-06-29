@@ -49,7 +49,6 @@ async def main():
         user=user,
         lang=args.lang,
         abyss=abyss,
-        updated_at=format_date(reward.time),
         _int=int
     )
     args.output.write_text(rendered)
