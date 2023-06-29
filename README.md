@@ -1,5 +1,4 @@
 <h1 align="center">mipohbopohih Статистика Genshin</h1>
-<h3 align="center">🕒 Обновлено в <u></u> (🤖автоматически)</h3>
 <br />
 
 <h2>Статистика</h2>
