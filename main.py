@@ -43,15 +43,6 @@ async def main():
     await genshin.utility.update_characters_any()
     user = await client.get_full_genshin_user(0, lang='ru-ru')
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
-    diary = await client.get_diary()
-
-    try:
-        await client.claim_daily_reward(lang='ru-ru', reward=False)
-    except genshin.AlreadyClaimed:
-        pass
-    finally:
-        reward = await client.claimed_rewards(lang='ru-ru').next()
-        reward_info = await client.get_reward_info()
 
     template: jinja2.Template = jinja2.Template(args.template.read_text())
     rendered = template.render(
@@ -59,7 +50,6 @@ async def main():
         lang=args.lang,
         abyss=abyss,
         reward=reward,
-        diary=diary,
         reward_info=reward_info,
         updated_at=format_date(reward.time),
         _int=int
