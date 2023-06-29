@@ -107,25 +107,6 @@
 </table>
 {%- endif -%}
 
-<h2>Дневник приключений</h2>
-<table>
-    <tr>
-        <td>Камней Истока заработано</td>
-        <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
-    </tr>
-    <tr>
-        <td>Моры заработано</td>
-        <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
-    </tr>
-    <tr>
-        <td>Categories</td>
-        <td>
-            {%- for category in diary.data.categories -%}
-            {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
-            {%- endfor -%}
-        </td>
-    </tr>
-</table>
 
 <h2>Персонажи</h2>
 {%- for character in user.characters -%}
