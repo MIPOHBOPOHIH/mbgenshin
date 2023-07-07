@@ -297,27 +297,84 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (3)<br />
+    </td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (39)<br />
+    </td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (126824)<br />
+    </td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (25127)<br />
+    </td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (11)<br />
+    </td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (27)<br />
+    </td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -327,7 +384,7 @@
   <table>
     <tr>
       <th><h3 align="center">Дилюк</h3></th>
-      <th><h3 align="center">Прототип: Архаичный</h3></th>
+      <th><h3 align="center">Волчья погибель</h3></th>
     </tr>
     <tr>
       <td>
@@ -340,7 +397,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/bf7c46f29634452846a273ba30104c5a.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/ae15da0a000a5cb73a30c7d5bfa9a147.png"
           />
         </p>
       </td>
@@ -382,11 +439,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Архаичный</td>
+            <td>Волчья погибель</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -394,7 +451,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>4</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -407,7 +464,7 @@
   <table>
     <tr>
       <th><h3 align="center">Эола</h3></th>
-      <th><h3 align="center">Волчья погибель</h3></th>
+      <th><h3 align="center">Прототип: Архаичный</h3></th>
     </tr>
     <tr>
       <td>
@@ -420,7 +477,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/ae15da0a000a5cb73a30c7d5bfa9a147.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/bf7c46f29634452846a273ba30104c5a.png"
           />
         </p>
       </td>
@@ -465,11 +522,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Волчья погибель</td>
+            <td>Прототип: Архаичный</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -477,7 +534,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>2</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
@@ -2653,7 +2710,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>70</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
