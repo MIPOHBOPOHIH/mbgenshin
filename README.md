@@ -299,6 +299,11 @@
     <td>Попыток битв</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+        ,
+        height="18"
+      />
+      Sangonomiya Kokomi (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -313,12 +318,7 @@
         ,
         height="18"
       />
-      Fischl (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (3)<br />
+      Fischl (3)<br />
     </td>
   </tr>
   <tr>
@@ -464,7 +464,7 @@
   <table>
     <tr>
       <th><h3 align="center">Эола</h3></th>
-      <th><h3 align="center">Прототип: Архаичный</h3></th>
+      <th><h3 align="center">Благодатный владыка вод</h3></th>
     </tr>
     <tr>
       <td>
@@ -477,7 +477,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/97ae7c513899bc02c7f0f97ed7b5ba3b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/789be693d6f9d9b7bd980fdc88d75cce.png"
           />
         </p>
       </td>
@@ -522,7 +522,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Архаичный</td>
+            <td>Благодатный владыка вод</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -530,11 +530,11 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>90</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1845,7 +1845,7 @@
   <table>
     <tr>
       <th><h3 align="center">Чун Юнь</h3></th>
-      <th><h3 align="center">Благодатный владыка вод</h3></th>
+      <th><h3 align="center">Прототип: Архаичный</h3></th>
     </tr>
     <tr>
       <td>
@@ -1858,7 +1858,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/789be693d6f9d9b7bd980fdc88d75cce.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/97ae7c513899bc02c7f0f97ed7b5ba3b.png"
           />
         </p>
       </td>
@@ -1900,7 +1900,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Благодатный владыка вод</td>
+            <td>Прототип: Архаичный</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1908,11 +1908,11 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>80</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
