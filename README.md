@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>647</td>
+    <td>651</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>536</td>
+    <td>537</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -37,15 +37,15 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1125</td>
+    <td>1134</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>951</td>
+    <td>955</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>299</td>
+    <td>301</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -201,7 +201,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/92/" width="80" />
+            <img src="https://progress-bar.dev/94/" width="80" />
           </td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>784</td>
+    <td>785</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -384,7 +384,7 @@
   <table>
     <tr>
       <th><h3 align="center">Дилюк</h3></th>
-      <th><h3 align="center">Прототип: Архаичный</h3></th>
+      <th><h3 align="center">Волчья погибель</h3></th>
     </tr>
     <tr>
       <td>
@@ -397,7 +397,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/97ae7c513899bc02c7f0f97ed7b5ba3b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74aa4f3752885f755e51da9af22363e5.png"
           />
         </p>
       </td>
@@ -439,11 +439,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Архаичный</td>
+            <td>Волчья погибель</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -451,7 +451,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -464,7 +464,7 @@
   <table>
     <tr>
       <th><h3 align="center">Эола</h3></th>
-      <th><h3 align="center">Волчья погибель</h3></th>
+      <th><h3 align="center">Прототип: Архаичный</h3></th>
     </tr>
     <tr>
       <td>
@@ -477,7 +477,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74aa4f3752885f755e51da9af22363e5.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/97ae7c513899bc02c7f0f97ed7b5ba3b.png"
           />
         </p>
       </td>
@@ -522,11 +522,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Волчья погибель</td>
+            <td>Прототип: Архаичный</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -534,7 +534,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -751,8 +751,7 @@
           <tr>
             <td>Артифакты</td>
             <td>
-              1 x Конец гладиатора<br />1 x Рыцарь крови<br />1 x Заблудший в
-              метели<br />
+              4 x Эмблема рассечённой судьбы<br />1 x Конец гладиатора<br />
             </td>
           </tr>
           <tr>
@@ -915,7 +914,7 @@
           </tr>
           <tr>
             <td>Артифакты</td>
-            <td>1 x Конец гладиатора<br />3 x Странствующий ансамбль<br /></td>
+            <td>3 x Странствующий ансамбль<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -2689,7 +2688,8 @@
           <tr>
             <td>Артифакты</td>
             <td>
-              4 x Эмблема рассечённой судьбы<br />1 x Конец гладиатора<br />
+              2 x Конец гладиатора<br />1 x Рыцарь крови<br />1 x Заблудший в
+              метели<br />
             </td>
           </tr>
           <tr>
@@ -3646,7 +3646,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Артифакты</td>
