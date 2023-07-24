@@ -277,7 +277,7 @@
 <table>
   <tr>
     <td>Сезон</td>
-    <td>73</td>
+    <td>74</td>
   </tr>
   <tr>
     <td>Всего сражений</td>
@@ -297,84 +297,27 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-        ,
-        height="18"
-      />
-      Barbara (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (3)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (39)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (126824)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (25127)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (11)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (27)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -384,7 +327,7 @@
   <table>
     <tr>
       <th><h3 align="center">Дилюк</h3></th>
-      <th><h3 align="center">Прототип: Архаичный</h3></th>
+      <th><h3 align="center">Волчья погибель</h3></th>
     </tr>
     <tr>
       <td>
@@ -397,7 +340,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/97ae7c513899bc02c7f0f97ed7b5ba3b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74aa4f3752885f755e51da9af22363e5.png"
           />
         </p>
       </td>
@@ -439,11 +382,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Архаичный</td>
+            <td>Волчья погибель</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -451,7 +394,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -464,7 +407,7 @@
   <table>
     <tr>
       <th><h3 align="center">Эола</h3></th>
-      <th><h3 align="center">Волчья погибель</h3></th>
+      <th><h3 align="center">Прототип: Архаичный</h3></th>
     </tr>
     <tr>
       <td>
@@ -477,7 +420,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/74aa4f3752885f755e51da9af22363e5.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/97ae7c513899bc02c7f0f97ed7b5ba3b.png"
           />
         </p>
       </td>
@@ -522,11 +465,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Волчья погибель</td>
+            <td>Прототип: Архаичный</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -534,7 +477,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -906,7 +849,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -1346,7 +1289,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2371,7 +2314,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td></td>
+            <td>Тень ветра в парусах</td>
           </tr>
         </table>
       </td>
@@ -2559,6 +2502,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Горо</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Горо</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Geo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Лук охотника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Нин Гуан</b></summary>
   <br />
   <table>
@@ -2727,7 +2750,7 @@
   <table>
     <tr>
       <th><h3 align="center">Нахида</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
+      <th><h3 align="center">Руководство по магии</h3></th>
     </tr>
     <tr>
       <td>
@@ -2740,7 +2763,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/292e999951d07694ae986994c6bc561b.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/053bd5deeef089d9b0a568c60407f3e2.png"
           />
         </p>
       </td>
@@ -2782,19 +2805,19 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Записи ученика</td>
+            <td>Руководство по магии</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3166,7 +3189,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -3191,86 +3214,6 @@
           <tr>
             <td>Уровень</td>
             <td>40</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Горо</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Горо</h3></th>
-      <th><h3 align="center">Лук охотника</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/ec3e0f3ffef01187a0ff6d3e91d3c5a3.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Geo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Лук охотника</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -3423,6 +3366,86 @@
           <tr>
             <td>Название</td>
             <td>Записи ученика</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Кирара</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Кирара</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u587xe/1057e62d5198c0f11e457fb0bf07944e.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
