@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>662</td>
+    <td>663</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>539</td>
+    <td>541</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -37,11 +37,11 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1151</td>
+    <td>1152</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>966</td>
+    <td>971</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
@@ -173,7 +173,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/38/" width="80" />
+            <img src="https://progress-bar.dev/41/" width="80" />
           </td>
         </tr>
         <tr>
