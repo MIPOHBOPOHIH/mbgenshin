@@ -299,6 +299,11 @@
     <td>Попыток битв</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -313,12 +318,7 @@
         ,
         height="18"
       />
-      Eula (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-        ,
-        height="18"
-      />
-      Sangonomiya Kokomi (3)<br />
+      Eula (3)<br />
     </td>
   </tr>
   <tr>
@@ -2847,7 +2847,7 @@
           </tr>
           <tr>
             <td>Артифакты</td>
-            <td></td>
+            <td>1 x Воспоминания дремучего леса<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
