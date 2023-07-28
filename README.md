@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>541</td>
+    <td>543</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -299,6 +299,16 @@
     <td>Попыток битв</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+        ,
+        height="18"
+      />
+      Fischl (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
         ,
         height="18"
@@ -308,17 +318,7 @@
         ,
         height="18"
       />
-      Bennett (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (3)<br />
+      Bennett (3)<br />
     </td>
   </tr>
   <tr>
