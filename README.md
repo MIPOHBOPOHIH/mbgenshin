@@ -299,6 +299,11 @@
     <td>Попыток битв</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -313,12 +318,7 @@
         ,
         height="18"
       />
-      Diluc (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (3)<br />
+      Diluc (3)<br />
     </td>
   </tr>
   <tr>
@@ -1956,7 +1956,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2036,7 +2036,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Созвездий</td>
