@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>546</td>
+    <td>547</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -262,7 +262,7 @@
   </tr>
   <tr>
     <td>Комфорт</td>
-    <td>Роскошно (24290)</td>
+    <td>Роскошно (24470)</td>
   </tr>
   <tr>
     <td>Вещи</td>
@@ -299,6 +299,16 @@
     <td>Попыток битв</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (3)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (3)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
         ,
         height="18"
@@ -308,17 +318,7 @@
         ,
         height="18"
       />
-      Diluc (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (3)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (3)<br />
+      Diluc (3)<br />
     </td>
   </tr>
   <tr>
