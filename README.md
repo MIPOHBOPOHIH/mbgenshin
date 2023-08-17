@@ -5,19 +5,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>663</td>
+    <td>671</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>547</td>
+    <td>549</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>43</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>292</td>
+    <td>302</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -275,7 +275,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
