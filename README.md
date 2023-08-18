@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>671</td>
+    <td>672</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>549</td>
+    <td>550</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>302</td>
+    <td>306</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>0</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
@@ -68,6 +68,7 @@
 <h2>Исследование</h2>
 <table>
   <tr>
+    <th>Фонтейн</th>
     <th>Сумеру</th>
     <th>Разлом: Подземные шахты</th>
     <th>Разлом</th>
@@ -76,9 +77,16 @@
     <th>Драконий хребет</th>
     <th>Ли Юэ</th>
     <th>Мондштадт</th>
-    <th>Фонтейн</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -143,16 +151,22 @@
         />
       </p>
     </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
-          width="180"
-        />
-      </p>
-    </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/1/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -262,20 +276,6 @@
         <tr>
           <td>Reputation</td>
           <td>8</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Изучено</td>
-          <td>
-            <img src="https://progress-bar.dev/0/" width="80" />
-          </td>
-        </tr>
-        <tr>
-          <td>Reputation</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
@@ -992,7 +992,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -3743,6 +3743,86 @@
           <tr>
             <td>Название</td>
             <td>Копьё новичка</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Линетт</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Линетт</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/38fa2a4096066e0779390dcbdfaf3beb.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
