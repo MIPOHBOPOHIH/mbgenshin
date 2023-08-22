@@ -1071,7 +1071,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -1104,6 +1104,89 @@
           <tr>
             <td>Пробуждение</td>
             <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Диона</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Диона</h3></th>
+      <th><h3 align="center">Изогнутый лук</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/761a0c97c99a4a1be886eea56d7456bd.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>
+              1 x Инструктор<br />1 x Эмблема рассечённой судьбы<br />1 x
+              Заблудший в метели<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Изогнутый лук</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -1267,89 +1350,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Диона</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Диона</h3></th>
-      <th><h3 align="center">Изогнутый лук</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/761a0c97c99a4a1be886eea56d7456bd.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>63</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>
-              1 x Инструктор<br />1 x Эмблема рассечённой судьбы<br />1 x
-              Заблудший в метели<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Изогнутый лук</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>2</td>
           </tr>
         </table>
       </td>
@@ -1717,7 +1717,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2122,7 +2122,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Созвездий</td>
