@@ -5,19 +5,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>672</td>
+    <td>680</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>550</td>
+    <td>552</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>306</td>
+    <td>325</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>118</td>
+    <td>121</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -37,19 +37,19 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>1</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1152</td>
+    <td>1165</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>971</td>
+    <td>984</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>307</td>
+    <td>312</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -57,11 +57,11 @@
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>47</td>
+    <td>50</td>
   </tr>
 </table>
 
@@ -158,7 +158,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/1/" width="80" />
+            <img src="https://progress-bar.dev/4/" width="80" />
           </td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/30/" width="80" />
+            <img src="https://progress-bar.dev/32/" width="80" />
           </td>
         </tr>
         <tr>
@@ -256,7 +256,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/87/" width="80" />
+            <img src="https://progress-bar.dev/88/" width="80" />
           </td>
         </tr>
         <tr>
@@ -307,7 +307,7 @@
   <table>
     <tr>
       <th><h3 align="center">Дилюк</h3></th>
-      <th><h3 align="center">Волчья погибель</h3></th>
+      <th><h3 align="center">Прототип: Архаичный</h3></th>
     </tr>
     <tr>
       <td>
@@ -320,7 +320,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4b2483f5c03786d229f8edd0eb6894e4.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7298e75bbf7a577ee43539e6586d14b3.png"
           />
         </p>
       </td>
@@ -362,11 +362,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Волчья погибель</td>
+            <td>Прототип: Архаичный</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -374,7 +374,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>2</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -387,7 +387,7 @@
   <table>
     <tr>
       <th><h3 align="center">Эола</h3></th>
-      <th><h3 align="center">Прототип: Архаичный</h3></th>
+      <th><h3 align="center">Волчья погибель</h3></th>
     </tr>
     <tr>
       <td>
@@ -400,7 +400,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/7298e75bbf7a577ee43539e6586d14b3.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/4b2483f5c03786d229f8edd0eb6894e4.png"
           />
         </p>
       </td>
@@ -442,11 +442,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Архаичный</td>
+            <td>Волчья погибель</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -454,7 +454,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -3122,6 +3122,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Лини</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Лини</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Liney.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1490e/832082df256e4525837ed47125cdd9a5.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Лук охотника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Розария</b></summary>
   <br />
   <table>
@@ -3806,7 +3886,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Артифакты</td>
