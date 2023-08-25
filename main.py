@@ -7,7 +7,7 @@ import json
 import pytz
 from dotenv import load_dotenv
 from datetime import datetime
-
+import requests
 import genshin
 import jinja2
 
