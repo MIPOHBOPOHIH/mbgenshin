@@ -10,6 +10,7 @@ from datetime import datetime
 import requests
 import genshin
 import jinja2
+from bs4 import BeautifulSoup
 
 logger = logging.getLogger()
 load_dotenv()
