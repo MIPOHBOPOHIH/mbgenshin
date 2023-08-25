@@ -12,6 +12,7 @@ import requests
 import genshin
 import jinja2
 from bs4 import BeautifulSoup
+import time
 
 logger = logging.getLogger()
 load_dotenv()
