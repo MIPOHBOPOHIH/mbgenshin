@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>693</td>
+    <td>694</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>557</td>
+    <td>558</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>20</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1037</td>
+    <td>1038</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>133</td>
+    <td>135</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
@@ -158,7 +158,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/14/" width="80" />
           </td>
         </tr>
         <tr>
@@ -293,7 +293,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>801</td>
+    <td>803</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
