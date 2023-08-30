@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>694</td>
+    <td>699</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>558</td>
+    <td>560</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>342</td>
+    <td>343</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -37,23 +37,23 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1179</td>
+    <td>1183</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1038</td>
+    <td>1045</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>317</td>
+    <td>323</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>135</td>
+    <td>136</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
@@ -158,7 +158,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/14/" width="80" />
+            <img src="https://progress-bar.dev/15/" width="80" />
           </td>
         </tr>
         <tr>
