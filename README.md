@@ -656,7 +656,7 @@
           </tr>
           <tr>
             <td>Элемент</td>
-            <td>Dendro</td>
+            <td>Geo</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -668,7 +668,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Артифакты</td>
