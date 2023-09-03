@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>562</td>
+    <td>564</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -41,15 +41,15 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1243</td>
+    <td>1251</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1065</td>
+    <td>1070</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>330</td>
+    <td>331</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -186,7 +186,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/78/" width="80" />
+            <img src="https://progress-bar.dev/79/" width="80" />
           </td>
         </tr>
         <tr>
@@ -200,7 +200,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/70/" width="80" />
+            <img src="https://progress-bar.dev/81/" width="80" />
           </td>
         </tr>
         <tr>
