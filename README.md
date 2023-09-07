@@ -5,19 +5,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>733</td>
+    <td>739</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>566</td>
+    <td>567</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>346</td>
+    <td>347</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>131</td>
+    <td>135</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -41,15 +41,15 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1304</td>
+    <td>1325</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1094</td>
+    <td>1099</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>343</td>
+    <td>345</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -172,7 +172,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/35/" width="80" />
+            <img src="https://progress-bar.dev/38/" width="80" />
           </td>
         </tr>
         <tr>
@@ -656,7 +656,7 @@
           </tr>
           <tr>
             <td>Элемент</td>
-            <td>Geo</td>
+            <td>Hydro</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -668,7 +668,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>6</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -3157,7 +3157,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>20</td>
+            <td>21</td>
           </tr>
           <tr>
             <td>Уровень дружбы</td>
