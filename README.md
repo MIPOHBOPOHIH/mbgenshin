@@ -5,15 +5,15 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>739</td>
+    <td>753</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>567</td>
+    <td>568</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>135</td>
+    <td>136</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -37,27 +37,27 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>24</td>
+    <td>47</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1325</td>
+    <td>1354</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1099</td>
+    <td>1113</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>345</td>
+    <td>347</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>141</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>62</td>
+    <td>66</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -158,7 +158,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/15/" width="80" />
+            <img src="https://progress-bar.dev/19/" width="80" />
           </td>
         </tr>
         <tr>
@@ -172,7 +172,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/38/" width="80" />
+            <img src="https://progress-bar.dev/41/" width="80" />
           </td>
         </tr>
         <tr>
@@ -302,6 +302,248 @@
 </table>
 <h2>Персонажи</h2>
 <details open>
+  <summary><b>Путешественница</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Путешественница</h3></th>
+      <th><h3 align="center">Меч-флейта</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/b73304c4db187554317334a2d1c968e2.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Меч-флейта</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Син Цю</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Син Цю</h3></th>
+      <th><h3 align="center">Церемониальный меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5e012101667d9d20c1380f48b9b12042.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>
+              4 x Церемония древней знати<br />1 x Странствующий ансамбль<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Церемониальный меч</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Рэйзор</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Рэйзор</h3></th>
+      <th><h3 align="center">Заснеженное звёздное серебро</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/be385078d29a280b336293b059bf4bc2.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>1 x Изгнанник<br /></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Заснеженное звёздное серебро</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Дилюк</b></summary>
   <br />
   <table>
@@ -455,248 +697,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>2</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Рэйзор</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Рэйзор</h3></th>
-      <th><h3 align="center">Заснеженное звёздное серебро</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/be385078d29a280b336293b059bf4bc2.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>1 x Изгнанник<br /></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Заснеженное звёздное серебро</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Син Цю</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Син Цю</h3></th>
-      <th><h3 align="center">Церемониальный меч</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/5e012101667d9d20c1380f48b9b12042.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>
-              4 x Церемония древней знати<br />1 x Странствующий ансамбль<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Церемониальный меч</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Путешественница</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Путешественница</h3></th>
-      <th><h3 align="center">Меч-флейта</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/b73304c4db187554317334a2d1c968e2.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Меч-флейта</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3201,6 +3201,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Джинн</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Джинн</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/ed3f8af399db200e72697658a087b576.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td>Наследие Гуннхильдр</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Тупой меч</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Розария</b></summary>
   <br />
   <table>
@@ -3325,7 +3405,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Артифакты</td>
