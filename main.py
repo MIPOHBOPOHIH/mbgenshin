@@ -58,7 +58,7 @@ async def main():
     res = requests.get("https://www.pockettactics.com/genshin-impact/codes")
     soup = BeautifulSoup(res.text, 'html.parser')
 
-    active_codes = [code.text.strip() for code in soup.find("div", {"class":"entry-content"}).find("ul", recursive=False).findAll("strong")]
+    active_codes = [code.text.strip() for code in soup.find("div", {"class":"entry-content"}).find("ul").findAll("strong")]
 
     codes_file = pathlib.Path(__file__).parent.resolve() / "codes.txt"
     used_codes = codes_file.open().read().split("\n")
