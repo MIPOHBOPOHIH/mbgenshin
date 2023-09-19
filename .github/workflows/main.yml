@@ -36,5 +36,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git diff
           git add README.md codes.txt
-          git commit -m "mipohbopohih genshin stats."
+          git commit -m "mipohbopohih genshin stats." --allow-empty
           git push
