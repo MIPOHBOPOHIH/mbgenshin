@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>772</td>
+    <td>775</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>588</td>
+    <td>590</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>354</td>
+    <td>369</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>74</td>
+    <td>81</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1130</td>
+    <td>1132</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>70</td>
+    <td>71</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -158,12 +158,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/24/" width="80" />
+            <img src="https://progress-bar.dev/28/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
