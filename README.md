@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>775</td>
+    <td>777</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>590</td>
+    <td>591</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>81</td>
+    <td>83</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
@@ -45,11 +45,11 @@
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1132</td>
+    <td>1136</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>360</td>
+    <td>361</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -158,12 +158,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/28/" width="80" />
+            <img src="https://progress-bar.dev/29/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -1155,7 +1155,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -1594,6 +1594,88 @@
   </table>
 </details>
 <details>
+  <summary><b>Фишль</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Фишль</h3></th>
+      <th><h3 align="center">Бесструнный</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/83826110f69d92d330b363434eb3b37a.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Артифакты</td>
+            <td>
+              4 x Странствующий ансамбль<br />1 x Стойкость Миллелита<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td>Сон вечной ночи</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Бесструнный</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Сахароза</b></summary>
   <br />
   <table>
@@ -1667,88 +1749,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>2</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Фишль</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Фишль</h3></th>
-      <th><h3 align="center">Бесструнный</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/83826110f69d92d330b363434eb3b37a.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Артифакты</td>
-            <td>
-              4 x Странствующий ансамбль<br />1 x Стойкость Миллелита<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td>Сон вечной ночи</td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Бесструнный</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2038,7 +2038,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2358,7 +2358,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Созвездий</td>
