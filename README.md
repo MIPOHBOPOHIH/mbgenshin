@@ -2323,7 +2323,7 @@
   <table>
     <tr>
       <th><h3 align="center">Чжун Ли</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
+      <th><h3 align="center">Чёрная кисть</h3></th>
     </tr>
     <tr>
       <td>
@@ -2336,7 +2336,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/b2fd56c2685792654b83c15498cc8681.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/f2249aafda2d24c09b08f538a079f551.png"
           />
         </p>
       </td>
@@ -2378,19 +2378,19 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Копьё новичка</td>
+            <td>Чёрная кисть</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>1</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
