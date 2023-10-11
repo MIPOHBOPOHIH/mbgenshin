@@ -46,7 +46,7 @@ async def main():
     await genshin.utility.update_characters_any()
     user = await client.get_full_genshin_user(0, lang='ru-ru')
     abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
-    diary = await client.get_diary()
+    diary = await client.get_genshin_diary()
 
     try:
         await client.claim_daily_reward(lang=args.lang, reward=False)
