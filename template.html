@@ -50,8 +50,8 @@
                         width=80>
                     </td>
                 </tr>
+                {%- set translations = {'Reputation': 'Репутация', 'Offering':'Уровень'} -%}
                 <tr>
-                    {%- set translations = {'Reputation': 'Репутация'} -%}
                     <td>{{ exploration.type }}</td>
                     <td>{{ exploration.level }}</td>
                 </tr>
