@@ -358,7 +358,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Артифакты</td>
@@ -2975,7 +2975,7 @@
   <table>
     <tr>
       <th><h3 align="center">Нёвиллет</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
+      <th><h3 align="center">Обряд вечного течения</h3></th>
     </tr>
     <tr>
       <td>
@@ -2988,7 +2988,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/4fc472e727daebbc10133272195b31c2.png"
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u38a6e/dfffad9dd5fa2b5dedfcfc5b2609ad26.png"
           />
         </p>
       </td>
@@ -3030,11 +3030,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Записи ученика</td>
+            <td>Обряд вечного течения</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
