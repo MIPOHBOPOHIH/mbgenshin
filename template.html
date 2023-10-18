@@ -52,7 +52,7 @@
                 </tr>
                 {%- set translations = {'Reputation': 'Репутация', 'Offering':'Уровень'} -%}
                 <tr>
-                    <td>{{ exploration.type }}</td>
+                    <td>{{ translations[exploration.type] if exploration.type in translations else exploration.type }}</td>
                     <td>{{ exploration.level }}</td>
                 </tr>
             </table>
