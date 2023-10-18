@@ -174,7 +174,7 @@
           </td>
         </tr>
         <tr>
-          <td>Reputation</td>
+          <td>Репутация</td>
           <td>4</td>
         </tr>
       </table>
@@ -188,7 +188,7 @@
           </td>
         </tr>
         <tr>
-          <td>Reputation</td>
+          <td>Репутация</td>
           <td>10</td>
         </tr>
       </table>
@@ -202,7 +202,7 @@
           </td>
         </tr>
         <tr>
-          <td>Offering</td>
+          <td>Уровень</td>
           <td>10</td>
         </tr>
       </table>
@@ -216,7 +216,7 @@
           </td>
         </tr>
         <tr>
-          <td>Offering</td>
+          <td>Уровень</td>
           <td>10</td>
         </tr>
       </table>
@@ -230,7 +230,7 @@
           </td>
         </tr>
         <tr>
-          <td>Offering</td>
+          <td>Уровень</td>
           <td>0</td>
         </tr>
       </table>
@@ -244,7 +244,7 @@
           </td>
         </tr>
         <tr>
-          <td>Reputation</td>
+          <td>Репутация</td>
           <td>10</td>
         </tr>
       </table>
@@ -258,7 +258,7 @@
           </td>
         </tr>
         <tr>
-          <td>Offering</td>
+          <td>Уровень</td>
           <td>12</td>
         </tr>
       </table>
@@ -272,7 +272,7 @@
           </td>
         </tr>
         <tr>
-          <td>Reputation</td>
+          <td>Репутация</td>
           <td>8</td>
         </tr>
       </table>
@@ -286,7 +286,7 @@
           </td>
         </tr>
         <tr>
-          <td>Reputation</td>
+          <td>Репутация</td>
           <td>8</td>
         </tr>
       </table>
