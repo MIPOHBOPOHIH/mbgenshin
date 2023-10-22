@@ -32,6 +32,9 @@ jobs:
           COOKIES: ${{ secrets.COOKIES }}
         run: |
           python main.py -o index.html
+      - name: Format with prettier
+        run: |
+          npx prettier README.md --write --parser html
       - name: Commit and push if changed
         run: |
           git config user.name "Paimon"
