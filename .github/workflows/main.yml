@@ -30,11 +30,14 @@ jobs:
       - name: Format with prettier
         run: |
           npx prettier README.md --write --parser html
+      - name: get html
+        run: |
+          python main.py -o index.html
       - name: Commit and push if changed
         run: |
           git config user.name "Paimon"
           git config user.email "actions@users.noreply.github.com"
           git diff
-          git add README.md codes.txt
+          git add README.md codes.txt index.html
           git commit -m "mipohbopohih genshin stats." --allow-empty
           git push
