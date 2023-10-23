@@ -3,56 +3,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>mbgenshin stats</title>
     <style>
-        @font-face {
-            font-family: "genshinFont";
-            src: url("Genshin_Impact.ttf");
-        }
-        
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        
-        body {
-            font-family: genshinFont;
-            background-color: rgb(44, 44, 44);
-        }
-        
-        h2,
-        h1,
-        p,
-        b,
-        ::marker {
-            color: rgb(175, 175, 175);
-        }
-        
-        table {
-            color: rgb(175, 175, 175);
-            width: 100%;
-            border-collapse: collapse;
-        }
-        
-        table td,
-        table th {
-            background-color: rgb(66, 66, 66);
-            border: 1px solid black;
-            padding: 7px;
-            text-align: left;
-            transition: all 0.2s ease-in-out;
-        }
-        
-        table td:hover,
-        table th:hover {
-            padding: 14px;
-            background-color: rgb(100, 100, 100);
-            border: 1px solid rgb(100, 100, 100);
-        }
-        
-        table th {
-            background-color: #f2f2f2;
-        }
-    </style>
+    @font-face {
+        font-family: "genshinFont";
+        src: url("Genshin_Impact.ttf");
+    }
+    
+    body {
+        font-family: genshinFont;
+        background-color: rgb(44, 44, 44);
+        padding: 10px;
+        margin: 0; /* Убираем внешние отступы у body */
+    }
+    
+    h1 {
+        color: rgb(175, 175, 175);
+        text-align: center;
+        margin: 10px 0; /* Увеличиваем отступы вокруг заголовка */
+    }
+    
+    h2 {
+        color: rgb(175, 175, 175);
+        margin: 10px 0; /* Увеличиваем отступы вокруг подзаголовков */
+    }
+    
+    table {
+        color: rgb(175, 175, 175);
+        width: 100%;
+        border-collapse: collapse;
+        margin: 10px 0;
+    }
+    
+    table td,
+    table th {
+        background-color: rgb(66, 66, 66);
+        border: 1px solid black;
+        padding: 7px;
+        text-align: left;
+        transition: all 0.2s ease-in-out;
+    }
+    
+    table td:hover,
+    table th:hover {
+        padding: 14px;
+        background-color: rgb(100, 100, 100);
+        border: 1px solid rgb(100, 100, 100);
+    }
+    
+    table th {
+        background-color: #f2f2f2;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block; /* Убираем лишние отступы вокруг изображений */
+        margin: 10px auto; /* Центрируем изображения и добавляем отступы */
+    }
+
+    details {
+        margin: 10px 0;
+    }
+
+    summary {
+        cursor: pointer;
+    }
+</style>
 </head>
 
 <body>
