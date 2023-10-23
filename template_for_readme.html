@@ -26,6 +26,7 @@
 
 <h2>Исследование</h2>
 <table>
+    {%- set translations = {'Reputation': 'Репутация', 'Offering':'Уровень'} -%}
     <tr>
         {%- for exploration in user.explorations -%}
         <th>{{ exploration.name }}</th>
@@ -49,8 +50,7 @@
                         src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
                         width=80>
                     </td>
-                </tr>
-                {%- set translations = {'Reputation': 'Репутация', 'Offering':'Уровень'} -%}
+                </tr> 
                 <tr>
                     <td>{{ translations[exploration.type] if exploration.type in translations else exploration.type }}</td>
                     <td>{{ exploration.level }}</td>
@@ -167,7 +167,7 @@
                         <td>{{ character.constellation }}</td>
                     </tr>
                     <tr>
-                        <td>Артифакты</td>
+                        <td>Артефакты</td>
                         <td>
                             {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
                             {%- for name in sets|unique -%}
