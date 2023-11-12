@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Редисовые шарики</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>801</td>
+    <td>805</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>618</td>
+    <td>619</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>385</td>
+    <td>396</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,31 +49,31 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>150</td>
+    <td>157</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1382</td>
+    <td>1384</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1155</td>
+    <td>1164</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>374</td>
+    <td>375</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>160</td>
+    <td>164</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>76</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>54</td>
+    <td>55</td>
   </tr>
 </table>
 
@@ -170,12 +170,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/41/" width="80" />
+            <img src="https://progress-bar.dev/44/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Репутация</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
       </table>
     </td>
@@ -358,7 +358,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Артефакты</td>
@@ -2930,7 +2930,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -4311,6 +4311,86 @@
           <tr>
             <td>Название</td>
             <td>Двуручный меч богатыря</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Шарлотта</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Шарлотта</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Charlotte.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
