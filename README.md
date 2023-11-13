@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Редисовые шарики</td>
+    <td>2 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>805</td>
+    <td>818</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>619</td>
+    <td>621</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>396</td>
+    <td>397</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>Дендрокулы</td>
-    <td>136</td>
+    <td>137</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>157</td>
+    <td>160</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1384</td>
+    <td>1390</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1164</td>
+    <td>1175</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>375</td>
+    <td>381</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>164</td>
+    <td>167</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>78</td>
+    <td>79</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -170,7 +170,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/44/" width="80" />
+            <img src="https://progress-bar.dev/45/" width="80" />
           </td>
         </tr>
         <tr>
@@ -184,7 +184,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/44/" width="80" />
+            <img src="https://progress-bar.dev/45/" width="80" />
           </td>
         </tr>
         <tr>
