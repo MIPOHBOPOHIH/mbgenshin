@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>623</td>
+    <td>624</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>397</td>
+    <td>398</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -170,7 +170,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/46/" width="80" />
+            <img src="https://progress-bar.dev/47/" width="80" />
           </td>
         </tr>
         <tr>
