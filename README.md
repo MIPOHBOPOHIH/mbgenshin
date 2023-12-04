@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>20 x Камень Истока</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>824</td>
+    <td>825</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>629</td>
+    <td>630</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -49,23 +49,23 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>160</td>
+    <td>167</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1392</td>
+    <td>1394</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1180</td>
+    <td>1185</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>386</td>
+    <td>391</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>169</td>
+    <td>171</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
@@ -170,12 +170,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/47/" width="80" />
+            <img src="https://progress-bar.dev/50/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Репутация</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
