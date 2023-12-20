@@ -16,27 +16,27 @@
 <h2>Статистика</h2>
 <table>
   <tr>
-    <td>Achievements</td>
+    <td>Достижения</td>
     <td>826</td>
   </tr>
   <tr>
-    <td>Days Active</td>
+    <td>Дни активности</td>
     <td>634</td>
   </tr>
   <tr>
-    <td>Characters</td>
+    <td>Персонажи</td>
     <td>51</td>
   </tr>
   <tr>
-    <td>Waypoints Unlocked</td>
+    <td>Точки телепортации</td>
     <td>398</td>
   </tr>
   <tr>
-    <td>Anemoculi</td>
+    <td>Анемокулы</td>
     <td>66</td>
   </tr>
   <tr>
-    <td>Geoculi</td>
+    <td>Геокулы</td>
     <td>131</td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@
     <td>139</td>
   </tr>
   <tr>
-    <td>Electroculi</td>
+    <td>Электрокулы</td>
     <td>181</td>
   </tr>
   <tr>
@@ -52,27 +52,27 @@
     <td>187</td>
   </tr>
   <tr>
-    <td>Common Chests Opened</td>
+    <td>Обычные сундуки</td>
     <td>1395</td>
   </tr>
   <tr>
-    <td>Exquisite Chests Opened</td>
+    <td>Богатые сундуки</td>
     <td>1189</td>
   </tr>
   <tr>
-    <td>Precious Chests Opened</td>
+    <td>Драгоценные сундуки</td>
     <td>393</td>
   </tr>
   <tr>
-    <td>Luxurious Chests Opened</td>
+    <td>Роскошные сундуки</td>
     <td>171</td>
   </tr>
   <tr>
-    <td>Remarkable Chests Opened</td>
+    <td>Удивительных сундуков</td>
     <td>79</td>
   </tr>
   <tr>
-    <td>Domains Unlocked</td>
+    <td>Подземелья</td>
     <td>55</td>
   </tr>
 </table>
@@ -80,15 +80,15 @@
 <h2>Исследование</h2>
 <table>
   <tr>
-    <th>Fontaine</th>
-    <th>Sumeru</th>
-    <th>The Chasm: Underground Mines</th>
-    <th>The Chasm</th>
-    <th>Enkanomiya</th>
-    <th>Inazuma</th>
-    <th>Dragonspine</th>
-    <th>Liyue</th>
-    <th>Mondstadt</th>
+    <th>Фонтейн</th>
+    <th>Сумеру</th>
+    <th>Разлом: Подземные шахты</th>
+    <th>Разлом</th>
+    <th>Энканомия</th>
+    <th>Инадзума</th>
+    <th>Драконий хребет</th>
+    <th>Ли Юэ</th>
+    <th>Мондштадт</th>
   </tr>
   <tr>
     <td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Комфорт</td>
-    <td>Fit for a King (24470)</td>
+    <td>Роскошно (24470)</td>
   </tr>
   <tr>
     <td>Вещи</td>
@@ -314,12 +314,12 @@
 </table>
 <h2>Персонажи</h2>
 <details open>
-  <summary><b>Traveler</b></summary>
+  <summary><b>Путешественница</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Traveler</h3></th>
-      <th><h3 align="center">The Flute</h3></th>
+      <th><h3 align="center">Путешественница</h3></th>
+      <th><h3 align="center">Меч-флейта</h3></th>
     </tr>
     <tr>
       <td>
@@ -374,7 +374,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>The Flute</td>
+            <td>Меч-флейта</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -394,12 +394,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Xingqiu</b></summary>
+  <summary><b>Син Цю</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Xingqiu</h3></th>
-      <th><h3 align="center">Sacrificial Sword</h3></th>
+      <th><h3 align="center">Син Цю</h3></th>
+      <th><h3 align="center">Церемониальный меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -442,7 +442,9 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>4 x Noblesse Oblige<br />1 x Wanderer's Troupe<br /></td>
+            <td>
+              4 x Церемония древней знати<br />1 x Странствующий ансамбль<br />
+            </td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -454,7 +456,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Sacrificial Sword</td>
+            <td>Церемониальный меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -474,12 +476,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Diluc</b></summary>
+  <summary><b>Дилюк</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Diluc</h3></th>
-      <th><h3 align="center">Wolf's Gravestone</h3></th>
+      <th><h3 align="center">Дилюк</h3></th>
+      <th><h3 align="center">Волчья погибель</h3></th>
     </tr>
     <tr>
       <td>
@@ -522,9 +524,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>
-              4 x Crimson Witch of Flames<br />1 x Bloodstained Chivalry<br />
-            </td>
+            <td>4 x Горящая алая ведьма<br />1 x Рыцарь крови<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -536,7 +536,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Wolf's Gravestone</td>
+            <td>Волчья погибель</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -556,12 +556,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Eula</b></summary>
+  <summary><b>Эола</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Eula</h3></th>
-      <th><h3 align="center">Prototype Archaic</h3></th>
+      <th><h3 align="center">Эола</h3></th>
+      <th><h3 align="center">Прототип: Архаичный</h3></th>
     </tr>
     <tr>
       <td>
@@ -604,7 +604,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>2 x Pale Flame<br />3 x Bloodstained Chivalry<br /></td>
+            <td>2 x Бледный огонь<br />3 x Рыцарь крови<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -616,7 +616,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Prototype Archaic</td>
+            <td>Прототип: Архаичный</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -636,12 +636,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Razor</b></summary>
+  <summary><b>Рэйзор</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Razor</h3></th>
-      <th><h3 align="center">Snow-Tombed Starsilver</h3></th>
+      <th><h3 align="center">Рэйзор</h3></th>
+      <th><h3 align="center">Заснеженное звёздное серебро</h3></th>
     </tr>
     <tr>
       <td>
@@ -696,7 +696,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Snow-Tombed Starsilver</td>
+            <td>Заснеженное звёздное серебро</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -716,12 +716,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Kamisato Ayaka</b></summary>
+  <summary><b>Аяка</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Amenoma Kageuchi</h3></th>
+      <th><h3 align="center">Аяка</h3></th>
+      <th><h3 align="center">Амэнома Кагэути</h3></th>
     </tr>
     <tr>
       <td>
@@ -765,7 +765,7 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br />
+              4 x Эмблема рассечённой судьбы<br />1 x Конец гладиатора<br />
             </td>
           </tr>
           <tr>
@@ -778,7 +778,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Amenoma Kageuchi</td>
+            <td>Амэнома Кагэути</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -798,12 +798,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Xiao</b></summary>
+  <summary><b>Сяо</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Xiao</h3></th>
-      <th><h3 align="center">White Tassel</h3></th>
+      <th><h3 align="center">Сяо</h3></th>
+      <th><h3 align="center">Белая кисть</h3></th>
     </tr>
     <tr>
       <td>
@@ -846,7 +846,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>3 x Wanderer's Troupe<br /></td>
+            <td>3 x Странствующий ансамбль<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -858,7 +858,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>White Tassel</td>
+            <td>Белая кисть</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -878,12 +878,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Sangonomiya Kokomi</b></summary>
+  <summary><b>Кокоми</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Sangonomiya Kokomi</h3></th>
-      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
+      <th><h3 align="center">Кокоми</h3></th>
+      <th><h3 align="center">Эпос о драконоборцах</h3></th>
     </tr>
     <tr>
       <td>
@@ -926,7 +926,9 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>4 x Tenacity of the Millelith<br />1 x Maiden Beloved<br /></td>
+            <td>
+              4 x Стойкость Миллелита<br />1 x Возлюбленная юная дева<br />
+            </td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -938,7 +940,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Thrilling Tales of Dragon Slayers</td>
+            <td>Эпос о драконоборцах</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -958,12 +960,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Barbara</b></summary>
+  <summary><b>Барбара</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Barbara</h3></th>
-      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
+      <th><h3 align="center">Барбара</h3></th>
+      <th><h3 align="center">Эпос о драконоборцах</h3></th>
     </tr>
     <tr>
       <td>
@@ -1007,13 +1009,13 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              3 x Maiden Beloved<br />1 x Wanderer's Troupe<br />1 x Gladiator's
-              Finale<br />
+              3 x Возлюбленная юная дева<br />1 x Странствующий ансамбль<br />1
+              x Конец гладиатора<br />
             </td>
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Summertime Sparkle</td>
+            <td>Летний блеск</td>
           </tr>
         </table>
       </td>
@@ -1021,7 +1023,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Thrilling Tales of Dragon Slayers</td>
+            <td>Эпос о драконоборцах</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1041,12 +1043,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Bennett</b></summary>
+  <summary><b>Беннет</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Prototype Rancour</h3></th>
+      <th><h3 align="center">Беннет</h3></th>
+      <th><h3 align="center">Прототип: Злоба</h3></th>
     </tr>
     <tr>
       <td>
@@ -1089,7 +1091,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>1 x Gladiator's Finale<br />4 x Instructor<br /></td>
+            <td>1 x Конец гладиатора<br />4 x Инструктор<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1101,7 +1103,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Prototype Rancour</td>
+            <td>Прототип: Злоба</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1121,12 +1123,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Diona</b></summary>
+  <summary><b>Диона</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Diona</h3></th>
-      <th><h3 align="center">Recurve Bow</h3></th>
+      <th><h3 align="center">Диона</h3></th>
+      <th><h3 align="center">Изогнутый лук</h3></th>
     </tr>
     <tr>
       <td>
@@ -1181,7 +1183,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Recurve Bow</td>
+            <td>Изогнутый лук</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1201,12 +1203,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Noelle</b></summary>
+  <summary><b>Ноэлль</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Noelle</h3></th>
-      <th><h3 align="center">Whiteblind</h3></th>
+      <th><h3 align="center">Ноэлль</h3></th>
+      <th><h3 align="center">Белая тень</h3></th>
     </tr>
     <tr>
       <td>
@@ -1250,8 +1252,8 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              2 x Husk of Opulent Dreams<br />2 x Gladiator's Finale<br />1 x
-              Wanderer's Troupe<br />
+              2 x Кокон сладких грёз<br />2 x Конец гладиатора<br />1 x
+              Странствующий ансамбль<br />
             </td>
           </tr>
           <tr>
@@ -1264,7 +1266,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Whiteblind</td>
+            <td>Белая тень</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1284,12 +1286,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Xiangling</b></summary>
+  <summary><b>Сян Лин</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Xiangling</h3></th>
-      <th><h3 align="center">Dragon's Bane</h3></th>
+      <th><h3 align="center">Сян Лин</h3></th>
+      <th><h3 align="center">Гроза драконов</h3></th>
     </tr>
     <tr>
       <td>
@@ -1332,7 +1334,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td>1 x Конец гладиатора<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1344,7 +1346,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dragon's Bane</td>
+            <td>Гроза драконов</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1364,12 +1366,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Klee</b></summary>
+  <summary><b>Кли</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Klee</h3></th>
-      <th><h3 align="center">Dodoco Tales</h3></th>
+      <th><h3 align="center">Кли</h3></th>
+      <th><h3 align="center">Истории Додоко</h3></th>
     </tr>
     <tr>
       <td>
@@ -1424,7 +1426,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dodoco Tales</td>
+            <td>Истории Додоко</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1444,12 +1446,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Albedo</b></summary>
+  <summary><b>Альбедо</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Albedo</h3></th>
-      <th><h3 align="center">Cinnabar Spindle</h3></th>
+      <th><h3 align="center">Альбедо</h3></th>
+      <th><h3 align="center">Киноварное веретено</h3></th>
     </tr>
     <tr>
       <td>
@@ -1504,7 +1506,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Cinnabar Spindle</td>
+            <td>Киноварное веретено</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1524,12 +1526,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Keqing</b></summary>
+  <summary><b>Кэ Цин</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Keqing</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Кэ Цин</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -1584,7 +1586,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dull Blade</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1604,12 +1606,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Fischl</b></summary>
+  <summary><b>Фишль</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">The Stringless</h3></th>
+      <th><h3 align="center">Фишль</h3></th>
+      <th><h3 align="center">Бесструнный</h3></th>
     </tr>
     <tr>
       <td>
@@ -1653,12 +1655,12 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              4 x Wanderer's Troupe<br />1 x Tenacity of the Millelith<br />
+              4 x Странствующий ансамбль<br />1 x Стойкость Миллелита<br />
             </td>
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Ein Immernachtstraum</td>
+            <td>Сон вечной ночи</td>
           </tr>
         </table>
       </td>
@@ -1666,7 +1668,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>The Stringless</td>
+            <td>Бесструнный</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1686,12 +1688,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Sucrose</b></summary>
+  <summary><b>Сахароза</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Sucrose</h3></th>
-      <th><h3 align="center">The Widsith</h3></th>
+      <th><h3 align="center">Сахароза</h3></th>
+      <th><h3 align="center">Песнь странника</h3></th>
     </tr>
     <tr>
       <td>
@@ -1734,7 +1736,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>1 x Wanderer's Troupe<br />4 x Viridescent Venerer<br /></td>
+            <td>1 x Странствующий ансамбль<br />4 x Изумрудная тень<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1746,7 +1748,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>The Widsith</td>
+            <td>Песнь странника</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1766,12 +1768,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Alhaitham</b></summary>
+  <summary><b>Аль-Хайтам</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Alhaitham</h3></th>
-      <th><h3 align="center">Toukabou Shigure</h3></th>
+      <th><h3 align="center">Аль-Хайтам</h3></th>
+      <th><h3 align="center">Токабо сигурэ</h3></th>
     </tr>
     <tr>
       <td>
@@ -1814,7 +1816,9 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
+            <td>
+              4 x Позолоченные сны<br />1 x Воспоминания дремучего леса<br />
+            </td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1826,7 +1830,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Toukabou Shigure</td>
+            <td>Токабо сигурэ</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1846,12 +1850,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Chongyun</b></summary>
+  <summary><b>Чун Юнь</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Chongyun</h3></th>
-      <th><h3 align="center">Luxurious Sea-Lord</h3></th>
+      <th><h3 align="center">Чун Юнь</h3></th>
+      <th><h3 align="center">Благодатный владыка вод</h3></th>
     </tr>
     <tr>
       <td>
@@ -1906,7 +1910,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Luxurious Sea-Lord</td>
+            <td>Благодатный владыка вод</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1926,12 +1930,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Wanderer</b></summary>
+  <summary><b>Странник</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Wanderer</h3></th>
-      <th><h3 align="center">Skyward Atlas</h3></th>
+      <th><h3 align="center">Странник</h3></th>
+      <th><h3 align="center">Небесный атлас</h3></th>
     </tr>
     <tr>
       <td>
@@ -1986,7 +1990,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Skyward Atlas</td>
+            <td>Небесный атлас</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2006,12 +2010,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Sayu</b></summary>
+  <summary><b>Саю</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Sayu</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Саю</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
     </tr>
     <tr>
       <td>
@@ -2066,7 +2070,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Waster Greatsword</td>
+            <td>Двуручный меч богатыря</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2086,12 +2090,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Yanfei</b></summary>
+  <summary><b>Янь Фэй</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Yanfei</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Янь Фэй</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
     </tr>
     <tr>
       <td>
@@ -2146,7 +2150,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Apprentice's Notes</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2166,12 +2170,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Nahida</b></summary>
+  <summary><b>Нахида</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Magic Guide</h3></th>
+      <th><h3 align="center">Нахида</h3></th>
+      <th><h3 align="center">Руководство по магии</h3></th>
     </tr>
     <tr>
       <td>
@@ -2214,7 +2218,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>4 x Deepwood Memories<br /></td>
+            <td>4 x Воспоминания дремучего леса<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -2226,7 +2230,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Magic Guide</td>
+            <td>Руководство по магии</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2246,12 +2250,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Mona</b></summary>
+  <summary><b>Мона</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Mona</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Мона</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
     </tr>
     <tr>
       <td>
@@ -2298,7 +2302,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Pact of Stars and Moon</td>
+            <td>Встреча звёзд и луны</td>
           </tr>
         </table>
       </td>
@@ -2306,7 +2310,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Apprentice's Notes</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2326,12 +2330,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Zhongli</b></summary>
+  <summary><b>Чжун Ли</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Zhongli</h3></th>
-      <th><h3 align="center">Black Tassel</h3></th>
+      <th><h3 align="center">Чжун Ли</h3></th>
+      <th><h3 align="center">Чёрная кисть</h3></th>
     </tr>
     <tr>
       <td>
@@ -2386,7 +2390,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Black Tassel</td>
+            <td>Чёрная кисть</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2406,12 +2410,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Aloy</b></summary>
+  <summary><b>Элой</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Aloy</h3></th>
-      <th><h3 align="center">Predator</h3></th>
+      <th><h3 align="center">Элой</h3></th>
+      <th><h3 align="center">Хищник</h3></th>
     </tr>
     <tr>
       <td>
@@ -2466,7 +2470,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Predator</td>
+            <td>Хищник</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2486,12 +2490,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Kaeya</b></summary>
+  <summary><b>Кэйа</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Kaeya</h3></th>
-      <th><h3 align="center">Silver Sword</h3></th>
+      <th><h3 align="center">Кэйа</h3></th>
+      <th><h3 align="center">Серебряный меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -2538,7 +2542,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Sailwind Shadow</td>
+            <td>Тень ветра в парусах</td>
           </tr>
         </table>
       </td>
@@ -2546,7 +2550,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Silver Sword</td>
+            <td>Серебряный меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2566,12 +2570,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Xinyan</b></summary>
+  <summary><b>Синь Янь</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Xinyan</h3></th>
-      <th><h3 align="center">Debate Club</h3></th>
+      <th><h3 align="center">Синь Янь</h3></th>
+      <th><h3 align="center">Дубина переговоров</h3></th>
     </tr>
     <tr>
       <td>
@@ -2626,7 +2630,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Debate Club</td>
+            <td>Дубина переговоров</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2646,12 +2650,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Thoma</b></summary>
+  <summary><b>Тома</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Thoma</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Тома</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
     </tr>
     <tr>
       <td>
@@ -2706,7 +2710,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Beginner's Protector</td>
+            <td>Копьё новичка</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2726,12 +2730,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Gorou</b></summary>
+  <summary><b>Горо</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Gorou</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Горо</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
     </tr>
     <tr>
       <td>
@@ -2786,7 +2790,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Hunter's Bow</td>
+            <td>Лук охотника</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2806,12 +2810,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Ningguang</b></summary>
+  <summary><b>Нин Гуан</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Ningguang</h3></th>
-      <th><h3 align="center">Favonius Codex</h3></th>
+      <th><h3 align="center">Нин Гуан</h3></th>
+      <th><h3 align="center">Кодекс Фавония</h3></th>
     </tr>
     <tr>
       <td>
@@ -2858,7 +2862,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Orchid's Evening Gown</td>
+            <td>Флёр орхидеи</td>
           </tr>
         </table>
       </td>
@@ -2866,7 +2870,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Favonius Codex</td>
+            <td>Кодекс Фавония</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2886,12 +2890,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Lyney</b></summary>
+  <summary><b>Лини</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Lyney</h3></th>
-      <th><h3 align="center">Amos' Bow</h3></th>
+      <th><h3 align="center">Лини</h3></th>
+      <th><h3 align="center">Лук Амоса</h3></th>
     </tr>
     <tr>
       <td>
@@ -2946,7 +2950,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Amos' Bow</td>
+            <td>Лук Амоса</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2966,12 +2970,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Neuvillette</b></summary>
+  <summary><b>Нёвиллет</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Neuvillette</h3></th>
-      <th><h3 align="center">Tome of the Eternal Flow</h3></th>
+      <th><h3 align="center">Нёвиллет</h3></th>
+      <th><h3 align="center">Обряд вечного течения</h3></th>
     </tr>
     <tr>
       <td>
@@ -3026,7 +3030,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Tome of the Eternal Flow</td>
+            <td>Обряд вечного течения</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3046,12 +3050,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Lisa</b></summary>
+  <summary><b>Лиза</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Lisa</h3></th>
-      <th><h3 align="center">Emerald Orb</h3></th>
+      <th><h3 align="center">Лиза</h3></th>
+      <th><h3 align="center">Изумрудный шар</h3></th>
     </tr>
     <tr>
       <td>
@@ -3098,7 +3102,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>A Sobriquet Under Shade</td>
+            <td>Инкогнито в тени листвы</td>
           </tr>
         </table>
       </td>
@@ -3106,7 +3110,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Emerald Orb</td>
+            <td>Изумрудный шар</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3126,12 +3130,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Beidou</b></summary>
+  <summary><b>Бэй Доу</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Beidou</h3></th>
-      <th><h3 align="center">The Bell</h3></th>
+      <th><h3 align="center">Бэй Доу</h3></th>
+      <th><h3 align="center">Меч-колокол</h3></th>
     </tr>
     <tr>
       <td>
@@ -3186,7 +3190,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>The Bell</td>
+            <td>Меч-колокол</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3206,12 +3210,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Amber</b></summary>
+  <summary><b>Эмбер</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Amber</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Эмбер</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
     </tr>
     <tr>
       <td>
@@ -3258,7 +3262,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>100% Outrider</td>
+            <td>Скаут на все сто</td>
           </tr>
         </table>
       </td>
@@ -3266,7 +3270,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Hunter's Bow</td>
+            <td>Лук охотника</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3286,12 +3290,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Collei</b></summary>
+  <summary><b>Коллеи</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Collei</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Коллеи</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
     </tr>
     <tr>
       <td>
@@ -3346,7 +3350,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Hunter's Bow</td>
+            <td>Лук охотника</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3366,12 +3370,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Jean</b></summary>
+  <summary><b>Джинн</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Jean</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Джинн</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -3418,7 +3422,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Gunnhildr's Legacy</td>
+            <td>Наследие Гуннхильдр</td>
           </tr>
         </table>
       </td>
@@ -3426,7 +3430,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dull Blade</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3446,12 +3450,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Tighnari</b></summary>
+  <summary><b>Тигнари</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Tighnari</h3></th>
-      <th><h3 align="center">Hunter's Bow</h3></th>
+      <th><h3 align="center">Тигнари</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
     </tr>
     <tr>
       <td>
@@ -3506,7 +3510,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Hunter's Bow</td>
+            <td>Лук охотника</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3526,12 +3530,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Rosaria</b></summary>
+  <summary><b>Розария</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Rosaria</h3></th>
-      <th><h3 align="center">Favonius Lance</h3></th>
+      <th><h3 align="center">Розария</h3></th>
+      <th><h3 align="center">Копьё Фавония</h3></th>
     </tr>
     <tr>
       <td>
@@ -3578,7 +3582,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>To the Church's Free Spirit</td>
+            <td>За вольный дух церкви</td>
           </tr>
         </table>
       </td>
@@ -3586,7 +3590,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Favonius Lance</td>
+            <td>Копьё Фавония</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3606,12 +3610,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Kujou Sara</b></summary>
+  <summary><b>Сара</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Kujou Sara</h3></th>
-      <th><h3 align="center">Rust</h3></th>
+      <th><h3 align="center">Сара</h3></th>
+      <th><h3 align="center">Ржавый лук</h3></th>
     </tr>
     <tr>
       <td>
@@ -3666,7 +3670,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Rust</td>
+            <td>Ржавый лук</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3686,12 +3690,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Shikanoin Heizou</b></summary>
+  <summary><b>Хэйдзо</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Shikanoin Heizou</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Хэйдзо</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
     </tr>
     <tr>
       <td>
@@ -3746,7 +3750,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Apprentice's Notes</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3766,12 +3770,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Kirara</b></summary>
+  <summary><b>Кирара</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Kirara</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Кирара</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -3826,7 +3830,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dull Blade</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3846,12 +3850,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Yun Jin</b></summary>
+  <summary><b>Юнь Цзинь</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Yun Jin</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Юнь Цзинь</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
     </tr>
     <tr>
       <td>
@@ -3906,7 +3910,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Beginner's Protector</td>
+            <td>Копьё новичка</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3926,12 +3930,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Dori</b></summary>
+  <summary><b>Дори</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Dori</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Дори</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
     </tr>
     <tr>
       <td>
@@ -3986,7 +3990,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Waster Greatsword</td>
+            <td>Двуручный меч богатыря</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4006,12 +4010,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Layla</b></summary>
+  <summary><b>Лайла</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Лайла</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -4066,7 +4070,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dull Blade</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4086,12 +4090,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Yaoyao</b></summary>
+  <summary><b>Яо Яо</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Yaoyao</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Яо Яо</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
     </tr>
     <tr>
       <td>
@@ -4146,7 +4150,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Beginner's Protector</td>
+            <td>Копьё новичка</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4166,12 +4170,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Lynette</b></summary>
+  <summary><b>Линетт</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Lynette</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Линетт</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
@@ -4226,7 +4230,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Dull Blade</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4246,12 +4250,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Freminet</b></summary>
+  <summary><b>Фремине</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Freminet</h3></th>
-      <th><h3 align="center">Waster Greatsword</h3></th>
+      <th><h3 align="center">Фремине</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
     </tr>
     <tr>
       <td>
@@ -4306,7 +4310,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Waster Greatsword</td>
+            <td>Двуручный меч богатыря</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4326,12 +4330,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Charlotte</b></summary>
+  <summary><b>Шарлотта</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Charlotte</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Шарлотта</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
     </tr>
     <tr>
       <td>
@@ -4386,7 +4390,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Apprentice's Notes</td>
+            <td>Записи ученика</td>
           </tr>
           <tr>
             <td>Редкость</td>
