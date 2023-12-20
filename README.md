@@ -5,38 +5,38 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
 <h2>Статистика</h2>
 <table>
   <tr>
-    <td>Достижения</td>
-    <td>825</td>
+    <td>Achievements</td>
+    <td>826</td>
   </tr>
   <tr>
-    <td>Дни активности</td>
-    <td>632</td>
+    <td>Days Active</td>
+    <td>634</td>
   </tr>
   <tr>
-    <td>Персонажи</td>
+    <td>Characters</td>
     <td>51</td>
   </tr>
   <tr>
-    <td>Точки телепортации</td>
+    <td>Waypoints Unlocked</td>
     <td>398</td>
   </tr>
   <tr>
-    <td>Анемокулы</td>
+    <td>Anemoculi</td>
     <td>66</td>
   </tr>
   <tr>
-    <td>Геокулы</td>
+    <td>Geoculi</td>
     <td>131</td>
   </tr>
   <tr>
@@ -44,35 +44,35 @@
     <td>139</td>
   </tr>
   <tr>
-    <td>Электрокулы</td>
+    <td>Electroculi</td>
     <td>181</td>
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>167</td>
+    <td>187</td>
   </tr>
   <tr>
-    <td>Обычные сундуки</td>
-    <td>1394</td>
+    <td>Common Chests Opened</td>
+    <td>1395</td>
   </tr>
   <tr>
-    <td>Богатые сундуки</td>
-    <td>1185</td>
+    <td>Exquisite Chests Opened</td>
+    <td>1189</td>
   </tr>
   <tr>
-    <td>Драгоценные сундуки</td>
-    <td>391</td>
+    <td>Precious Chests Opened</td>
+    <td>393</td>
   </tr>
   <tr>
-    <td>Роскошные сундуки</td>
+    <td>Luxurious Chests Opened</td>
     <td>171</td>
   </tr>
   <tr>
-    <td>Удивительных сундуков</td>
+    <td>Remarkable Chests Opened</td>
     <td>79</td>
   </tr>
   <tr>
-    <td>Подземелья</td>
+    <td>Domains Unlocked</td>
     <td>55</td>
   </tr>
 </table>
@@ -80,15 +80,15 @@
 <h2>Исследование</h2>
 <table>
   <tr>
-    <th>Фонтейн</th>
-    <th>Сумеру</th>
-    <th>Разлом: Подземные шахты</th>
-    <th>Разлом</th>
-    <th>Энканомия</th>
-    <th>Инадзума</th>
-    <th>Драконий хребет</th>
-    <th>Ли Юэ</th>
-    <th>Мондштадт</th>
+    <th>Fontaine</th>
+    <th>Sumeru</th>
+    <th>The Chasm: Underground Mines</th>
+    <th>The Chasm</th>
+    <th>Enkanomiya</th>
+    <th>Inazuma</th>
+    <th>Dragonspine</th>
+    <th>Liyue</th>
+    <th>Mondstadt</th>
   </tr>
   <tr>
     <td>
@@ -170,7 +170,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/50/" width="80" />
+            <img src="https://progress-bar.dev/53/" width="80" />
           </td>
         </tr>
         <tr>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Комфорт</td>
-    <td>Роскошно (24470)</td>
+    <td>Fit for a King (24470)</td>
   </tr>
   <tr>
     <td>Вещи</td>
@@ -314,12 +314,12 @@
 </table>
 <h2>Персонажи</h2>
 <details open>
-  <summary><b>Путешественница</b></summary>
+  <summary><b>Traveler</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Путешественница</h3></th>
-      <th><h3 align="center">Меч-флейта</h3></th>
+      <th><h3 align="center">Traveler</h3></th>
+      <th><h3 align="center">The Flute</h3></th>
     </tr>
     <tr>
       <td>
@@ -332,7 +332,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/a5b03a22ff4ce6a94f9c74e6ea3690a7.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/8937f69ea3b704f850325402308aba6e.png"
           />
         </p>
       </td>
@@ -374,7 +374,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Меч-флейта</td>
+            <td>The Flute</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -394,12 +394,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Син Цю</b></summary>
+  <summary><b>Xingqiu</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Син Цю</h3></th>
-      <th><h3 align="center">Церемониальный меч</h3></th>
+      <th><h3 align="center">Xingqiu</h3></th>
+      <th><h3 align="center">Sacrificial Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -412,7 +412,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/562077e35a616b744abb3a833a9ec5c3.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/5c280fe452450040a85a86e00477de2c.png"
           />
         </p>
       </td>
@@ -442,9 +442,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>
-              4 x Церемония древней знати<br />1 x Странствующий ансамбль<br />
-            </td>
+            <td>4 x Noblesse Oblige<br />1 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -456,7 +454,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Церемониальный меч</td>
+            <td>Sacrificial Sword</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -476,12 +474,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Дилюк</b></summary>
+  <summary><b>Diluc</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Дилюк</h3></th>
-      <th><h3 align="center">Волчья погибель</h3></th>
+      <th><h3 align="center">Diluc</h3></th>
+      <th><h3 align="center">Wolf's Gravestone</h3></th>
     </tr>
     <tr>
       <td>
@@ -494,7 +492,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/60e5bda9dbc2b26e79b9cc58a1b5e8da.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/937fbdf597a1d9e16b69d8008142e9f4.png"
           />
         </p>
       </td>
@@ -524,7 +522,9 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>4 x Горящая алая ведьма<br />1 x Рыцарь крови<br /></td>
+            <td>
+              4 x Crimson Witch of Flames<br />1 x Bloodstained Chivalry<br />
+            </td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -536,7 +536,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Волчья погибель</td>
+            <td>Wolf's Gravestone</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -556,12 +556,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Эола</b></summary>
+  <summary><b>Eula</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Эола</h3></th>
-      <th><h3 align="center">Прототип: Архаичный</h3></th>
+      <th><h3 align="center">Eula</h3></th>
+      <th><h3 align="center">Prototype Archaic</h3></th>
     </tr>
     <tr>
       <td>
@@ -574,7 +574,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/fe34f00001c2686067b6c48dc75e16ce.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/3ed3918cee974c67636996dca83568c3.png"
           />
         </p>
       </td>
@@ -604,7 +604,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>2 x Бледный огонь<br />3 x Рыцарь крови<br /></td>
+            <td>2 x Pale Flame<br />3 x Bloodstained Chivalry<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -616,7 +616,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Архаичный</td>
+            <td>Prototype Archaic</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -636,12 +636,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Рэйзор</b></summary>
+  <summary><b>Razor</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Рэйзор</h3></th>
-      <th><h3 align="center">Заснеженное звёздное серебро</h3></th>
+      <th><h3 align="center">Razor</h3></th>
+      <th><h3 align="center">Snow-Tombed Starsilver</h3></th>
     </tr>
     <tr>
       <td>
@@ -654,7 +654,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/da087ae147618b7cf36a407f35a30a89.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/6e7090cbf64b3a48cc4978c1d6a82287.png"
           />
         </p>
       </td>
@@ -696,7 +696,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Заснеженное звёздное серебро</td>
+            <td>Snow-Tombed Starsilver</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -716,12 +716,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Аяка</b></summary>
+  <summary><b>Kamisato Ayaka</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Аяка</h3></th>
-      <th><h3 align="center">Амэнома Кагэути</h3></th>
+      <th><h3 align="center">Kamisato Ayaka</h3></th>
+      <th><h3 align="center">Amenoma Kageuchi</h3></th>
     </tr>
     <tr>
       <td>
@@ -734,7 +734,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/2d2510a90dc0be4035e9ea0d9ee2a7a5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/8a0ea3d0671e27175dbcf2bc24a7dc4a.png"
           />
         </p>
       </td>
@@ -765,7 +765,7 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              4 x Эмблема рассечённой судьбы<br />1 x Конец гладиатора<br />
+              4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -778,7 +778,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Амэнома Кагэути</td>
+            <td>Amenoma Kageuchi</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -798,12 +798,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Сяо</b></summary>
+  <summary><b>Xiao</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Сяо</h3></th>
-      <th><h3 align="center">Белая кисть</h3></th>
+      <th><h3 align="center">Xiao</h3></th>
+      <th><h3 align="center">White Tassel</h3></th>
     </tr>
     <tr>
       <td>
@@ -816,7 +816,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/fd3c963b4a551d501dcb346955a81cd5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/0270f6ae397d3513804c9133d3a3ca80.png"
           />
         </p>
       </td>
@@ -846,7 +846,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>3 x Странствующий ансамбль<br /></td>
+            <td>3 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -858,7 +858,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Белая кисть</td>
+            <td>White Tassel</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -878,12 +878,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Кокоми</b></summary>
+  <summary><b>Sangonomiya Kokomi</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Кокоми</h3></th>
-      <th><h3 align="center">Эпос о драконоборцах</h3></th>
+      <th><h3 align="center">Sangonomiya Kokomi</h3></th>
+      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
     </tr>
     <tr>
       <td>
@@ -896,7 +896,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/471a65107d4a5cb1fc8877078e0157f0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/6d971a6e87113cd13e95f889f8b5dce9.png"
           />
         </p>
       </td>
@@ -926,9 +926,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>
-              4 x Стойкость Миллелита<br />1 x Возлюбленная юная дева<br />
-            </td>
+            <td>4 x Tenacity of the Millelith<br />1 x Maiden Beloved<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -940,7 +938,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Эпос о драконоборцах</td>
+            <td>Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -960,12 +958,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Барбара</b></summary>
+  <summary><b>Barbara</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Барбара</h3></th>
-      <th><h3 align="center">Эпос о драконоборцах</h3></th>
+      <th><h3 align="center">Barbara</h3></th>
+      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
     </tr>
     <tr>
       <td>
@@ -978,7 +976,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/471a65107d4a5cb1fc8877078e0157f0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/6d971a6e87113cd13e95f889f8b5dce9.png"
           />
         </p>
       </td>
@@ -1009,13 +1007,13 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              3 x Возлюбленная юная дева<br />1 x Странствующий ансамбль<br />1
-              x Конец гладиатора<br />
+              3 x Maiden Beloved<br />1 x Wanderer's Troupe<br />1 x Gladiator's
+              Finale<br />
             </td>
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Летний блеск</td>
+            <td>Summertime Sparkle</td>
           </tr>
         </table>
       </td>
@@ -1023,7 +1021,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Эпос о драконоборцах</td>
+            <td>Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1043,12 +1041,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Беннет</b></summary>
+  <summary><b>Bennett</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Беннет</h3></th>
-      <th><h3 align="center">Прототип: Злоба</h3></th>
+      <th><h3 align="center">Bennett</h3></th>
+      <th><h3 align="center">Prototype Rancour</h3></th>
     </tr>
     <tr>
       <td>
@@ -1061,7 +1059,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/12c1f7f576a8c87bba9d6c7ef2091d06.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/25311329739c145d789d00d1437697fc.png"
           />
         </p>
       </td>
@@ -1091,7 +1089,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>1 x Конец гладиатора<br />4 x Инструктор<br /></td>
+            <td>1 x Gladiator's Finale<br />4 x Instructor<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1103,7 +1101,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Злоба</td>
+            <td>Prototype Rancour</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1123,12 +1121,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Диона</b></summary>
+  <summary><b>Diona</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Диона</h3></th>
-      <th><h3 align="center">Изогнутый лук</h3></th>
+      <th><h3 align="center">Diona</h3></th>
+      <th><h3 align="center">Recurve Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -1141,7 +1139,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/ef6f54f4e87c4c37613bc782ecde6cfe.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c64634879d38fe51ec611872a4609c0c.png"
           />
         </p>
       </td>
@@ -1183,7 +1181,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Изогнутый лук</td>
+            <td>Recurve Bow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1203,12 +1201,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Ноэлль</b></summary>
+  <summary><b>Noelle</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Ноэлль</h3></th>
-      <th><h3 align="center">Белая тень</h3></th>
+      <th><h3 align="center">Noelle</h3></th>
+      <th><h3 align="center">Whiteblind</h3></th>
     </tr>
     <tr>
       <td>
@@ -1221,7 +1219,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b4ac8e254a38ab8aec445c1bde222134.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/6231fdcdceaef2c1af20e9a75ce7f16d.png"
           />
         </p>
       </td>
@@ -1252,8 +1250,8 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              2 x Кокон сладких грёз<br />2 x Конец гладиатора<br />1 x
-              Странствующий ансамбль<br />
+              2 x Husk of Opulent Dreams<br />2 x Gladiator's Finale<br />1 x
+              Wanderer's Troupe<br />
             </td>
           </tr>
           <tr>
@@ -1266,7 +1264,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Белая тень</td>
+            <td>Whiteblind</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1286,12 +1284,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Сян Лин</b></summary>
+  <summary><b>Xiangling</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Сян Лин</h3></th>
-      <th><h3 align="center">Гроза драконов</h3></th>
+      <th><h3 align="center">Xiangling</h3></th>
+      <th><h3 align="center">Dragon's Bane</h3></th>
     </tr>
     <tr>
       <td>
@@ -1304,7 +1302,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/fbafbbe59f40f81c5a804a27b36f2448.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/ec1eef6cc46d9fa037bf42b4003d5d42.png"
           />
         </p>
       </td>
@@ -1334,7 +1332,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>1 x Конец гладиатора<br /></td>
+            <td>1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1346,7 +1344,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Гроза драконов</td>
+            <td>Dragon's Bane</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1366,12 +1364,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Кли</b></summary>
+  <summary><b>Klee</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Кли</h3></th>
-      <th><h3 align="center">Истории Додоко</h3></th>
+      <th><h3 align="center">Klee</h3></th>
+      <th><h3 align="center">Dodoco Tales</h3></th>
     </tr>
     <tr>
       <td>
@@ -1384,7 +1382,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b67c7b705b24ba7dbac46c45c6feada8.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/71b9f985c0eec72b67732416fa711af1.png"
           />
         </p>
       </td>
@@ -1426,7 +1424,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Истории Додоко</td>
+            <td>Dodoco Tales</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1446,12 +1444,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Альбедо</b></summary>
+  <summary><b>Albedo</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Альбедо</h3></th>
-      <th><h3 align="center">Киноварное веретено</h3></th>
+      <th><h3 align="center">Albedo</h3></th>
+      <th><h3 align="center">Cinnabar Spindle</h3></th>
     </tr>
     <tr>
       <td>
@@ -1464,7 +1462,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/195f72a3152500ff473b233ac6d39e89.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/f120d6d5d69df97613b0bb995c79b4c5.png"
           />
         </p>
       </td>
@@ -1506,7 +1504,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Киноварное веретено</td>
+            <td>Cinnabar Spindle</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1526,12 +1524,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Кэ Цин</b></summary>
+  <summary><b>Keqing</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Кэ Цин</h3></th>
-      <th><h3 align="center">Тупой меч</h3></th>
+      <th><h3 align="center">Keqing</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -1544,7 +1542,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c3a93fd4a7d5d1dd52685abd083d739a.png"
           />
         </p>
       </td>
@@ -1586,7 +1584,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Тупой меч</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1606,12 +1604,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Фишль</b></summary>
+  <summary><b>Fischl</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Фишль</h3></th>
-      <th><h3 align="center">Бесструнный</h3></th>
+      <th><h3 align="center">Fischl</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -1624,7 +1622,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/91229531db3a747563356a512e813651.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/00fbbeec9560ca2f3d182507adcba2e9.png"
           />
         </p>
       </td>
@@ -1655,12 +1653,12 @@
           <tr>
             <td>Артефакты</td>
             <td>
-              4 x Странствующий ансамбль<br />1 x Стойкость Миллелита<br />
+              4 x Wanderer's Troupe<br />1 x Tenacity of the Millelith<br />
             </td>
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Сон вечной ночи</td>
+            <td>Ein Immernachtstraum</td>
           </tr>
         </table>
       </td>
@@ -1668,7 +1666,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Бесструнный</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1688,12 +1686,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Сахароза</b></summary>
+  <summary><b>Sucrose</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Сахароза</h3></th>
-      <th><h3 align="center">Песнь странника</h3></th>
+      <th><h3 align="center">Sucrose</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
     </tr>
     <tr>
       <td>
@@ -1706,7 +1704,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9cb923026023879aad24ebbb3f55da78.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c035f28646dac2850f21112f3d6f4518.png"
           />
         </p>
       </td>
@@ -1736,7 +1734,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>1 x Странствующий ансамбль<br />4 x Изумрудная тень<br /></td>
+            <td>1 x Wanderer's Troupe<br />4 x Viridescent Venerer<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1748,7 +1746,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Песнь странника</td>
+            <td>The Widsith</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1768,12 +1766,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Аль-Хайтам</b></summary>
+  <summary><b>Alhaitham</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Аль-Хайтам</h3></th>
-      <th><h3 align="center">Токабо сигурэ</h3></th>
+      <th><h3 align="center">Alhaitham</h3></th>
+      <th><h3 align="center">Toukabou Shigure</h3></th>
     </tr>
     <tr>
       <td>
@@ -1786,7 +1784,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/50058dbd8bda9f1436341e66e84377dc.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/26ac3e9ecb7cf26d280d49472de47fa6.png"
           />
         </p>
       </td>
@@ -1808,7 +1806,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -1816,9 +1814,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>
-              4 x Позолоченные сны<br />1 x Воспоминания дремучего леса<br />
-            </td>
+            <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1830,7 +1826,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Токабо сигурэ</td>
+            <td>Toukabou Shigure</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1850,12 +1846,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Чун Юнь</b></summary>
+  <summary><b>Chongyun</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Чун Юнь</h3></th>
-      <th><h3 align="center">Благодатный владыка вод</h3></th>
+      <th><h3 align="center">Chongyun</h3></th>
+      <th><h3 align="center">Luxurious Sea-Lord</h3></th>
     </tr>
     <tr>
       <td>
@@ -1868,7 +1864,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/d50a956d9b1b46a52437465682282dba.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/173cd871c24c3a1843f64ba75315d33d.png"
           />
         </p>
       </td>
@@ -1910,7 +1906,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Благодатный владыка вод</td>
+            <td>Luxurious Sea-Lord</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1930,12 +1926,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Странник</b></summary>
+  <summary><b>Wanderer</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Странник</h3></th>
-      <th><h3 align="center">Небесный атлас</h3></th>
+      <th><h3 align="center">Wanderer</h3></th>
+      <th><h3 align="center">Skyward Atlas</h3></th>
     </tr>
     <tr>
       <td>
@@ -1948,7 +1944,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/70cfb103178c7e4505aebdc6178b994c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/1f4a1c8f93fc03b4c030e16861bc22b5.png"
           />
         </p>
       </td>
@@ -1990,7 +1986,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Небесный атлас</td>
+            <td>Skyward Atlas</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2010,12 +2006,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Саю</b></summary>
+  <summary><b>Sayu</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Саю</h3></th>
-      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+      <th><h3 align="center">Sayu</h3></th>
+      <th><h3 align="center">Waster Greatsword</h3></th>
     </tr>
     <tr>
       <td>
@@ -2028,7 +2024,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/3a5cf5fb84057362e5a04d3a6c76cb8d.png"
           />
         </p>
       </td>
@@ -2070,7 +2066,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Двуручный меч богатыря</td>
+            <td>Waster Greatsword</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2090,12 +2086,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Янь Фэй</b></summary>
+  <summary><b>Yanfei</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Янь Фэй</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
+      <th><h3 align="center">Yanfei</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
     </tr>
     <tr>
       <td>
@@ -2108,7 +2104,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/77cb91a6ad894c3911ce815b75f8d41d.png"
           />
         </p>
       </td>
@@ -2150,7 +2146,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Записи ученика</td>
+            <td>Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2170,12 +2166,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Нахида</b></summary>
+  <summary><b>Nahida</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Нахида</h3></th>
-      <th><h3 align="center">Руководство по магии</h3></th>
+      <th><h3 align="center">Nahida</h3></th>
+      <th><h3 align="center">Magic Guide</h3></th>
     </tr>
     <tr>
       <td>
@@ -2188,7 +2184,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/830773296c9b91162fc0c858932626ec.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/f63d58379242c30dfde966967d342bae.png"
           />
         </p>
       </td>
@@ -2218,7 +2214,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>4 x Воспоминания дремучего леса<br /></td>
+            <td>4 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -2230,7 +2226,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Руководство по магии</td>
+            <td>Magic Guide</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2250,12 +2246,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Мона</b></summary>
+  <summary><b>Mona</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Мона</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
+      <th><h3 align="center">Mona</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
     </tr>
     <tr>
       <td>
@@ -2268,7 +2264,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/77cb91a6ad894c3911ce815b75f8d41d.png"
           />
         </p>
       </td>
@@ -2302,7 +2298,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Встреча звёзд и луны</td>
+            <td>Pact of Stars and Moon</td>
           </tr>
         </table>
       </td>
@@ -2310,7 +2306,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Записи ученика</td>
+            <td>Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2330,12 +2326,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Чжун Ли</b></summary>
+  <summary><b>Zhongli</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Чжун Ли</h3></th>
-      <th><h3 align="center">Чёрная кисть</h3></th>
+      <th><h3 align="center">Zhongli</h3></th>
+      <th><h3 align="center">Black Tassel</h3></th>
     </tr>
     <tr>
       <td>
@@ -2348,7 +2344,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/07f6b7cbd5bd9dfab17bbb2b6e038161.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/9ca55ba290bce2a4a8cbbe3fd2d452a9.png"
           />
         </p>
       </td>
@@ -2390,7 +2386,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Чёрная кисть</td>
+            <td>Black Tassel</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2410,12 +2406,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Элой</b></summary>
+  <summary><b>Aloy</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Элой</h3></th>
-      <th><h3 align="center">Хищник</h3></th>
+      <th><h3 align="center">Aloy</h3></th>
+      <th><h3 align="center">Predator</h3></th>
     </tr>
     <tr>
       <td>
@@ -2428,7 +2424,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3a2f6f2e4c5a81236d6e12a15cb99856.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/2f3acb55229a1133744c4294462c1e34.png"
           />
         </p>
       </td>
@@ -2470,7 +2466,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Хищник</td>
+            <td>Predator</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2490,12 +2486,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Кэйа</b></summary>
+  <summary><b>Kaeya</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Кэйа</h3></th>
-      <th><h3 align="center">Серебряный меч</h3></th>
+      <th><h3 align="center">Kaeya</h3></th>
+      <th><h3 align="center">Silver Sword</h3></th>
     </tr>
     <tr>
       <td>
@@ -2508,7 +2504,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f21992757c10df421926c973905f6e62.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/4544dcd2fd5f4bfc586175ce1f866569.png"
           />
         </p>
       </td>
@@ -2542,7 +2538,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Тень ветра в парусах</td>
+            <td>Sailwind Shadow</td>
           </tr>
         </table>
       </td>
@@ -2550,7 +2546,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Серебряный меч</td>
+            <td>Silver Sword</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2570,12 +2566,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Синь Янь</b></summary>
+  <summary><b>Xinyan</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Синь Янь</h3></th>
-      <th><h3 align="center">Дубина переговоров</h3></th>
+      <th><h3 align="center">Xinyan</h3></th>
+      <th><h3 align="center">Debate Club</h3></th>
     </tr>
     <tr>
       <td>
@@ -2588,7 +2584,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/b3ad81d9ae450a174ff558a4fada041a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/2be15f96e3b83ed030631dddb2c11ff2.png"
           />
         </p>
       </td>
@@ -2630,7 +2626,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Дубина переговоров</td>
+            <td>Debate Club</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2650,12 +2646,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Тома</b></summary>
+  <summary><b>Thoma</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Тома</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
+      <th><h3 align="center">Thoma</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
     </tr>
     <tr>
       <td>
@@ -2668,7 +2664,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/506f14a662366fcf491b83bde85eecca.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/76201814c8ff81710d9d6e20d24b045b.png"
           />
         </p>
       </td>
@@ -2710,7 +2706,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Копьё новичка</td>
+            <td>Beginner's Protector</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2730,12 +2726,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Горо</b></summary>
+  <summary><b>Gorou</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Горо</h3></th>
-      <th><h3 align="center">Лук охотника</h3></th>
+      <th><h3 align="center">Gorou</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -2748,7 +2744,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9206837979a69083328724a6f4ff7f15.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/985c8fa10e4966ae2b551d7af5ee0be3.png"
           />
         </p>
       </td>
@@ -2790,7 +2786,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Лук охотника</td>
+            <td>Hunter's Bow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2810,12 +2806,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Нин Гуан</b></summary>
+  <summary><b>Ningguang</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Нин Гуан</h3></th>
-      <th><h3 align="center">Кодекс Фавония</h3></th>
+      <th><h3 align="center">Ningguang</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
     </tr>
     <tr>
       <td>
@@ -2828,7 +2824,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/9b71f7a3633e5f4f38f6ddb622d393b1.png"
           />
         </p>
       </td>
@@ -2862,7 +2858,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Флёр орхидеи</td>
+            <td>Orchid's Evening Gown</td>
           </tr>
         </table>
       </td>
@@ -2870,7 +2866,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Кодекс Фавония</td>
+            <td>Favonius Codex</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2890,12 +2886,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Лини</b></summary>
+  <summary><b>Lyney</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Лини</h3></th>
-      <th><h3 align="center">Лук Амоса</h3></th>
+      <th><h3 align="center">Lyney</h3></th>
+      <th><h3 align="center">Amos' Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -2908,7 +2904,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/77e38d63c05585ae5a3b5988d8169374.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/60935faa013e0cd35561d62a0fccb4be.png"
           />
         </p>
       </td>
@@ -2950,7 +2946,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Лук Амоса</td>
+            <td>Amos' Bow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2970,12 +2966,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Нёвиллет</b></summary>
+  <summary><b>Neuvillette</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Нёвиллет</h3></th>
-      <th><h3 align="center">Обряд вечного течения</h3></th>
+      <th><h3 align="center">Neuvillette</h3></th>
+      <th><h3 align="center">Tome of the Eternal Flow</h3></th>
     </tr>
     <tr>
       <td>
@@ -2988,7 +2984,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/8f34b571d7e2d26e6c2ef2886defa86b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/bec3b5ab09d395f284a0c4f6fad5e33a.png"
           />
         </p>
       </td>
@@ -3030,7 +3026,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Обряд вечного течения</td>
+            <td>Tome of the Eternal Flow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3050,12 +3046,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Лиза</b></summary>
+  <summary><b>Lisa</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Лиза</h3></th>
-      <th><h3 align="center">Изумрудный шар</h3></th>
+      <th><h3 align="center">Lisa</h3></th>
+      <th><h3 align="center">Emerald Orb</h3></th>
     </tr>
     <tr>
       <td>
@@ -3068,7 +3064,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/43dc3a6e4e892cf0ee7f01f86c69fe21.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/86e53f13fd5b577a12353505484d2738.png"
           />
         </p>
       </td>
@@ -3102,7 +3098,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Инкогнито в тени листвы</td>
+            <td>A Sobriquet Under Shade</td>
           </tr>
         </table>
       </td>
@@ -3110,7 +3106,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Изумрудный шар</td>
+            <td>Emerald Orb</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3130,12 +3126,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Бэй Доу</b></summary>
+  <summary><b>Beidou</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Бэй Доу</h3></th>
-      <th><h3 align="center">Меч-колокол</h3></th>
+      <th><h3 align="center">Beidou</h3></th>
+      <th><h3 align="center">The Bell</h3></th>
     </tr>
     <tr>
       <td>
@@ -3148,7 +3144,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/84f70957dad0cc705d5149a7b6cc7ffa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/1d0fe37e8682dd9db9a95fe873045535.png"
           />
         </p>
       </td>
@@ -3190,7 +3186,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Меч-колокол</td>
+            <td>The Bell</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3210,12 +3206,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Эмбер</b></summary>
+  <summary><b>Amber</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Эмбер</h3></th>
-      <th><h3 align="center">Лук охотника</h3></th>
+      <th><h3 align="center">Amber</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -3228,7 +3224,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9206837979a69083328724a6f4ff7f15.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/985c8fa10e4966ae2b551d7af5ee0be3.png"
           />
         </p>
       </td>
@@ -3262,7 +3258,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Скаут на все сто</td>
+            <td>100% Outrider</td>
           </tr>
         </table>
       </td>
@@ -3270,7 +3266,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Лук охотника</td>
+            <td>Hunter's Bow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3290,12 +3286,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Коллеи</b></summary>
+  <summary><b>Collei</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Коллеи</h3></th>
-      <th><h3 align="center">Лук охотника</h3></th>
+      <th><h3 align="center">Collei</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -3308,7 +3304,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9206837979a69083328724a6f4ff7f15.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/985c8fa10e4966ae2b551d7af5ee0be3.png"
           />
         </p>
       </td>
@@ -3350,7 +3346,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Лук охотника</td>
+            <td>Hunter's Bow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3370,12 +3366,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Джинн</b></summary>
+  <summary><b>Jean</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Джинн</h3></th>
-      <th><h3 align="center">Тупой меч</h3></th>
+      <th><h3 align="center">Jean</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -3388,7 +3384,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c3a93fd4a7d5d1dd52685abd083d739a.png"
           />
         </p>
       </td>
@@ -3422,7 +3418,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Наследие Гуннхильдр</td>
+            <td>Gunnhildr's Legacy</td>
           </tr>
         </table>
       </td>
@@ -3430,7 +3426,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Тупой меч</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3450,12 +3446,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Тигнари</b></summary>
+  <summary><b>Tighnari</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Тигнари</h3></th>
-      <th><h3 align="center">Лук охотника</h3></th>
+      <th><h3 align="center">Tighnari</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -3468,7 +3464,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/9206837979a69083328724a6f4ff7f15.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/985c8fa10e4966ae2b551d7af5ee0be3.png"
           />
         </p>
       </td>
@@ -3510,7 +3506,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Лук охотника</td>
+            <td>Hunter's Bow</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3530,12 +3526,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Розария</b></summary>
+  <summary><b>Rosaria</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Розария</h3></th>
-      <th><h3 align="center">Копьё Фавония</h3></th>
+      <th><h3 align="center">Rosaria</h3></th>
+      <th><h3 align="center">Favonius Lance</h3></th>
     </tr>
     <tr>
       <td>
@@ -3548,7 +3544,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/45b6674024c03a48685d2abcbac01488.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/d13290ba5e292f7a9f4fd9bf0e9470a3.png"
           />
         </p>
       </td>
@@ -3582,7 +3578,7 @@
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>За вольный дух церкви</td>
+            <td>To the Church's Free Spirit</td>
           </tr>
         </table>
       </td>
@@ -3590,7 +3586,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Копьё Фавония</td>
+            <td>Favonius Lance</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3610,12 +3606,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Сара</b></summary>
+  <summary><b>Kujou Sara</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Сара</h3></th>
-      <th><h3 align="center">Ржавый лук</h3></th>
+      <th><h3 align="center">Kujou Sara</h3></th>
+      <th><h3 align="center">Rust</h3></th>
     </tr>
     <tr>
       <td>
@@ -3628,7 +3624,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/aa984584cc08d8bbd57a7e7fefaf8e0e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/b50324691643f24a5aa4bc468b30ba80.png"
           />
         </p>
       </td>
@@ -3670,7 +3666,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Ржавый лук</td>
+            <td>Rust</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3690,12 +3686,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Хэйдзо</b></summary>
+  <summary><b>Shikanoin Heizou</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Хэйдзо</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
+      <th><h3 align="center">Shikanoin Heizou</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
     </tr>
     <tr>
       <td>
@@ -3708,7 +3704,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/77cb91a6ad894c3911ce815b75f8d41d.png"
           />
         </p>
       </td>
@@ -3750,7 +3746,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Записи ученика</td>
+            <td>Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3770,12 +3766,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Кирара</b></summary>
+  <summary><b>Kirara</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Кирара</h3></th>
-      <th><h3 align="center">Тупой меч</h3></th>
+      <th><h3 align="center">Kirara</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -3788,7 +3784,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c3a93fd4a7d5d1dd52685abd083d739a.png"
           />
         </p>
       </td>
@@ -3830,7 +3826,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Тупой меч</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3850,12 +3846,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Юнь Цзинь</b></summary>
+  <summary><b>Yun Jin</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Юнь Цзинь</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
+      <th><h3 align="center">Yun Jin</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
     </tr>
     <tr>
       <td>
@@ -3868,7 +3864,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/506f14a662366fcf491b83bde85eecca.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/76201814c8ff81710d9d6e20d24b045b.png"
           />
         </p>
       </td>
@@ -3910,7 +3906,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Копьё новичка</td>
+            <td>Beginner's Protector</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -3930,12 +3926,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Дори</b></summary>
+  <summary><b>Dori</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Дори</h3></th>
-      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+      <th><h3 align="center">Dori</h3></th>
+      <th><h3 align="center">Waster Greatsword</h3></th>
     </tr>
     <tr>
       <td>
@@ -3948,7 +3944,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/3a5cf5fb84057362e5a04d3a6c76cb8d.png"
           />
         </p>
       </td>
@@ -3990,7 +3986,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Двуручный меч богатыря</td>
+            <td>Waster Greatsword</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4010,12 +4006,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Лайла</b></summary>
+  <summary><b>Layla</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Лайла</h3></th>
-      <th><h3 align="center">Тупой меч</h3></th>
+      <th><h3 align="center">Layla</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -4028,7 +4024,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c3a93fd4a7d5d1dd52685abd083d739a.png"
           />
         </p>
       </td>
@@ -4070,7 +4066,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Тупой меч</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4090,12 +4086,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Яо Яо</b></summary>
+  <summary><b>Yaoyao</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Яо Яо</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
+      <th><h3 align="center">Yaoyao</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
     </tr>
     <tr>
       <td>
@@ -4108,7 +4104,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/506f14a662366fcf491b83bde85eecca.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/76201814c8ff81710d9d6e20d24b045b.png"
           />
         </p>
       </td>
@@ -4150,7 +4146,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Копьё новичка</td>
+            <td>Beginner's Protector</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4170,12 +4166,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Линетт</b></summary>
+  <summary><b>Lynette</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Линетт</h3></th>
-      <th><h3 align="center">Тупой меч</h3></th>
+      <th><h3 align="center">Lynette</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -4188,7 +4184,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/c3a93fd4a7d5d1dd52685abd083d739a.png"
           />
         </p>
       </td>
@@ -4230,7 +4226,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Тупой меч</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4250,12 +4246,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Фремине</b></summary>
+  <summary><b>Freminet</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Фремине</h3></th>
-      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+      <th><h3 align="center">Freminet</h3></th>
+      <th><h3 align="center">Waster Greatsword</h3></th>
     </tr>
     <tr>
       <td>
@@ -4268,7 +4264,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/3a5cf5fb84057362e5a04d3a6c76cb8d.png"
           />
         </p>
       </td>
@@ -4310,7 +4306,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Двуручный меч богатыря</td>
+            <td>Waster Greatsword</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -4330,12 +4326,12 @@
   </table>
 </details>
 <details>
-  <summary><b>Шарлотта</b></summary>
+  <summary><b>Charlotte</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Шарлотта</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
+      <th><h3 align="center">Charlotte</h3></th>
+      <th><h3 align="center">Apprentice's Notes</h3></th>
     </tr>
     <tr>
       <td>
@@ -4348,7 +4344,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/044cf3d5b770fa556dbb6001bce34b4c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u033pf/77cb91a6ad894c3911ce815b75f8d41d.png"
           />
         </p>
       </td>
@@ -4390,7 +4386,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Записи ученика</td>
+            <td>Apprentice's Notes</td>
           </tr>
           <tr>
             <td>Редкость</td>
