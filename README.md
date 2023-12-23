@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -721,7 +721,7 @@
   <table>
     <tr>
       <th><h3 align="center">Аяка</h3></th>
-      <th><h3 align="center">Амэнома Кагэути</h3></th>
+      <th><h3 align="center">Рассекающий туман</h3></th>
     </tr>
     <tr>
       <td>
@@ -734,7 +734,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/c8607e9b6938744f6175b5631c2d61d0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/e6bf997237be2f9cc8285d7049042267.png"
           />
         </p>
       </td>
@@ -778,15 +778,15 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Амэнома Кагэути</td>
+            <td>Рассекающий туман</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>60</td>
+            <td>40</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
