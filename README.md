@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -306,6 +306,53 @@
   <tr>
     <td>Компаньоны</td>
     <td>17</td>
+  </tr>
+</table>
+<h2>Витая Бездна</h2>
+<table>
+  <tr>
+    <td>Сезон</td>
+    <td>87</td>
+  </tr>
+  <tr>
+    <td>Всего сражений</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>Всего побед</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Максимальный этаж</td>
+    <td>12-3</td>
+  </tr>
+  <tr>
+    <td>Всего звёзд</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>Попыток битв</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Максимум побед</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Самый мощный удар</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Макс. полученного урона</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Выполнено взрывов стихий</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Элементальные навыки</td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -3087,7 +3134,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -3167,7 +3214,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -4548,6 +4595,86 @@
           <tr>
             <td>Название</td>
             <td>Копьё новичка</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Ка Мин</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Ка Мин</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gaming.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u854wf/55f937760d1f4e496cd8f75731aa24c6.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Двуручный меч богатыря</td>
           </tr>
           <tr>
             <td>Редкость</td>
