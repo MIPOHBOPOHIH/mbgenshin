@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>20 x Камень Истока</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>827</td>
+    <td>833</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>640</td>
+    <td>642</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>53</td>
+    <td>54</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>398</td>
+    <td>403</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>202</td>
+    <td>204</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -49,15 +49,15 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1396</td>
+    <td>1441</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1192</td>
+    <td>1209</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>397</td>
+    <td>401</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -76,6 +76,7 @@
 <h2>Исследование</h2>
 <table>
   <tr>
+    <th>Верхнее ущелье Чэньюй</th>
     <th>Фонтейн</th>
     <th>Сумеру</th>
     <th>Разлом: Подземные шахты</th>
@@ -85,8 +86,17 @@
     <th>Драконий хребет</th>
     <th>Ли Юэ</th>
     <th>Мондштадт</th>
+    <th>Долина Чэньюй</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -159,8 +169,30 @@
         />
       </p>
     </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/6/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -208,7 +240,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/81/" width="80" />
+            <img src="https://progress-bar.dev/84/" width="80" />
           </td>
         </tr>
         <tr>
@@ -250,7 +282,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/97/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -264,7 +296,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/88/" width="80" />
+            <img src="https://progress-bar.dev/89/" width="80" />
           </td>
         </tr>
         <tr>
@@ -278,12 +310,26 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/98/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Репутация</td>
           <td>8</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/0/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Уровень</td>
+          <td>0</td>
         </tr>
       </table>
     </td>
@@ -332,15 +378,51 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (6)<br />
+    </td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (70)<br />
+    </td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (41719)<br />
+    </td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
@@ -348,11 +430,25 @@
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (11)<br />
+    </td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (48)<br />
+    </td>
   </tr>
 </table>
 <h2>Персонажи</h2>
