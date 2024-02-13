@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Редисовые шарики</td>
+    <td>2 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>642</td>
+    <td>643</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>204</td>
+    <td>205</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -198,12 +198,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/55/" width="80" />
+            <img src="https://progress-bar.dev/56/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Репутация</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
       </table>
     </td>
@@ -385,6 +385,11 @@
         height="18"
       />
       Diluc (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -394,12 +399,7 @@
         ,
         height="18"
       />
-      Kamisato Ayaka (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (6)<br />
+      Kamisato Ayaka (6)<br />
     </td>
   </tr>
   <tr>
