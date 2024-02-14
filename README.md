@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Мора</td>
   </tr>
 </table>
 
@@ -385,6 +385,11 @@
         height="18"
       />
       Diluc (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
         ,
         height="18"
@@ -394,12 +399,7 @@
         ,
         height="18"
       />
-      Xingqiu (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (6)<br />
+      Xingqiu (6)<br />
     </td>
   </tr>
   <tr>
