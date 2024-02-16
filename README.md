@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Опыт искателя приключений</td>
+    <td>5 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>643</td>
+    <td>644</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -385,11 +385,6 @@
         height="18"
       />
       Diluc (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -399,7 +394,12 @@
         ,
         height="18"
       />
-      Eula (6)<br />
+      Eula (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (6)<br />
     </td>
   </tr>
   <tr>
