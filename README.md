@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -358,11 +358,11 @@
 <table>
   <tr>
     <td>Сезон</td>
-    <td>87</td>
+    <td>88</td>
   </tr>
   <tr>
     <td>Всего сражений</td>
-    <td>13</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Всего побед</td>
@@ -378,51 +378,15 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (6)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (70)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (41719)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
@@ -430,25 +394,11 @@
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (11)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (48)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
