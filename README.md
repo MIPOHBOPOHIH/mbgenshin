@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Опыт искателя приключений</td>
+    <td>3 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>833</td>
+    <td>848</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>647</td>
+    <td>652</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>411</td>
+    <td>418</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,23 +49,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1442</td>
+    <td>1455</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1210</td>
+    <td>1224</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>401</td>
+    <td>406</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>171</td>
+    <td>172</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>81</td>
+    <td>82</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -78,6 +78,7 @@
   <tr>
     <th>Верхнее ущелье Чэньюй</th>
     <th>Южные холмы Чэньюй</th>
+    <th>Гора Лайсинь</th>
     <th>Фонтейн</th>
     <th>Сумеру</th>
     <th>Разлом: Подземные шахты</th>
@@ -90,6 +91,14 @@
     <th>Долина Чэньюй</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -193,6 +202,20 @@
         <tr>
           <td>Изучено</td>
           <td>
+            <img src="https://progress-bar.dev/21/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
             <img src="https://progress-bar.dev/13/" width="80" />
           </td>
         </tr>
@@ -207,7 +230,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/4/" width="80" />
+            <img src="https://progress-bar.dev/30/" width="80" />
           </td>
         </tr>
         <tr>
@@ -221,7 +244,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/56/" width="80" />
+            <img src="https://progress-bar.dev/57/" width="80" />
           </td>
         </tr>
         <tr>
@@ -319,7 +342,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/89/" width="80" />
+            <img src="https://progress-bar.dev/90/" width="80" />
           </td>
         </tr>
         <tr>
@@ -352,7 +375,7 @@
         </tr>
         <tr>
           <td>Уровень</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -370,7 +393,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>825</td>
+    <td>828</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -381,15 +404,15 @@
 <table>
   <tr>
     <td>Сезон</td>
-    <td>88</td>
+    <td>89</td>
   </tr>
   <tr>
     <td>Всего сражений</td>
-    <td>21</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Всего побед</td>
-    <td>21</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Максимальный этаж</td>
@@ -397,55 +420,19 @@
   </tr>
   <tr>
     <td>Всего звёзд</td>
-    <td>63</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (6)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (68)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (39224)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
@@ -453,25 +440,11 @@
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (4)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (162)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -2333,6 +2306,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Янь Фэй</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Янь Фэй</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>8</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Записи ученика</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Нахида</b></summary>
   <br />
   <table>
@@ -2406,86 +2459,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Янь Фэй</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Янь Фэй</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>7</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Записи ученика</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
@@ -4057,7 +4030,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Артефакты</td>
