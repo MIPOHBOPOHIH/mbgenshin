@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Превосходная руда усиления</td>
+    <td>5000 x Мора</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>848</td>
+    <td>859</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>652</td>
+    <td>655</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>418</td>
+    <td>425</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -40,28 +40,32 @@
     <td>131</td>
   </tr>
   <tr>
-    <td></td>
-    <td>205</td>
+    <td>Дендрокулы</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
     <td>181</td>
   </tr>
   <tr>
+    <td>Гидрокулы</td>
+    <td>205</td>
+  </tr>
+  <tr>
     <td>Обычные сундуки</td>
-    <td>1455</td>
+    <td>1541</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1224</td>
+    <td>1244</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>406</td>
+    <td>419</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>172</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
@@ -202,7 +206,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/21/" width="80" />
+            <img src="https://progress-bar.dev/30/" width="80" />
           </td>
         </tr>
         <tr>
@@ -216,7 +220,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/17/" width="80" />
           </td>
         </tr>
         <tr>
@@ -300,7 +304,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/66/" width="80" />
+            <img src="https://progress-bar.dev/99/" width="80" />
           </td>
         </tr>
         <tr>
@@ -314,7 +318,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/95/" width="80" />
+            <img src="https://progress-bar.dev/97/" width="80" />
           </td>
         </tr>
         <tr>
@@ -393,7 +397,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>828</td>
+    <td>829</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -424,27 +428,79 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (9)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
+        ,
+        height="18"
+      />
+      Eula (3)<br />
+    </td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (69)<br />
+    </td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (66288)<br />
+    </td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (1707)<br />
+    </td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
+        ,
+        height="18"
+      />
+      Diluc (19)<br />
+    </td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (23)<br />
+    </td>
   </tr>
 </table>
 <h2>Персонажи</h2>
@@ -459,15 +515,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_PlayerGirl.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/4a25f18e6c454739b1ae6ceddfbee042.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/233aa3f3a7f017515545295d8622f56e.png"
           />
         </p>
       </td>
@@ -539,15 +593,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Xingqiu.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/fc63c4a32f0d7c125ccbf53883e02576.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/0d06e82b6bef3a83ef55eb41cffa8647.png"
           />
         </p>
       </td>
@@ -621,15 +673,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Diluc.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/ccacdac1f5389018d5a7334d506f6729.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/d2543b3409dfa70877d84df19cc0d0d7.png"
           />
         </p>
       </td>
@@ -701,15 +751,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Eula.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/854a2efeaca630c164c52cba1d5d32f8.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/c2a316979ed2c4220a01848af22ebbc5.png"
           />
         </p>
       </td>
@@ -781,15 +829,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Razor.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/8e988bd315fdbcff4f0e3aeb29c49010.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/ec2c1bdc4b2de259e81ec55a425e0d79.png"
           />
         </p>
       </td>
@@ -861,15 +907,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/b144b3b355fa02e3c264445c4dc06bb9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1e25ef27dfe2518d1032e12ddc2fcc0e.png"
           />
         </p>
       </td>
@@ -944,15 +988,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Xiao.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/35d69f7aeb20692165d45252324d7f87.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b2e607b7ed8407ca3af2ba5bdc3a11e6.png"
           />
         </p>
       </td>
@@ -1024,15 +1066,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Kokomi.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/66984eb85b299f75c72faeffaf8c55c6.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b38918efb657266f85828af727a98414.png"
           />
         </p>
       </td>
@@ -1106,15 +1146,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Barbara.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/66984eb85b299f75c72faeffaf8c55c6.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/b38918efb657266f85828af727a98414.png"
           />
         </p>
       </td>
@@ -1189,15 +1227,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Bennett.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/5e549a61059e4745445677c3cd76c70e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a65b7a7e1cb46fb96bee24dc9a6c7248.png"
           />
         </p>
       </td>
@@ -1269,15 +1305,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Diona.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/c770752b8b5f3c685607cf5939a6684c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/bb7627c0d91503cb7394c4136458f6f1.png"
           />
         </p>
       </td>
@@ -1349,15 +1383,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Noel.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/2ab29259cb136bc254cd0f71fde3fd54.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/6ff651ebf5c496cf0259e27fe4bc2f32.png"
           />
         </p>
       </td>
@@ -1432,15 +1464,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/9f545700436cd4f8f5d99feedf88c5fa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/d77def5f2ea0331339e6b05a559a2024.png"
           />
         </p>
       </td>
@@ -1512,15 +1542,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Klee.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/38cf12b2921b886aad0a7f8de2d9fd2c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/cb38c326e03dbce0439e2ec54f84224b.png"
           />
         </p>
       </td>
@@ -1592,15 +1620,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Albedo.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f282c499908090da0fbf289c2dcac10c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/396a8b145332e98f10b3132fdfc04cbd.png"
           />
         </p>
       </td>
@@ -1672,15 +1698,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Keqing.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2a541e0742397556070bcc7fbf9c9fc5.png"
           />
         </p>
       </td>
@@ -1752,15 +1776,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Fischl.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/02656d43eb0403d4ad1881bd54d8f5d2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1e4b5c0e607061f63994d99175b9ab82.png"
           />
         </p>
       </td>
@@ -1834,15 +1856,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/ba8ba52e83c6a231cf6b53a9fe317eef.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/89b1908b64fd52cfd871fd8cb17ca806.png"
           />
         </p>
       </td>
@@ -1914,15 +1934,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Alhatham.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0d4f4c0ba31e0b25fa0156c28a277eb2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e7bae9277f76ab388ceb2b0536dc570c.png"
           />
         </p>
       </td>
@@ -1996,15 +2014,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Chongyun.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/205c653863139d4e0decbfa38fb486e7.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/259679ecea35ae781d78433af052777f.png"
           />
         </p>
       </td>
@@ -2076,15 +2092,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Aloy.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Aloy.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/d7147840db5c62703ffe6edd867144af.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/284dc80b47513cdc0caa81d90b9779f5.png"
           />
         </p>
       </td>
@@ -2156,15 +2170,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/92bb754e26daa8337793b4645eb649a5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/659518e43fa5f168e081cbdb50be31d0.png"
           />
         </p>
       </td>
@@ -2236,15 +2248,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Sayu.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f8f612528a3f222bd0d69062887b2a6a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/84eed9416b7f0ed7fd3539fc1971c0fe.png"
           />
         </p>
       </td>
@@ -2316,15 +2326,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1241d2e804241524ea7a37dd59912ead.png"
           />
         </p>
       </td>
@@ -2396,15 +2404,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Nahida.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/2e25227a0399dff39b49b0ddadc0398e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/9b616c7e57905f831999cee9f471380a.png"
           />
         </p>
       </td>
@@ -2466,6 +2472,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Чжун Ли</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Чжун Ли</h3></th>
+      <th><h3 align="center">Чёрная кисть</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/9fe9132b4e4d86032bfec125f0af7c7b.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Geo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Чёрная кисть</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Мона</b></summary>
   <br />
   <table>
@@ -2476,15 +2560,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Mona.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1241d2e804241524ea7a37dd59912ead.png"
           />
         </p>
       </td>
@@ -2546,86 +2628,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Чжун Ли</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Чжун Ли</h3></th>
-      <th><h3 align="center">Чёрная кисть</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/80bac6e749ed2401816e8bc9ff9be58d.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Geo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Чёрная кисть</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Лини</b></summary>
   <br />
   <table>
@@ -2636,15 +2638,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Liney.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Liney.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/116ba58a87bec36e929e184a209d571e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/23939c1f13135c76b04306a6e41cff1d.png"
           />
         </p>
       </td>
@@ -2666,7 +2666,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2716,15 +2716,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Qin.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2a541e0742397556070bcc7fbf9c9fc5.png"
           />
         </p>
       </td>
@@ -2796,15 +2794,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Kaeya.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/aa6993e95e7d36d5fb11403e23c8cc17.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/84ed90b3d7739063c365f543acb35205.png"
           />
         </p>
       </td>
@@ -2876,15 +2872,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Beidou.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/4daff5cd84e8ec4fe38987924f736ded.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/68c66ae86ddcbf372f4d67627fd0c65a.png"
           />
         </p>
       </td>
@@ -2956,15 +2950,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Xinyan.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/340b334f47c67feac457eefc3e5436f1.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/22961f8ab632c323f8aa94c26a90c752.png"
           />
         </p>
       </td>
@@ -3036,15 +3028,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Tohma.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/cbcb12c2150bb5ac5031dbae2474e7c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png"
           />
         </p>
       </td>
@@ -3116,15 +3106,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Gorou.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0798c24851905694ea3850d77d984dda.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b55e5588886a864aff3783b3beb137.png"
           />
         </p>
       </td>
@@ -3196,15 +3184,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Yaoyao.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/cbcb12c2150bb5ac5031dbae2474e7c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png"
           />
         </p>
       </td>
@@ -3276,15 +3262,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Ningguang.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/28091ee82def660260b620f4bfc20471.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/a2e63060cc252b6306aff79a526fbbcb.png"
           />
         </p>
       </td>
@@ -3356,15 +3340,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Neuvillette.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/da1c131d1eb020a7f65c9be9759c0442.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/872d2814946a36f9b1d53d712706e253.png"
           />
         </p>
       </td>
@@ -3436,15 +3418,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Tighnari.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0798c24851905694ea3850d77d984dda.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b55e5588886a864aff3783b3beb137.png"
           />
         </p>
       </td>
@@ -3466,7 +3446,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -3516,15 +3496,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Lisa.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/217fd65421509d0fd5e93a475a381245.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/5aad80fc9491622303c7872ee70e5930.png"
           />
         </p>
       </td>
@@ -3596,15 +3574,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Ambor.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0798c24851905694ea3850d77d984dda.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b55e5588886a864aff3783b3beb137.png"
           />
         </p>
       </td>
@@ -3676,15 +3652,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Collei.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/0798c24851905694ea3850d77d984dda.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b55e5588886a864aff3783b3beb137.png"
           />
         </p>
       </td>
@@ -3756,15 +3730,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Shougun.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/cbcb12c2150bb5ac5031dbae2474e7c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png"
           />
         </p>
       </td>
@@ -3836,15 +3808,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/2cb0d290c7982890514d08dc4920324e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/e0b24fa39aa0faa17dd92fcc3f0176b0.png"
           />
         </p>
       </td>
@@ -3916,15 +3886,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Sara.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/e83dd51c02ef0f9d1a11d0f1d58b9053.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/8a097b9f11f89875e515f09783dd36d3.png"
           />
         </p>
       </td>
@@ -3996,15 +3964,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Heizo.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1241d2e804241524ea7a37dd59912ead.png"
           />
         </p>
       </td>
@@ -4076,15 +4042,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Momoka.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2a541e0742397556070bcc7fbf9c9fc5.png"
           />
         </p>
       </td>
@@ -4156,15 +4120,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Yunjin.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/cbcb12c2150bb5ac5031dbae2474e7c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png"
           />
         </p>
       </td>
@@ -4236,15 +4198,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Dori.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f8f612528a3f222bd0d69062887b2a6a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/84eed9416b7f0ed7fd3539fc1971c0fe.png"
           />
         </p>
       </td>
@@ -4316,15 +4276,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Candace.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Candace.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/cbcb12c2150bb5ac5031dbae2474e7c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png"
           />
         </p>
       </td>
@@ -4396,15 +4354,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Layla.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2a541e0742397556070bcc7fbf9c9fc5.png"
           />
         </p>
       </td>
@@ -4476,15 +4432,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Linette.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/72c70ed28167c7167a4f78d48d674e7c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/2a541e0742397556070bcc7fbf9c9fc5.png"
           />
         </p>
       </td>
@@ -4556,15 +4510,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Freminet.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Freminet.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f8f612528a3f222bd0d69062887b2a6a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/84eed9416b7f0ed7fd3539fc1971c0fe.png"
           />
         </p>
       </td>
@@ -4636,15 +4588,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Charlotte.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Charlotte.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/1241d2e804241524ea7a37dd59912ead.png"
           />
         </p>
       </td>
@@ -4716,15 +4666,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chevreuse.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Chevreuse.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/cbcb12c2150bb5ac5031dbae2474e7c5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/035029bb64fb6ad91e76ffb6cc5d5be6.png"
           />
         </p>
       </td>
@@ -4796,15 +4744,13 @@
     <tr>
       <td>
         <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gaming.png"
-          />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Gaming.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/f8f612528a3f222bd0d69062887b2a6a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u69a1f/84eed9416b7f0ed7fd3539fc1971c0fe.png"
           />
         </p>
       </td>
