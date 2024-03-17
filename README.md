@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>20 x Камень Истока</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>859</td>
+    <td>865</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>655</td>
+    <td>666</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>425</td>
+    <td>429</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>205</td>
+    <td>215</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1541</td>
+    <td>1572</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1244</td>
+    <td>1260</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>419</td>
+    <td>424</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>175</td>
+    <td>176</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>82</td>
+    <td>84</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -206,6 +206,34 @@
         <tr>
           <td>Изучено</td>
           <td>
+            <img src="https://progress-bar.dev/32/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/22/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
             <img src="https://progress-bar.dev/30/" width="80" />
           </td>
         </tr>
@@ -220,40 +248,12 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/17/" width="80" />
-          </td>
-        </tr>
-        <tr>
-          <td>TypeUnknow</td>
-          <td>0</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Изучено</td>
-          <td>
-            <img src="https://progress-bar.dev/30/" width="80" />
-          </td>
-        </tr>
-        <tr>
-          <td>TypeUnknow</td>
-          <td>0</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Изучено</td>
-          <td>
-            <img src="https://progress-bar.dev/57/" width="80" />
+            <img src="https://progress-bar.dev/58/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Репутация</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -262,7 +262,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/46/" width="80" />
+            <img src="https://progress-bar.dev/47/" width="80" />
           </td>
         </tr>
         <tr>
@@ -397,7 +397,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>829</td>
+    <td>840</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -408,11 +408,11 @@
 <table>
   <tr>
     <td>Сезон</td>
-    <td>89</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Всего сражений</td>
-    <td>13</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Всего побед</td>
@@ -428,79 +428,27 @@
   </tr>
   <tr>
     <td>Попыток битв</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (3)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Максимум побед</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (69)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Самый мощный удар</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (66288)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Макс. полученного урона</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (1707)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Выполнено взрывов стихий</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (19)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Элементальные навыки</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (23)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Персонажи</h2>
