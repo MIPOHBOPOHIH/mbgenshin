@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>8000 x Мора</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>668</td>
+    <td>669</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -402,93 +402,6 @@
   <tr>
     <td>Компаньоны</td>
     <td>17</td>
-  </tr>
-</table>
-<h2>Витая Бездна</h2>
-<table>
-  <tr>
-    <td>Сезон</td>
-    <td>90</td>
-  </tr>
-  <tr>
-    <td>Всего сражений</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>Всего побед</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>Максимальный этаж</td>
-    <td>12-3</td>
-  </tr>
-  <tr>
-    <td>Всего звёзд</td>
-    <td>36</td>
-  </tr>
-  <tr>
-    <td>Попыток битв</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Максимум побед</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (80)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Самый мощный удар</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (35265)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Макс. полученного урона</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Выполнено взрывов стихий</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (16)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Элементальные навыки</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Diluc.png"
-        ,
-        height="18"
-      />
-      Diluc (64)<br />
-    </td>
   </tr>
 </table>
 <h2>Персонажи</h2>
