@@ -154,42 +154,6 @@
     </table>
     {%- endif -%}
 
-    {%- if abyss.floors|length -%}
-    <h2>Витая Бездна</h2>
-    <table>
-        <tr>
-            <td>Сезон</td>
-            <td>{{ abyss.season }}</td>
-        </tr>
-        <tr>
-            <td>Всего сражений</td>
-            <td>{{ abyss.total_battles }}</td>
-        </tr>
-        <tr>
-            <td>Всего побед</td>
-            <td>{{ abyss.total_wins }}</td>
-        </tr>
-        <tr>
-            <td>Максимальный этаж</td>
-            <td>{{ abyss.max_floor }}</td>
-        </tr>
-        <tr>
-            <td>Всего звёзд</td>
-            <td>{{ abyss.total_stars }}</td>
-        </tr>
-        {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
-        <tr>
-            <td>{{ field }}</td>
-            <td>
-                {%- for character in characters -%}
-                <img src="{{ character.icon }}" , height="18"> {{ character.name }} ({{ character.value }})<br>
-                {%- endfor -%}
-            </td>
-        </tr>
-        {%- endfor -%}
-    </table>
-    {%- endif -%}
-
 
     <h2>Персонажи</h2>
     {%- for character in user.characters -%}
