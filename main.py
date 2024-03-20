@@ -45,7 +45,6 @@ async def main():
     client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
     await genshin.utility.update_characters_any()
     user = await client.get_full_genshin_user(0, lang='ru-ru')
-    abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
     diary = await client.get_genshin_diary()
 
     try:
@@ -60,7 +59,6 @@ async def main():
     rendered = template.render(
         user=user,
         lang=args.lang,
-        abyss=abyss,
         reward=reward,
         diary=diary,
         reward_info=reward_info,
