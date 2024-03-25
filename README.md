@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Редисовые шарики</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>865</td>
+    <td>888</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>670</td>
+    <td>672</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>429</td>
+    <td>430</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>Дендрокулы</td>
-    <td>143</td>
+    <td>271</td>
   </tr>
   <tr>
     <td>Электрокулы</td>
@@ -53,23 +53,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1572</td>
+    <td>1708</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1263</td>
+    <td>1362</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>425</td>
+    <td>455</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>176</td>
+    <td>187</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>84</td>
+    <td>111</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -206,7 +206,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/32/" width="80" />
+            <img src="https://progress-bar.dev/86/" width="80" />
           </td>
         </tr>
         <tr>
@@ -220,7 +220,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/22/" width="80" />
+            <img src="https://progress-bar.dev/76/" width="80" />
           </td>
         </tr>
         <tr>
@@ -234,7 +234,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/30/" width="80" />
+            <img src="https://progress-bar.dev/74/" width="80" />
           </td>
         </tr>
         <tr>
@@ -262,7 +262,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/47/" width="80" />
+            <img src="https://progress-bar.dev/64/" width="80" />
           </td>
         </tr>
         <tr>
@@ -318,7 +318,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/97/" width="80" />
+            <img src="https://progress-bar.dev/99/" width="80" />
           </td>
         </tr>
         <tr>
@@ -346,7 +346,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/90/" width="80" />
+            <img src="https://progress-bar.dev/91/" width="80" />
           </td>
         </tr>
         <tr>
@@ -379,7 +379,7 @@
         </tr>
         <tr>
           <td>Уровень</td>
-          <td>1</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -397,7 +397,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>842</td>
+    <td>843</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
