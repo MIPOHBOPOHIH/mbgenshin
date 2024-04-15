@@ -4,3 +4,4 @@ python-dotenv
 pytz
 requests
 beautifulsoup4
+qrcode
