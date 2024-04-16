@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Опыт искателя приключений</td>
+    <td>3 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>888</td>
+    <td>891</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>672</td>
+    <td>679</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -53,23 +53,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1708</td>
+    <td>1738</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1362</td>
+    <td>1377</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>455</td>
+    <td>458</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>187</td>
+    <td>191</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>111</td>
+    <td>115</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -206,7 +206,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/86/" width="80" />
+            <img src="https://progress-bar.dev/88/" width="80" />
           </td>
         </tr>
         <tr>
@@ -220,7 +220,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/76/" width="80" />
+            <img src="https://progress-bar.dev/78/" width="80" />
           </td>
         </tr>
         <tr>
@@ -262,7 +262,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/64/" width="80" />
+            <img src="https://progress-bar.dev/66/" width="80" />
           </td>
         </tr>
         <tr>
@@ -393,11 +393,11 @@
   </tr>
   <tr>
     <td>Комфорт</td>
-    <td>Роскошно (24470)</td>
+    <td>Роскошно (24930)</td>
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>843</td>
+    <td>855</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
