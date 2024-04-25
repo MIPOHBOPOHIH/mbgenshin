@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5000 x Мора</td>
+    <td>20 x Камень Истока</td>
   </tr>
 </table>
 
@@ -2416,7 +2416,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Артефакты</td>
@@ -2530,6 +2530,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Лини</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Лини</h3></th>
+      <th><h3 align="center">Лук Амоса</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Liney.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ueb15f/ce0ad5c3a0bb698c72f668e18c52e9f7.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Лук Амоса</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Чжун Ли</b></summary>
   <br />
   <table>
@@ -2601,84 +2679,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Лини</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Лини</h3></th>
-      <th><h3 align="center">Лук Амоса</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Liney.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ueb15f/ce0ad5c3a0bb698c72f668e18c52e9f7.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Лук Амоса</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3537,6 +3537,84 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Арлекино</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Арлекино</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ueb15f/5fdce5235c8a23c552a02fa66217547c.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё новичка</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -4444,7 +4522,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Артефакты</td>
