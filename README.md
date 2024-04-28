@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Мора</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>908</td>
+    <td>920</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>683</td>
+    <td>685</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>448</td>
+    <td>455</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -49,27 +49,27 @@
   </tr>
   <tr>
     <td>Гидрокулы</td>
-    <td>215</td>
+    <td>240</td>
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1756</td>
+    <td>1795</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1409</td>
+    <td>1441</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>466</td>
+    <td>477</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>193</td>
+    <td>196</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>126</td>
+    <td>137</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -215,7 +215,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/14/" width="80" />
+            <img src="https://progress-bar.dev/45/" width="80" />
           </td>
         </tr>
         <tr>
@@ -271,7 +271,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/63/" width="80" />
+            <img src="https://progress-bar.dev/72/" width="80" />
           </td>
         </tr>
         <tr>
@@ -285,7 +285,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/67/" width="80" />
+            <img src="https://progress-bar.dev/71/" width="80" />
           </td>
         </tr>
         <tr>
@@ -299,7 +299,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/95/" width="80" />
+            <img src="https://progress-bar.dev/96/" width="80" />
           </td>
         </tr>
         <tr>
@@ -420,7 +420,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>855</td>
+    <td>856</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
