@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Мора</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>922</td>
+    <td>925</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>689</td>
+    <td>690</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -53,23 +53,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1798</td>
+    <td>1800</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1449</td>
+    <td>1452</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>479</td>
+    <td>482</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>196</td>
+    <td>197</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>137</td>
+    <td>138</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -215,7 +215,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/45/" width="80" />
+            <img src="https://progress-bar.dev/49/" width="80" />
           </td>
         </tr>
         <tr>
@@ -229,7 +229,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/88/" width="80" />
+            <img src="https://progress-bar.dev/89/" width="80" />
           </td>
         </tr>
         <tr>
@@ -243,7 +243,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/78/" width="80" />
+            <img src="https://progress-bar.dev/81/" width="80" />
           </td>
         </tr>
         <tr>
