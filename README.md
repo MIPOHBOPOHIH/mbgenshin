@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>8000 x Мора</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -906,7 +906,7 @@
   <table>
     <tr>
       <th><h3 align="center">Сяо</h3></th>
-      <th><h3 align="center">Белая кисть</h3></th>
+      <th><h3 align="center">Нефритовый коршун</h3></th>
     </tr>
     <tr>
       <td>
@@ -917,7 +917,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/c56d561ced0441ecbf3e72980014fd4b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/c50a47d3314bcff507e68ee8cc395126.png"
           />
         </p>
       </td>
@@ -959,11 +959,11 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Белая кисть</td>
+            <td>Нефритовый коршун</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -971,7 +971,7 @@
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
