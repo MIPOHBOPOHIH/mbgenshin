@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Редисовые шарики</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>691</td>
+    <td>692</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -1457,6 +1457,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Арлекино</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Арлекино</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/3ddaeb5fae0079c3b3e77dcb289881ec.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё новичка</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Сян Лин</b></summary>
   <br />
   <table>
@@ -2241,84 +2319,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Арлекино</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Арлекино</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/3ddaeb5fae0079c3b3e77dcb289881ec.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Копьё новичка</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Странник</b></summary>
   <br />
   <table>
@@ -2780,6 +2780,84 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Нёвиллет</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Нёвиллет</h3></th>
+      <th><h3 align="center">Обряд вечного течения</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/3b33215d689ffd95b29a472f85f3888e.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Обряд вечного течения</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3556,84 +3634,6 @@
           <tr>
             <td>Уровень</td>
             <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Нёвиллет</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Нёвиллет</h3></th>
-      <th><h3 align="center">Обряд вечного течения</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/3b33215d689ffd95b29a472f85f3888e.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Обряд вечного течения</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
