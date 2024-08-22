@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>11</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,15 +17,15 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>946</td>
+    <td>956</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>700</td>
+    <td>709</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
@@ -53,15 +53,15 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1833</td>
+    <td>1861</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1465</td>
+    <td>1475</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>488</td>
+    <td>489</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>145</td>
+    <td>147</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -313,7 +313,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/84/" width="80" />
+            <img src="https://progress-bar.dev/85/" width="80" />
           </td>
         </tr>
         <tr>
@@ -327,7 +327,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/99/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -341,7 +341,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/99/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -420,7 +420,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>857</td>
+    <td>858</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
@@ -445,7 +445,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/0bf0a89bb36d7b072bd432113809925d.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/34e16867f48c17a30a68e9358982ae73.png"
           />
         </p>
       </td>
@@ -523,7 +523,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/aca475db9fd676c934ba0a6ab4988767.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/02e52ddd1221245054b8ac5a71d27e3f.png"
           />
         </p>
       </td>
@@ -603,7 +603,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/5c38dcfca40498b974b66f851f85318e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/325c46b66d6c9b56a4278403d5318eb5.png"
           />
         </p>
       </td>
@@ -681,7 +681,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/5b9abc1f7ca10b40fdaec8f68ddf0b07.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/c37aff4e9d4a930968b98f60a33b4eb0.png"
           />
         </p>
       </td>
@@ -759,7 +759,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/2eb1b3b24a107818463e0c0dd84677b9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4bb1ae016f0071e595d9feeccddba024.png"
           />
         </p>
       </td>
@@ -837,7 +837,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/2d3b5734c525f3b8dba8576b882d4185.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/8ceadc468e2875be6354d9742ecc0ec9.png"
           />
         </p>
       </td>
@@ -917,7 +917,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/f7930f62157fd7909af1fe7dfe05604e.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/123b9422a8e08148b4ead481aac4266c.png"
           />
         </p>
       </td>
@@ -995,7 +995,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/ca81b5dcef91411dd10d9272269ff935.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/9a4ca2d1e40c3bc737f752e4ea3ad75b.png"
           />
         </p>
       </td>
@@ -1075,7 +1075,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/1bd3a120d1af571c93b0bb94550de3cb.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/c583ceb5dafaaeb8758755fcbadfc55a.png"
           />
         </p>
       </td>
@@ -1097,7 +1097,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -1139,6 +1139,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Арлекино</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Арлекино</h3></th>
+      <th><h3 align="center">Нефритовый коршун</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/123b9422a8e08148b4ead481aac4266c.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Нефритовый коршун</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>16</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Барбара</b></summary>
   <br />
   <table>
@@ -1155,7 +1233,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/ca81b5dcef91411dd10d9272269ff935.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/9a4ca2d1e40c3bc737f752e4ea3ad75b.png"
           />
         </p>
       </td>
@@ -1236,7 +1314,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/1a274a21c5659a4c7b4d0bd02b4f27aa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/468dcd9f8208d3c7d373a0a3afaa8431.png"
           />
         </p>
       </td>
@@ -1314,7 +1392,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/3f0fd1f2b7ff69563cfb87c445353dfa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4bc11ffc790c671ee4cb594cfbed4c5a.png"
           />
         </p>
       </td>
@@ -1376,6 +1454,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Сахароза</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Сахароза</h3></th>
+      <th><h3 align="center">Песнь странника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/5f265f8ad32db9ee85f22ed96ddacd74.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td>1 x Странствующий ансамбль<br />4 x Изумрудная тень<br /></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Песнь странника</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Ноэлль</b></summary>
   <br />
   <table>
@@ -1392,7 +1548,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/2a5dd7119427ae10824896e26205f416.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/52971511e2de628453c9bc63bdf9ca8a.png"
           />
         </p>
       </td>
@@ -1473,7 +1629,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/6447ef70e7f63638d3be30007286b154.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/93ea06156a83c2f18aeb227be20d9a51.png"
           />
         </p>
       </td>
@@ -1535,84 +1691,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Арлекино</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Арлекино</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Arlecchino.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Копьё новичка</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Сян Лин</b></summary>
   <br />
   <table>
@@ -1629,7 +1707,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9fc71b0b4e305569c6e1bb78aaf2391d.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a7198554a3de7bba640500e8131573b4.png"
           />
         </p>
       </td>
@@ -1691,6 +1769,87 @@
   </table>
 </details>
 <details>
+  <summary><b>Розария</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Розария</h3></th>
+      <th><h3 align="center">Копьё Драконьего хребта</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/63b787365695b82427091ad43bf8af70.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td>
+              3 x Бледный огонь<br />1 x Заблудший в метели<br />1 x Конец
+              гладиатора<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td>За вольный дух церкви</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё Драконьего хребта</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Кли</b></summary>
   <br />
   <table>
@@ -1707,7 +1866,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/61b3846513b084582cee1b0aa69f1294.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/0762a43f828cb60eef1fbb530a043986.png"
           />
         </p>
       </td>
@@ -1737,7 +1896,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td></td>
+            <td>4 x Конец гладиатора<br />1 x Сердце глубин<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -1785,7 +1944,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/0ca68dd8c0d96de64ceadf79e3dffbcf.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/1db68784abfe567a9f20d8873a50e808.png"
           />
         </p>
       </td>
@@ -1863,7 +2022,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/d78db69ea8a53333d2ed16c05f40ba46.png"
           />
         </p>
       </td>
@@ -1941,7 +2100,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/f6004d2988fdc6d41f73fce5685ba833.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/2f5060e6e9d44114bc609d6fe8305cf8.png"
           />
         </p>
       </td>
@@ -2005,84 +2164,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Сахароза</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Сахароза</h3></th>
-      <th><h3 align="center">Песнь странника</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Sucrose.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/6236b3371d1eeb396aba2bbb9d692066.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Anemo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td>1 x Странствующий ансамбль<br />4 x Изумрудная тень<br /></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Песнь странника</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>2</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Нахида</b></summary>
   <br />
   <table>
@@ -2099,7 +2180,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/a641bd99bb99d0510370eb4d46d8205b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/a775f7d9a615c21510cc1ccae09a9334.png"
           />
         </p>
       </td>
@@ -2163,6 +2244,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Янь Фэй</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Янь Фэй</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4f181b5fc511696c1cedd83a8bfb0066.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Записи ученика</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Чжун Ли</b></summary>
   <br />
   <table>
@@ -2179,7 +2338,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/f00e78aa388340843427a3a41cda6b7a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/cc8dd05e8ae789f62aa336f195014240.png"
           />
         </p>
       </td>
@@ -2201,7 +2360,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2257,7 +2416,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/3c5fb091c0dcdf578d20e356713c34d3.png"
           />
         </p>
       </td>
@@ -2335,7 +2494,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/6ef03a28ec949449861db3f3297272b5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/7b7747372dbdd543c82b861936b57f73.png"
           />
         </p>
       </td>
@@ -2413,7 +2572,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/3ba85a9105bafe1ed9d171753261b9a2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/ae1b80e10d16d6f1f35b2323d379dd63.png"
           />
         </p>
       </td>
@@ -2491,7 +2650,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/d0701623768ad82f5d230c65f112d734.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/1c538b52ead5152b60233220de113cee.png"
           />
         </p>
       </td>
@@ -2553,84 +2712,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Янь Фэй</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Янь Фэй</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/042df9d783a7ba678782f6a1efbcc25c.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>8</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Записи ученика</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Мона</b></summary>
   <br />
   <table>
@@ -2647,7 +2728,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/042df9d783a7ba678782f6a1efbcc25c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4f181b5fc511696c1cedd83a8bfb0066.png"
           />
         </p>
       </td>
@@ -2725,7 +2806,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/f27a03356ff6f908afd70f805180ccb3.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/949595edccca1b6c48a9f027c361e580.png"
           />
         </p>
       </td>
@@ -2803,7 +2884,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/5d2fe2b004df1eb1ea58585346e0ed24.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/9676397f55ab4a333d6fc4a9dff097e1.png"
           />
         </p>
       </td>
@@ -2825,7 +2906,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2881,7 +2962,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/5fa64ee69fbdc9cca996e1bccc3a91a0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/5c6bf586b9b435493ed852b19e7e90f3.png"
           />
         </p>
       </td>
@@ -2959,7 +3040,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/8c8de6f92962307301df67886d3551f2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/54ef9f21ad48468a3d04f61e1a086525.png"
           />
         </p>
       </td>
@@ -3037,7 +3118,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/d78db69ea8a53333d2ed16c05f40ba46.png"
           />
         </p>
       </td>
@@ -3115,7 +3196,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/cbc68a4b23fec80d663414d4dfc75ae7.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/66a7171f1b2a6fdd5984173d4ce393df.png"
           />
         </p>
       </td>
@@ -3193,7 +3274,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/c6718ad1982085fc0b75f2bcfb36fec5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4c166b88fc4c26a4ddfc457f6cba552b.png"
           />
         </p>
       </td>
@@ -3271,7 +3352,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/73a19d82651312f300a0099f183df6e5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/b1a396171d0de4caaa79da5f1fdf1222.png"
           />
         </p>
       </td>
@@ -3321,7 +3402,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>80</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -3349,7 +3430,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/3c5fb091c0dcdf578d20e356713c34d3.png"
           />
         </p>
       </td>
@@ -3427,7 +3508,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/8c8de6f92962307301df67886d3551f2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/54ef9f21ad48468a3d04f61e1a086525.png"
           />
         </p>
       </td>
@@ -3505,7 +3586,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/3c5fb091c0dcdf578d20e356713c34d3.png"
           />
         </p>
       </td>
@@ -3583,7 +3664,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/3c5fb091c0dcdf578d20e356713c34d3.png"
           />
         </p>
       </td>
@@ -3661,7 +3742,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/8c8de6f92962307301df67886d3551f2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/54ef9f21ad48468a3d04f61e1a086525.png"
           />
         </p>
       </td>
@@ -3739,7 +3820,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/4afb2b52330de7955897c021c48c7016.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/63a6dc786fb6b069aa3140df4ead0488.png"
           />
         </p>
       </td>
@@ -3817,7 +3898,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/8c8de6f92962307301df67886d3551f2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/54ef9f21ad48468a3d04f61e1a086525.png"
           />
         </p>
       </td>
@@ -3879,84 +3960,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Розария</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Розария</h3></th>
-      <th><h3 align="center">Копьё Фавония</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Rosaria.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/857912770543e14052c2590fc73ed381.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td>За вольный дух церкви</td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Копьё Фавония</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Сара</b></summary>
   <br />
   <table>
@@ -3973,7 +3976,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/501e012fb384de2203aebaf30d6eb850.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/f2e925987c26e4959302eca69c228b7b.png"
           />
         </p>
       </td>
@@ -4051,7 +4054,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/042df9d783a7ba678782f6a1efbcc25c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4f181b5fc511696c1cedd83a8bfb0066.png"
           />
         </p>
       </td>
@@ -4129,7 +4132,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/d78db69ea8a53333d2ed16c05f40ba46.png"
           />
         </p>
       </td>
@@ -4207,7 +4210,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/3c5fb091c0dcdf578d20e356713c34d3.png"
           />
         </p>
       </td>
@@ -4285,7 +4288,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/d0701623768ad82f5d230c65f112d734.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/1c538b52ead5152b60233220de113cee.png"
           />
         </p>
       </td>
@@ -4363,7 +4366,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/d78db69ea8a53333d2ed16c05f40ba46.png"
           />
         </p>
       </td>
@@ -4425,6 +4428,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Кавех</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Кавех</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Kaveh.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/1c538b52ead5152b60233220de113cee.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Двуручный меч богатыря</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Линетт</b></summary>
   <br />
   <table>
@@ -4441,7 +4522,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/d78db69ea8a53333d2ed16c05f40ba46.png"
           />
         </p>
       </td>
@@ -4519,7 +4600,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/d0701623768ad82f5d230c65f112d734.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/1c538b52ead5152b60233220de113cee.png"
           />
         </p>
       </td>
@@ -4597,7 +4678,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/042df9d783a7ba678782f6a1efbcc25c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/4f181b5fc511696c1cedd83a8bfb0066.png"
           />
         </p>
       </td>
@@ -4675,7 +4756,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/b493216cb8eb731dfd620cbf3ab85de5.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/3c5fb091c0dcdf578d20e356713c34d3.png"
           />
         </p>
       </td>
@@ -4753,7 +4834,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/d0701623768ad82f5d230c65f112d734.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u74dmg/1c538b52ead5152b60233220de113cee.png"
           />
         </p>
       </td>
