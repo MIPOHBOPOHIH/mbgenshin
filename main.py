@@ -42,9 +42,9 @@ async def main():
     # must loads to dict
     cookies = json.loads(_c)
 
-    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN)
+    client = genshin.Client(cookies, debug=False, game=genshin.Game.GENSHIN, uid=716091268)
     await genshin.utility.update_characters_any()
-    user = await client.get_full_genshin_user(0, lang='ru-ru')
+    user = await client.get_full_genshin_user(716091268, lang='ru-ru')
     diary = await client.get_genshin_diary()
 
     try:
