@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Мора</td>
   </tr>
 </table>
 
@@ -93,6 +93,7 @@
     <th>Драконий хребет</th>
     <th>Ли Юэ</th>
     <th>Мондштадт</th>
+    <th>Натлан</th>
     <th>Долина Чэньюй</th>
   </tr>
   <tr>
@@ -196,6 +197,14 @@
       <p align="center">
         <img
           src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Nata.png"
           width="180"
         />
       </p>
@@ -389,6 +398,20 @@
         <tr>
           <td>Репутация</td>
           <td>8</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/0/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Репутация</td>
+          <td>0</td>
         </tr>
       </table>
     </td>
@@ -1532,6 +1555,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Нахида</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Нахида</h3></th>
+      <th><h3 align="center">Руководство по магии</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Nahida.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/e67a1863cda65139d1e487575a2bbb1c.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td>
+              4 x Воспоминания дремучего леса<br />1 x Конец гладиатора<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Руководство по магии</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Ноэлль</b></summary>
   <br />
   <table>
@@ -1684,6 +1787,84 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Ци Ци</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Ци Ци</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Qiqi.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/686f0370ab164c23e8187db27df3cd7e.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Тупой меч</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2164,86 +2345,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Нахида</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Нахида</h3></th>
-      <th><h3 align="center">Руководство по магии</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Nahida.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/e67a1863cda65139d1e487575a2bbb1c.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Dendro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td>
-              4 x Воспоминания дремучего леса<br />1 x Конец гладиатора<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Руководство по магии</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Янь Фэй</b></summary>
   <br />
   <table>
@@ -2400,6 +2501,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Нёвиллет</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Нёвиллет</h3></th>
+      <th><h3 align="center">Обряд вечного течения</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/2da4f4a8a7ab9bcc8bbe36d78692ccd3.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Обряд вечного течения</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Райдэн</b></summary>
   <br />
   <table>
@@ -2438,7 +2617,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2857,84 +3036,6 @@
           <tr>
             <td>Уровень</td>
             <td>70</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Нёвиллет</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Нёвиллет</h3></th>
-      <th><h3 align="center">Обряд вечного течения</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/2da4f4a8a7ab9bcc8bbe36d78692ccd3.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>7</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Обряд вечного течения</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -4002,7 +4103,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Артефакты</td>
