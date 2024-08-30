@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>8000 x Мора</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>956</td>
+    <td>957</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>710</td>
+    <td>711</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>455</td>
+    <td>456</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -1321,6 +1321,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Фишль</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Фишль</h3></th>
+      <th><h3 align="center">Бесструнный</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Fischl.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/147e723054fdbfef231154328d988dbc.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td>
+              4 x Странствующий ансамбль<br />1 x Стойкость Миллелита<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td>Сон вечной ночи</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Бесструнный</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Беннет</b></summary>
   <br />
   <table>
@@ -1555,6 +1635,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Саю</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Саю</h3></th>
+      <th><h3 align="center">Двуручный меч богатыря</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Sayu.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/2782449b99b75509912798946e99230e.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Anemo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Двуручный меч богатыря</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Нахида</b></summary>
   <br />
   <table>
@@ -1628,6 +1786,84 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Янь Фэй</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Янь Фэй</h3></th>
+      <th><h3 align="center">Записи ученика</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/31e62b38e49e8b5432cc87144fa2c1ba.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Записи ученика</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2265,23 +2501,23 @@
   </table>
 </details>
 <details>
-  <summary><b>Фишль</b></summary>
+  <summary><b>Странник</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Фишль</h3></th>
-      <th><h3 align="center">Бесструнный</h3></th>
+      <th><h3 align="center">Странник</h3></th>
+      <th><h3 align="center">Небесный атлас</h3></th>
     </tr>
     <tr>
       <td>
         <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Fischl.png" />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/147e723054fdbfef231154328d988dbc.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/9b921e8c49c1fdc38643638444540047.png"
           />
         </p>
       </td>
@@ -2291,11 +2527,11 @@
         <table>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Элемент</td>
-            <td>Electro</td>
+            <td>Anemo</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -2307,17 +2543,15 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>6</td>
+            <td>0</td>
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td>
-              4 x Странствующий ансамбль<br />1 x Стойкость Миллелита<br />
-            </td>
+            <td></td>
           </tr>
           <tr>
             <td>Наряды</td>
-            <td>Сон вечной ночи</td>
+            <td></td>
           </tr>
         </table>
       </td>
@@ -2325,93 +2559,15 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Бесструнный</td>
+            <td>Небесный атлас</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
             <td>5</td>
           </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Янь Фэй</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Янь Фэй</h3></th>
-      <th><h3 align="center">Записи ученика</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Feiyan.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/31e62b38e49e8b5432cc87144fa2c1ba.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Pyro</td>
-          </tr>
           <tr>
             <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Записи ученика</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -2735,162 +2891,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Странник</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Странник</h3></th>
-      <th><h3 align="center">Небесный атлас</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Wanderer.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/9b921e8c49c1fdc38643638444540047.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Anemo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Небесный атлас</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Саю</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Саю</h3></th>
-      <th><h3 align="center">Двуручный меч богатыря</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Sayu.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/2782449b99b75509912798946e99230e.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Anemo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>10</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>3</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Двуручный меч богатыря</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Мона</b></summary>
   <br />
   <table>
@@ -2933,7 +2933,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Артефакты</td>
@@ -4978,6 +4978,84 @@
           <tr>
             <td>Название</td>
             <td>Двуручный меч богатыря</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Качина</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Качина</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Kachina.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/ee99fca4c0cabd8fb249fb90d93efb14.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Geo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё новичка</td>
           </tr>
           <tr>
             <td>Редкость</td>
