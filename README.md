@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Опыт искателя приключений</td>
+    <td>3 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>957</td>
+    <td>969</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>711</td>
+    <td>713</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>456</td>
+    <td>464</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -53,11 +53,11 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1866</td>
+    <td>1873</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1476</td>
+    <td>1481</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>148</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -80,6 +80,7 @@
 <h2>Исследование</h2>
 <table>
   <tr>
+    <th>Натлан</th>
     <th>Море древности</th>
     <th>Верхнее ущелье Чэньюй</th>
     <th>Южные холмы Чэньюй</th>
@@ -93,10 +94,17 @@
     <th>Драконий хребет</th>
     <th>Ли Юэ</th>
     <th>Мондштадт</th>
-    <th>Натлан</th>
     <th>Долина Чэньюй</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Nata.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -204,14 +212,6 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Nata.png"
-          width="180"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
           src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
           width="180"
         />
@@ -219,6 +219,20 @@
     </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Изучено</td>
+          <td>
+            <img src="https://progress-bar.dev/2/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>Репутация</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -294,7 +308,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/73/" width="80" />
+            <img src="https://progress-bar.dev/74/" width="80" />
           </td>
         </tr>
         <tr>
@@ -398,20 +412,6 @@
         <tr>
           <td>Репутация</td>
           <td>8</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Изучено</td>
-          <td>
-            <img src="https://progress-bar.dev/0/" width="80" />
-          </td>
-        </tr>
-        <tr>
-          <td>Репутация</td>
-          <td>0</td>
         </tr>
       </table>
     </td>
