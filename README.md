@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>9</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Превосходная руда усиления</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>969</td>
+    <td>978</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>713</td>
+    <td>714</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>464</td>
+    <td>486</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -53,27 +53,27 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1873</td>
+    <td>1880</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1481</td>
+    <td>1496</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>489</td>
+    <td>491</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>201</td>
+    <td>203</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>150</td>
+    <td>154</td>
   </tr>
   <tr>
     <td>Подземелья</td>
-    <td>58</td>
+    <td>60</td>
   </tr>
 </table>
 
@@ -224,7 +224,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/2/" width="80" />
+            <img src="https://progress-bar.dev/8/" width="80" />
           </td>
         </tr>
         <tr>
@@ -1871,6 +1871,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Нёвиллет</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Нёвиллет</h3></th>
+      <th><h3 align="center">Обряд вечного течения</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/2da4f4a8a7ab9bcc8bbe36d78692ccd3.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Hydro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Обряд вечного течения</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Ноэлль</b></summary>
   <br />
   <table>
@@ -2076,7 +2154,7 @@
           </tr>
           <tr>
             <td>Артефакты</td>
-            <td></td>
+            <td>5 x Рыцарь крови<br /></td>
           </tr>
           <tr>
             <td>Наряды</td>
@@ -2650,84 +2728,6 @@
           <tr>
             <td>Пробуждение</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Нёвиллет</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Нёвиллет</h3></th>
-      <th><h3 align="center">Обряд вечного течения</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Neuvillette.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/2da4f4a8a7ab9bcc8bbe36d78692ccd3.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Hydro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>7</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Обряд вечного течения</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
