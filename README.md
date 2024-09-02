@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Опыт искателя приключений</td>
+    <td>3 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>714</td>
+    <td>715</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -53,19 +53,19 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1880</td>
+    <td>1940</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1496</td>
+    <td>1525</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>491</td>
+    <td>493</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>203</td>
+    <td>204</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
@@ -392,7 +392,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/91/" width="80" />
+            <img src="https://progress-bar.dev/95/" width="80" />
           </td>
         </tr>
         <tr>
@@ -2186,6 +2186,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Элой</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Элой</h3></th>
+      <th><h3 align="center">Хищник</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Aloy.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/64debed3367c23172ee25c688cd05989.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Хищник</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Сян Лин</b></summary>
   <br />
   <table>
@@ -2813,23 +2891,23 @@
   </table>
 </details>
 <details>
-  <summary><b>Элой</b></summary>
+  <summary><b>Кадзуха</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Элой</h3></th>
-      <th><h3 align="center">Хищник</h3></th>
+      <th><h3 align="center">Кадзуха</h3></th>
+      <th><h3 align="center">Тупой меч</h3></th>
     </tr>
     <tr>
       <td>
         <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Aloy.png" />
+          <img src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png" />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/64debed3367c23172ee25c688cd05989.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/686f0370ab164c23e8187db27df3cd7e.png"
           />
         </p>
       </td>
@@ -2843,7 +2921,7 @@
           </tr>
           <tr>
             <td>Элемент</td>
-            <td>Cryo</td>
+            <td>Anemo</td>
           </tr>
           <tr>
             <td>Уровень</td>
@@ -2871,15 +2949,15 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Хищник</td>
+            <td>Тупой меч</td>
           </tr>
           <tr>
             <td>Редкость</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>40</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -3983,6 +4061,84 @@
   </table>
 </details>
 <details>
+  <summary><b>Качина</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Качина</h3></th>
+      <th><h3 align="center">Копьё новичка</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Kachina.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/ee99fca4c0cabd8fb249fb90d93efb14.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Geo</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Копьё новичка</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Эмбер</b></summary>
   <br />
   <table>
@@ -4978,84 +5134,6 @@
           <tr>
             <td>Название</td>
             <td>Двуручный меч богатыря</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Качина</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Качина</h3></th>
-      <th><h3 align="center">Копьё новичка</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Kachina.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u6daog/ee99fca4c0cabd8fb249fb90d93efb14.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Geo</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Копьё новичка</td>
           </tr>
           <tr>
             <td>Редкость</td>
