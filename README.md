@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>20 x Камень Истока</td>
+    <td>3 x Цыплёнок в медовом соусе</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>985</td>
+    <td>1000</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>716</td>
+    <td>717</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>491</td>
+    <td>494</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -53,23 +53,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1942</td>
+    <td>1955</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1526</td>
+    <td>1546</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>493</td>
+    <td>498</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>205</td>
+    <td>207</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>157</td>
+    <td>158</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -224,7 +224,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/11/" width="80" />
+            <img src="https://progress-bar.dev/14/" width="80" />
           </td>
         </tr>
         <tr>
@@ -990,7 +990,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>60</td>
+            <td>40</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -1228,7 +1228,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>16</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -1990,7 +1990,7 @@
           </tr>
           <tr>
             <td>Уровень дружбы</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Созвездий</td>
@@ -2011,6 +2011,84 @@
           <tr>
             <td>Название</td>
             <td>Записи ученика</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Тигнари</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Тигнари</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Tighnari.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/ce3d5c792de837d873de59bcf2ba692f.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Лук охотника</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2178,84 +2256,6 @@
           <tr>
             <td>Уровень</td>
             <td>60</td>
-          </tr>
-          <tr>
-            <td>Пробуждение</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Тигнари</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Тигнари</h3></th>
-      <th><h3 align="center">Лук охотника</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://enka.network/ui/UI_AvatarIcon_Tighnari.png" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/ce3d5c792de837d873de59bcf2ba692f.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Редкость</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Элемент</td>
-            <td>Dendro</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Уровень дружбы</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Созвездий</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Артефакты</td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Наряды</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Название</td>
-            <td>Лук охотника</td>
-          </tr>
-          <tr>
-            <td>Редкость</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Уровень</td>
-            <td>1</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
