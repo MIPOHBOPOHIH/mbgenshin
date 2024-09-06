@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>3 x Цыплёнок в медовом соусе</td>
+    <td>2 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>1000</td>
+    <td>1014</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>717</td>
+    <td>719</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>494</td>
+    <td>496</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -53,23 +53,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1955</td>
+    <td>1975</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1546</td>
+    <td>1583</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>498</td>
+    <td>508</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>207</td>
+    <td>209</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>158</td>
+    <td>163</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -224,7 +224,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/14/" width="80" />
+            <img src="https://progress-bar.dev/18/" width="80" />
           </td>
         </tr>
         <tr>
@@ -294,7 +294,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/78/" width="80" />
+            <img src="https://progress-bar.dev/79/" width="80" />
           </td>
         </tr>
         <tr>
@@ -443,7 +443,7 @@
   </tr>
   <tr>
     <td>Вещи</td>
-    <td>858</td>
+    <td>860</td>
   </tr>
   <tr>
     <td>Компаньоны</td>
