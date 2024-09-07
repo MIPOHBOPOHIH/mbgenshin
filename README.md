@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>2 x Опыт искателя приключений</td>
+    <td>8000 x Мора</td>
   </tr>
 </table>
 
@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>1014</td>
+    <td>1029</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>719</td>
+    <td>720</td>
   </tr>
   <tr>
     <td>Персонажи</td>
-    <td>60</td>
+    <td>61</td>
   </tr>
   <tr>
     <td>Точки телепортации</td>
-    <td>496</td>
+    <td>501</td>
   </tr>
   <tr>
     <td>Анемокулы</td>
@@ -53,23 +53,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>1975</td>
+    <td>2018</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1583</td>
+    <td>1626</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>508</td>
+    <td>529</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>209</td>
+    <td>221</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>163</td>
+    <td>166</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -224,7 +224,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/18/" width="80" />
+            <img src="https://progress-bar.dev/30/" width="80" />
           </td>
         </tr>
         <tr>
@@ -392,7 +392,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/95/" width="80" />
+            <img src="https://progress-bar.dev/96/" width="80" />
           </td>
         </tr>
         <tr>
@@ -929,7 +929,7 @@
   <table>
     <tr>
       <th><h3 align="center">Сяо</h3></th>
-      <th><h3 align="center">Нефритовый коршун</h3></th>
+      <th><h3 align="center">Небесная ось</h3></th>
     </tr>
     <tr>
       <td>
@@ -940,7 +940,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/9cc746f9a5ecf956a9d8b3b58583e23b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/08bc5a5630bc4e83820881caa240c685.png"
           />
         </p>
       </td>
@@ -982,7 +982,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Нефритовый коршун</td>
+            <td>Небесная ось</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -990,7 +990,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>40</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
@@ -1487,7 +1487,7 @@
   <table>
     <tr>
       <th><h3 align="center">Беннет</h3></th>
-      <th><h3 align="center">Прототип: Злоба</h3></th>
+      <th><h3 align="center">Меч Нарциссенкрейца</h3></th>
     </tr>
     <tr>
       <td>
@@ -1498,7 +1498,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/f374f0785b831aed5b078ea1cdb51f6f.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6493e5f44ba0bfeee95190c67ce2ce6a.png"
           />
         </p>
       </td>
@@ -1540,7 +1540,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Прототип: Злоба</td>
+            <td>Меч Нарциссенкрейца</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -1548,11 +1548,11 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>70</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1916,7 +1916,7 @@
           </tr>
           <tr>
             <td>Созвездий</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Артефакты</td>
@@ -2509,7 +2509,7 @@
   <table>
     <tr>
       <th><h3 align="center">Ци Ци</h3></th>
-      <th><h3 align="center">Меч Нарциссенкрейца</h3></th>
+      <th><h3 align="center">Прототип: Злоба</h3></th>
     </tr>
     <tr>
       <td>
@@ -2520,7 +2520,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/6493e5f44ba0bfeee95190c67ce2ce6a.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/f374f0785b831aed5b078ea1cdb51f6f.png"
           />
         </p>
       </td>
@@ -2562,7 +2562,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Меч Нарциссенкрейца</td>
+            <td>Прототип: Злоба</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -2570,11 +2570,11 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>20</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
