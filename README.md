@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>8000 x Мора</td>
+    <td>3 x Опыт искателя приключений</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>1029</td>
+    <td>1030</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>720</td>
+    <td>721</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -57,15 +57,15 @@
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1626</td>
+    <td>1634</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>529</td>
+    <td>541</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>221</td>
+    <td>222</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
@@ -224,7 +224,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/30/" width="80" />
+            <img src="https://progress-bar.dev/31/" width="80" />
           </td>
         </tr>
         <tr>
@@ -5140,6 +5140,84 @@
           <tr>
             <td>Название</td>
             <td>Двуручный меч богатыря</td>
+          </tr>
+          <tr>
+            <td>Редкость</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Пробуждение</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Сетос</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Сетос</h3></th>
+      <th><h3 align="center">Лук охотника</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://enka.network/ui/UI_AvatarIcon_Sethos.png" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/ce3d5c792de837d873de59bcf2ba692f.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Редкость</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Элемент</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Уровень</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Уровень дружбы</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Созвездий</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Артефакты</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Наряды</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Название</td>
+            <td>Лук охотника</td>
           </tr>
           <tr>
             <td>Редкость</td>
