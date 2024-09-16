@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>всего наград забрано</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>последняя забранная награда</td>
-    <td>5 x Опыт искателя приключений</td>
+    <td>5 x Превосходная руда усиления</td>
   </tr>
 </table>
 
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Достижения</td>
-    <td>1043</td>
+    <td>1053</td>
   </tr>
   <tr>
     <td>Дни активности</td>
-    <td>724</td>
+    <td>725</td>
   </tr>
   <tr>
     <td>Персонажи</td>
@@ -57,23 +57,23 @@
   </tr>
   <tr>
     <td>Обычные сундуки</td>
-    <td>2150</td>
+    <td>2260</td>
   </tr>
   <tr>
     <td>Богатые сундуки</td>
-    <td>1669</td>
+    <td>1706</td>
   </tr>
   <tr>
     <td>Драгоценные сундуки</td>
-    <td>553</td>
+    <td>569</td>
   </tr>
   <tr>
     <td>Роскошные сундуки</td>
-    <td>230</td>
+    <td>238</td>
   </tr>
   <tr>
     <td>Удивительных сундуков</td>
-    <td>178</td>
+    <td>199</td>
   </tr>
   <tr>
     <td>Подземелья</td>
@@ -312,7 +312,7 @@
         <tr>
           <td>Изучено</td>
           <td>
-            <img src="https://progress-bar.dev/82/" width="80" />
+            <img src="https://progress-bar.dev/89/" width="80" />
           </td>
         </tr>
         <tr>
@@ -933,7 +933,7 @@
   <table>
     <tr>
       <th><h3 align="center">Сяо</h3></th>
-      <th><h3 align="center">Небесная ось</h3></th>
+      <th><h3 align="center">Нефритовый коршун</h3></th>
     </tr>
     <tr>
       <td>
@@ -944,7 +944,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/08bc5a5630bc4e83820881caa240c685.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9b0pg/9cc746f9a5ecf956a9d8b3b58583e23b.png"
           />
         </p>
       </td>
@@ -986,7 +986,7 @@
         <table>
           <tr>
             <td>Название</td>
-            <td>Небесная ось</td>
+            <td>Нефритовый коршун</td>
           </tr>
           <tr>
             <td>Редкость</td>
@@ -994,7 +994,7 @@
           </tr>
           <tr>
             <td>Уровень</td>
-            <td>1</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Пробуждение</td>
