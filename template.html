@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -6,244 +9,569 @@
     @font-face {
         font-family: "genshinFont";
         src: url("Genshin_Impact.ttf");
+        font-display: swap;
     }
-    
+
+    :root {
+        --bg: #0d111c;
+        --card: #161c2c;
+        --card-alt: #1d2438;
+        --border: rgba(211, 188, 142, 0.18);
+        --gold: #d3bc8e;
+        --gold-bright: #e8d5a8;
+        --text: #e8e6df;
+        --muted: #99a0b0;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    html {
+        background-color: var(--bg);
+    }
+
     body {
-        font-family: genshinFont;
-        background-color: rgb(44, 44, 44);
-        padding: 10px;
-        margin: 0; /* Убираем внешние отступы у body */
+        font-family: genshinFont, "Segoe UI", sans-serif;
+        background-color: var(--bg);
+        background-image: radial-gradient(ellipse 80% 50% at 50% -10%, rgba(211, 188, 142, 0.08), transparent);
+        color: var(--text);
+        margin: 0;
+        padding: 24px 16px 48px;
+        line-height: 1.5;
     }
-    
-    h1 {
-        color: rgb(175, 175, 175);
+
+    main {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    /* ---------- Header ---------- */
+
+    .page-header {
         text-align: center;
-        margin: 10px 0; /* Увеличиваем отступы вокруг заголовка */
+        margin: 16px auto 40px;
+        max-width: 1200px;
     }
-    
+
+    .page-header .eyebrow {
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.35em;
+        font-size: 12px;
+        margin: 0 0 8px;
+    }
+
+    h1 {
+        color: var(--gold-bright);
+        font-size: clamp(24px, 4vw, 38px);
+        font-weight: normal;
+        margin: 0;
+        text-wrap: balance;
+    }
+
+    .ornament {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        color: var(--gold);
+        margin-top: 14px;
+    }
+
+    .ornament::before,
+    .ornament::after {
+        content: "";
+        height: 1px;
+        width: min(160px, 25vw);
+        background: linear-gradient(90deg, transparent, var(--gold));
+    }
+
+    .ornament::after {
+        background: linear-gradient(90deg, var(--gold), transparent);
+    }
+
+    /* ---------- Sections ---------- */
+
+    section {
+        margin-bottom: 44px;
+    }
+
     h2 {
-        color: rgb(175, 175, 175);
-        margin: 10px 0; /* Увеличиваем отступы вокруг подзаголовков */
+        color: var(--gold);
+        font-size: 22px;
+        font-weight: normal;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin: 0 0 18px;
     }
-    
-    table {
-        color: rgb(175, 175, 175);
+
+    h2::after {
+        content: "";
+        flex: 1;
+        height: 1px;
+        background: linear-gradient(90deg, var(--border), transparent);
+    }
+
+    /* ---------- Stat cards ---------- */
+
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 12px;
+    }
+
+    .stat-card {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        background-color: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 16px;
+        transition: border-color 0.2s ease, transform 0.2s ease;
+    }
+
+    .stat-card:hover {
+        border-color: var(--gold);
+        transform: translateY(-2px);
+    }
+
+    .stat-value {
+        color: var(--gold-bright);
+        font-size: 26px;
+    }
+
+    .stat-label {
+        color: var(--muted);
+        font-size: 13px;
+    }
+
+    /* ---------- Progress bar ---------- */
+
+    .progress-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .progress {
+        flex: 1;
+        height: 8px;
+        border-radius: 4px;
+        background-color: rgba(255, 255, 255, 0.08);
+        overflow: hidden;
+    }
+
+    .progress-fill {
+        height: 100%;
+        border-radius: 4px;
+        background: linear-gradient(90deg, #a08554, var(--gold-bright));
+    }
+
+    .progress-pct {
+        color: var(--gold-bright);
+        font-size: 14px;
+        min-width: 42px;
+        text-align: right;
+    }
+
+    /* ---------- Exploration ---------- */
+
+    .region-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 14px;
+    }
+
+    .region-card {
+        background-color: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 18px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        transition: border-color 0.2s ease, transform 0.2s ease;
+    }
+
+    .region-card:hover {
+        border-color: var(--gold);
+        transform: translateY(-2px);
+    }
+
+    .region-card img {
+        width: 96px;
+        height: 96px;
+        object-fit: contain;
+        filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.5));
+    }
+
+    .region-name {
+        color: var(--text);
+        font-size: 15px;
+        text-align: center;
+        text-wrap: balance;
+        min-height: 2.4em;
+        display: flex;
+        align-items: center;
+    }
+
+    .region-card .progress-row {
         width: 100%;
-        border-collapse: collapse;
-        margin: 10px 0;
-    }
-    
-    table td,
-    table th {
-        background-color: rgb(66, 66, 66);
-        border: 1px solid black;
-        padding: 7px;
-        text-align: left;
-        transition: all 0.2s ease-in-out;
-    }
-    
-    table td:hover,
-    table th:hover {
-        padding: 14px;
-        background-color: rgb(100, 100, 100);
-        border: 1px solid rgb(100, 100, 100);
-    }
-    
-    table th {
-        background-color: #f2f2f2;
     }
 
-    img {
-        max-width: 100%;
-        height: auto;
-        display: block; /* Убираем лишние отступы вокруг изображений */
-        margin: 10px auto; /* Центрируем изображения и добавляем отступы */
+    .region-meta {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        color: var(--muted);
+        font-size: 13px;
     }
 
-    details {
-        margin: 10px 0;
+    .region-meta .value {
+        color: var(--gold);
     }
 
-    summary {
-        cursor: pointer;
+    /* ---------- Characters ---------- */
+
+    .char-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 16px;
     }
-</style>
+
+    .char-card {
+        background-color: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        transition: border-color 0.2s ease, transform 0.2s ease;
+    }
+
+    .char-card:hover {
+        border-color: var(--gold);
+        transform: translateY(-2px);
+    }
+
+    .char-head {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        padding: 14px 16px;
+        background-color: var(--card-alt);
+        border-bottom: 1px solid var(--border);
+    }
+
+    .char-avatar {
+        width: 64px;
+        height: 64px;
+        border-radius: 50%;
+        overflow: hidden;
+        flex-shrink: 0;
+        border: 2px solid var(--border);
+    }
+
+    .char-avatar img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }
+
+    .rarity-5 .char-avatar {
+        background: linear-gradient(160deg, #945c2c, #b27330);
+        border-color: rgba(232, 213, 168, 0.55);
+    }
+
+    .rarity-4 .char-avatar {
+        background: linear-gradient(160deg, #5e5789, #9c75b7);
+        border-color: rgba(190, 160, 220, 0.55);
+    }
+
+    .char-title {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        min-width: 0;
+    }
+
+    .char-name {
+        color: var(--text);
+        font-size: 17px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .char-badges {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    .badge {
+        font-size: 12px;
+        border-radius: 999px;
+        padding: 2px 10px;
+        border: 1px solid var(--border);
+        color: var(--muted);
+        background-color: rgba(255, 255, 255, 0.03);
+    }
+
+    .badge.element {
+        border-color: currentColor;
+    }
+
+    .stars {
+        color: var(--gold-bright);
+        font-size: 13px;
+        letter-spacing: 2px;
+    }
+
+    .char-body {
+        padding: 14px 16px 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        flex: 1;
+    }
+
+    .kv-list {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        margin: 0;
+    }
+
+    .kv {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        font-size: 14px;
+    }
+
+    .kv dt {
+        color: var(--muted);
+        margin: 0;
+    }
+
+    .kv dd {
+        color: var(--text);
+        margin: 0;
+        text-align: right;
+    }
+
+    .weapon-block {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        background-color: var(--card-alt);
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 10px 12px;
+        margin-top: auto;
+    }
+
+    .weapon-block img {
+        width: 52px;
+        height: 52px;
+        object-fit: contain;
+        flex-shrink: 0;
+    }
+
+    .weapon-info {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        min-width: 0;
+        font-size: 13px;
+        color: var(--muted);
+    }
+
+    .weapon-name {
+        color: var(--text);
+        font-size: 14px;
+    }
+
+    footer {
+        text-align: center;
+        color: var(--muted);
+        font-size: 13px;
+        margin-top: 24px;
+    }
+
+    footer .ornament {
+        margin-bottom: 12px;
+    }
+    </style>
 </head>
 
 <body>
-    <h1 class="center">mipohbopohih Статистика Genshin</h1>
-    <br>
+    <header class="page-header">
+        <p class="eyebrow">Genshin Impact</p>
+        <h1>mipohbopohih — Статистика</h1>
+        <div class="ornament">✦</div>
+    </header>
 
-    <h2>Ежедневные награды</h2>
-    <table>
-        <tr>
-            <td>всего наград забрано</td>
-            <td>{{ reward_info.claimed_rewards }}</td>
-        </tr>
-        <tr>
-            <td>последняя забранная награда</td>
-            <td>{{ reward.amount }} x {{ reward.name }}</td>
-        </tr>
-    </table>
+    <main>
+        <section>
+            <h2>Ежедневные награды</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-value">{{ reward_info.claimed_rewards }}</span>
+                    <span class="stat-label">Всего наград забрано</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">{{ reward.amount }}</span>
+                    <span class="stat-label">{{ reward.name }} — последняя награда</span>
+                </div>
+            </div>
+        </section>
 
-    <h2>Статистика</h2>
-    <table>
-        {%- set translations = {'hydroculi': 'Гидрокулы', 'dendroculi': 'Дендрокулы'} -%}
-        {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
-        <tr>
-            <td>{{ translations[field] if field in translations else field }}</td>
-            <td>{{ value }}</td>
-        </tr>
-        {%- endfor -%}
-    </table>
+        <section>
+            <h2>Статистика</h2>
+            {%- set translations = {'hydroculi': 'Гидрокулы', 'dendroculi': 'Дендрокулы', 'pyroculi': 'Пирокулы'} -%}
+            <div class="stats-grid">
+                {%- for field, value in user.stats.as_dict(lang=lang).items() %}
+                <div class="stat-card">
+                    <span class="stat-value">{{ value }}</span>
+                    <span class="stat-label">{{ translations[field] if field in translations else field }}</span>
+                </div>
+                {%- endfor %}
+            </div>
+        </section>
 
-    <h2>Исследование</h2>
-    <table>
-        {%- set translations = {'Reputation': 'Репутация', 'Offering':'Уровень'} -%}
-        <tr>
-            {%- for exploration in user.explorations -%}
-            <th>{{ exploration.name }}</th>
-            {%- endfor -%}
-        </tr>
-        <tr>
-            {%- for exploration in user.explorations -%}
-            <td>
-                <p class="center"><img src="{{ exploration.icon }}" width="180"></p>
-            </td>
-            {%- endfor -%}
-        </tr>
-        <tr>
-            {%- for exploration in user.explorations -%}
-            <td>
-                <table>
-                    <tr>
-                        <td>Изучено</td>
-                        <td>
-                            <img src="https://progress-bar.xyz/{{ _int(exploration.explored) }}/" width=80>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>{{ exploration.type }}</td>
-                        <td>{{ exploration.level }}</td>
-                    </tr>
-                </table>
-            </td>
-            {%- endfor -%}
-        </tr>
-    </table>
+        <section>
+            <h2>Исследование</h2>
+            {%- set type_translations = {'Reputation': 'Репутация', 'Offering': 'Подношение', 'TypeUnknow': 'Уровень'} -%}
+            <div class="region-grid">
+                {%- for exploration in user.explorations %}
+                <div class="region-card">
+                    <img src="{{ exploration.icon }}" alt="" loading="lazy" width="96" height="96">
+                    <span class="region-name">{{ exploration.name }}</span>
+                    <div class="progress-row">
+                        <div class="progress">
+                            <div class="progress-fill" style="width: {{ _int(exploration.explored) }}%"></div>
+                        </div>
+                        <span class="progress-pct">{{ _int(exploration.explored) }}%</span>
+                    </div>
+                    <div class="region-meta">
+                        <span>{{ type_translations[exploration.type] if exploration.type in type_translations else exploration.type }}</span>
+                        <span class="value">{{ exploration.level }}</span>
+                    </div>
+                </div>
+                {%- endfor %}
+            </div>
+        </section>
 
-    {%- if user.teapot -%}
-    <h2>Чайник безмятежности</h2>
-    <table>
-        <tr>
-            <td>Уровень</td>
-            <td>{{ user.teapot.level }}</td>
-        </tr>
-        <tr>
-            <td>Комфорт</td>
-            <td>{{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
-        </tr>
-        <tr>
-            <td>Вещи</td>
-            <td>{{ user.teapot.items }}</td>
-        </tr>
-        <tr>
-            <td>Компаньоны</td>
-            <td>{{ user.teapot.visitors }}</td>
-        </tr>
-    </table>
-    {%- endif -%}
+        {%- if user.teapot %}
+        <section>
+            <h2>Чайник безмятежности</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-value">{{ user.teapot.level }}</span>
+                    <span class="stat-label">Уровень</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">{{ user.teapot.comfort }}</span>
+                    <span class="stat-label">Комфорт — {{ user.teapot.comfort_name }}</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">{{ user.teapot.items }}</span>
+                    <span class="stat-label">Вещи</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value">{{ user.teapot.visitors }}</span>
+                    <span class="stat-label">Компаньоны</span>
+                </div>
+            </div>
+        </section>
+        {%- endif %}
 
-
-    <h2>Персонажи</h2>
-    {%- for character in user.characters -%}
-    {%- if user.characters.index(character) == 0 -%}
-    <details open>
-        {%- else -%}
-        <details>
-            {%- endif -%}
-
-            <summary><b>{{ character.name }}</b></summary>
-            <br />
-            <table>
-                <tr>
-                    <th>
-                        <h3 class="center">{{ character.name }}</h3>
-                    </th>
-                    <th>
-                        <h3 class="center">{{ character.weapon.name }}</h3>
-                    </th>
-                </tr>
-                <tr>
-                    <td>
-                        <p class="center"><img src="{{ character.icon }}"></p>
-                    </td>
-                    <td>
-                        <p class="center"><img src="{{ character.weapon.icon }}"></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <table>
-                            <tr>
-                                <td>Редкость</td>
-                                <td>{{ character.rarity }}</td>
-                            </tr>
-                            <tr>
-                                <td>Элемент</td>
-                                <td>{{ character.element }}</td>
-                            </tr>
-                            <tr>
-                                <td>Уровень</td>
-                                <td>{{ character.level }}</td>
-                            </tr>
-                            <tr>
-                                <td>Уровень дружбы</td>
-                                <td>{{ character.friendship }}</td>
-                            </tr>
-                            <tr>
-                                <td>Созвездий</td>
-                                <td>{{ character.constellation }}</td>
-                            </tr>
-                            <tr>
-                                <td>Артефакты</td>
-                                <td>
-                                    {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list
-                                    -%}
+        <section>
+            <h2>Персонажи</h2>
+            {%- set elements = {
+                'Pyro': ('Пиро', '#ef7938'),
+                'Hydro': ('Гидро', '#4cc2f1'),
+                'Anemo': ('Анемо', '#74c2a8'),
+                'Electro': ('Электро', '#af8ec1'),
+                'Dendro': ('Дендро', '#a5c83b'),
+                'Cryo': ('Крио', '#9fd6e3'),
+                'Geo': ('Гео', '#fab632')
+            } -%}
+            <div class="char-grid">
+                {%- for character in user.characters %}
+                <article class="char-card rarity-{{ character.rarity }}">
+                    <div class="char-head">
+                        <div class="char-avatar">
+                            <img src="{{ character.icon }}" alt="{{ character.name }}" loading="lazy" width="64" height="64">
+                        </div>
+                        <div class="char-title">
+                            <span class="char-name">{{ character.name }}</span>
+                            <div class="char-badges">
+                                <span class="stars">{{ '★' * character.rarity }}</span>
+                                {%- if character.element in elements %}
+                                <span class="badge element" style="color: {{ elements[character.element][1] }}">{{ elements[character.element][0] }}</span>
+                                {%- elif character.element %}
+                                <span class="badge">{{ character.element }}</span>
+                                {%- endif %}
+                                <span class="badge">Ур. {{ character.level }}</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="char-body">
+                        <dl class="kv-list">
+                            <div class="kv">
+                                <dt>Уровень дружбы</dt>
+                                <dd>{{ character.friendship }}</dd>
+                            </div>
+                            <div class="kv">
+                                <dt>Созвездия</dt>
+                                <dd>C{{ character.constellation }}</dd>
+                            </div>
+                            {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list %}
+                            {%- if sets %}
+                            <div class="kv">
+                                <dt>Артефакты</dt>
+                                <dd>
                                     {%- for name in sets|unique -%}
-                                    {{ sets.count(name) }} x {{ name }}<br>
+                                    {{ sets.count(name) }} x {{ name }}{% if not loop.last %}<br>{% endif %}
                                     {%- endfor -%}
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Наряды</td>
-                                <td>{{ character.outfits|join(", ", attribute="name") }}</td>
-                            </tr>
-                        </table>
-                    </td>
-                    <td valign="top">
-                        <table>
-                            <tr>
-                                <td>Название</td>
-                                <td>{{ character.weapon.name }}</td>
-                            </tr>
-                            <tr>
-                                <td>Редкость</td>
-                                <td>{{ character.weapon.rarity }}</td>
-                            </tr>
-                            <tr>
-                                <td>Уровень</td>
-                                <td>{{ character.weapon.level }}</td>
-                            </tr>
-                            <tr>
-                                <td>Пробуждение</td>
-                                <td>{{ character.weapon.refinement }}</td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </details>
-        {%- endfor -%}
+                                </dd>
+                            </div>
+                            {%- endif %}
+                            {%- if character.outfits %}
+                            <div class="kv">
+                                <dt>Наряды</dt>
+                                <dd>{{ character.outfits|join(", ", attribute="name") }}</dd>
+                            </div>
+                            {%- endif %}
+                        </dl>
+                        <div class="weapon-block">
+                            <img src="{{ character.weapon.icon }}" alt="{{ character.weapon.name }}" loading="lazy" width="52" height="52">
+                            <div class="weapon-info">
+                                <span class="weapon-name">{{ character.weapon.name }}</span>
+                                <span class="stars">{{ '★' * character.weapon.rarity }}</span>
+                                <span>Ур. {{ character.weapon.level }} · Пробуждение {{ character.weapon.refinement }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                {%- endfor %}
+            </div>
+        </section>
+    </main>
 
+    <footer>
+        <div class="ornament">✦</div>
+        Обновлено: {{ updated_at }}
+    </footer>
 </body>
+
+</html>
